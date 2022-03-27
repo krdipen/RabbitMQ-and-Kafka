@@ -1,10 +1,6 @@
 from myprofile.models import Inventory, Orders, Bills
 from celery import shared_task
 
-# from celery import Celery
-# app = Celery('tasks', backend='redis://10.17.50.173:6379', broken='pyamqp://krdipen:amazon@10.17.50.173:5672')
-# @app.task(acks_late=True)
-
 @shared_task
 def notification(orderid, type):
     with open("data/notifications.out", "a") as file:
@@ -13,7 +9,7 @@ def notification(orderid, type):
 @shared_task
 def fulfill(billid):
     bll = Bills.objects.get(id=billid)
-    ord = Orders.objects.get(id=bill.orderid)
+    ord = Orders.objects.get(id=bll.orderid)
     if ord.modified == bll.modified and ord.status == "in process":
         ord.status = "shipped"
         ord.save()
