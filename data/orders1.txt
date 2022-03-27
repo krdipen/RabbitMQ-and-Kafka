@@ -1,0 +1,5000 @@
+cancel, 0
+modify, 0, 13, 1, 12, 1, 4, 0
+cancel, 0
+place, Tamara Boggess, 13, 1, 7, 2, 14, 0
+modify, 0, 6, 0, 11, 2, 13, 0
+place, Natalie Maymi, 11, 2, 11, 0, 6, 1
+place, George Stokes, 13, 1, 9, 0, 15, 0
+place, Joyce Blandy, 8, 2, 2, 1, 14, 2
+place, Sandra Santana, 4, 0, 5, 1, 12, 2
+cancel, 3
+modify, 4, 2, 0, 2, 1, 1, 1
+place, Erik Wilson, 6, 2, 15, 2, 8, 2
+modify, 1, 10, 1, 10, 1, 8, 0
+place, Scott Hodges, 15, 0, 3, 2, 3, 2
+modify, 6, 9, 0, 13, 0, 6, 0
+place, James Dingle, 3, 0, 4, 2, 10, 1
+modify, 3, 5, 0, 12, 0, 3, 2
+place, Alice Sharpe, 9, 1, 12, 1, 9, 1
+modify, 9, 15, 1, 10, 0, 13, 2
+cancel, 7
+cancel, 2
+cancel, 3
+modify, 2, 1, 2, 5, 1, 6, 2
+modify, 9, 11, 0, 13, 2, 7, 1
+modify, 6, 3, 0, 14, 2, 13, 0
+modify, 6, 11, 1, 1, 2, 3, 2
+modify, 9, 8, 1, 4, 2, 8, 2
+cancel, 2
+modify, 0, 8, 0, 5, 0, 13, 0
+modify, 4, 7, 0, 13, 2, 4, 2
+place, Larry Edmonds, 2, 0, 8, 2, 4, 0
+cancel, 4
+place, Joyce Starr, 9, 1, 9, 2, 4, 2
+modify, 3, 4, 0, 13, 2, 2, 1
+place, Daniel Westlund, 15, 0, 5, 1, 15, 1
+cancel, 10
+modify, 0, 9, 2, 13, 2, 5, 2
+cancel, 5
+place, Julie Avila, 12, 0, 7, 0, 10, 1
+modify, 4, 10, 2, 4, 0, 1, 1
+modify, 4, 10, 0, 15, 1, 7, 2
+modify, 8, 1, 1, 4, 2, 7, 2
+cancel, 7
+place, Brian Ortego, 6, 0, 11, 0, 13, 1
+place, Amy Mahoney, 10, 0, 1, 2, 6, 0
+place, Daniel Skimehorn, 6, 2, 14, 1, 1, 0
+place, Kristen Nelsen, 1, 1, 14, 1, 4, 2
+cancel, 14
+cancel, 15
+modify, 14, 6, 1, 10, 0, 13, 2
+cancel, 9
+cancel, 1
+place, Shelley Cave, 8, 0, 12, 2, 6, 0
+cancel, 17
+cancel, 11
+modify, 12, 15, 0, 3, 1, 6, 2
+cancel, 6
+modify, 6, 5, 1, 5, 2, 10, 1
+cancel, 14
+modify, 15, 4, 2, 9, 2, 15, 1
+cancel, 8
+place, David Hostetler, 15, 2, 7, 2, 11, 2
+place, Jana Monty, 13, 2, 5, 1, 11, 2
+place, William Brown, 6, 1, 9, 1, 2, 1
+place, William Ardoin, 15, 1, 4, 0, 3, 1
+modify, 9, 15, 2, 7, 0, 7, 1
+modify, 11, 6, 1, 5, 0, 1, 2
+cancel, 19
+modify, 8, 5, 0, 2, 0, 8, 0
+modify, 21, 3, 0, 1, 0, 4, 1
+modify, 16, 6, 0, 3, 2, 13, 2
+modify, 19, 10, 1, 13, 1, 8, 0
+modify, 1, 10, 1, 7, 1, 7, 2
+cancel, 20
+place, Deloris Langworthy, 13, 2, 14, 2, 5, 1
+modify, 1, 2, 2, 10, 2, 10, 0
+place, Matthew Collis, 8, 0, 7, 0, 13, 2
+cancel, 19
+place, Jason Crider, 8, 2, 3, 2, 3, 2
+place, Harold Cambron, 12, 1, 12, 2, 6, 1
+modify, 3, 10, 2, 2, 2, 14, 0
+cancel, 8
+modify, 20, 7, 0, 13, 2, 10, 1
+place, Ashley Winston, 1, 1, 13, 2, 12, 0
+modify, 2, 13, 0, 2, 1, 12, 0
+place, Pamela Beauchemin, 13, 2, 13, 0, 15, 2
+modify, 22, 6, 2, 12, 1, 12, 0
+modify, 2, 12, 2, 6, 0, 4, 0
+place, Shannon Baxter, 14, 0, 12, 0, 10, 0
+place, Maria Mendoza, 4, 0, 11, 0, 8, 0
+place, George Pinney, 15, 1, 6, 1, 5, 2
+place, Angela Woods, 8, 1, 12, 0, 13, 1
+cancel, 25
+place, Laurel Jahn, 8, 2, 12, 1, 5, 0
+cancel, 15
+cancel, 13
+place, Kathy Lewis, 5, 0, 5, 1, 15, 2
+modify, 22, 13, 0, 8, 1, 3, 0
+cancel, 26
+place, Freddie Irwin, 7, 1, 14, 2, 8, 0
+modify, 0, 7, 0, 10, 0, 10, 0
+place, Ruth Val, 11, 1, 11, 0, 14, 0
+place, Bruce Goodness, 11, 1, 8, 0, 9, 0
+cancel, 9
+place, Ruth Gay, 13, 0, 6, 2, 1, 2
+cancel, 31
+modify, 30, 1, 2, 7, 2, 10, 1
+place, Roberta Pulliam, 2, 1, 14, 0, 5, 2
+modify, 20, 14, 2, 9, 1, 13, 2
+cancel, 10
+cancel, 2
+cancel, 16
+place, Lloyd Nitkowski, 4, 1, 10, 1, 4, 0
+modify, 32, 10, 1, 13, 0, 15, 2
+modify, 2, 8, 0, 14, 0, 13, 1
+modify, 37, 2, 0, 10, 0, 1, 0
+modify, 33, 12, 1, 9, 2, 13, 2
+modify, 11, 13, 1, 5, 0, 5, 0
+cancel, 39
+modify, 21, 6, 0, 7, 0, 6, 1
+modify, 26, 8, 2, 4, 0, 10, 0
+cancel, 17
+cancel, 40
+place, Jodie Hatley, 2, 1, 1, 1, 12, 1
+place, Anna Wilson, 13, 1, 12, 0, 2, 1
+place, Wilma Doherty, 13, 2, 10, 1, 10, 0
+cancel, 26
+place, Tony Zerger, 9, 0, 6, 0, 3, 1
+cancel, 38
+place, Barbara Dixon, 7, 2, 4, 1, 4, 0
+cancel, 27
+modify, 32, 3, 0, 14, 0, 9, 0
+cancel, 43
+place, Elsie Pond, 3, 2, 6, 0, 14, 0
+place, Allen Roza, 12, 1, 9, 0, 1, 0
+cancel, 8
+cancel, 9
+cancel, 37
+place, Nellie May, 4, 1, 15, 0, 3, 2
+cancel, 35
+modify, 20, 3, 0, 4, 1, 12, 1
+cancel, 13
+modify, 5, 3, 1, 15, 0, 8, 0
+modify, 41, 6, 0, 1, 0, 11, 2
+place, Ty Given, 11, 1, 13, 1, 9, 1
+place, Walter Patterson, 1, 1, 11, 2, 12, 1
+place, Lena Zabawa, 15, 1, 9, 0, 1, 1
+place, Steve Oneill, 15, 0, 6, 1, 6, 0
+modify, 25, 3, 0, 1, 2, 4, 1
+place, Raymond Hayes, 11, 2, 12, 2, 15, 2
+cancel, 9
+place, Penny Bruton, 6, 2, 4, 1, 5, 0
+place, Delma Theriault, 5, 1, 12, 0, 14, 2
+modify, 46, 8, 1, 13, 1, 2, 0
+cancel, 22
+modify, 23, 7, 0, 1, 2, 8, 2
+place, Bill Cormier, 8, 0, 2, 1, 10, 2
+cancel, 48
+cancel, 46
+modify, 39, 5, 0, 2, 2, 12, 0
+place, Kourtney Ryan, 15, 2, 15, 0, 3, 1
+cancel, 34
+cancel, 8
+place, Robert Mccall, 1, 1, 14, 0, 2, 1
+cancel, 49
+place, Joni Smith, 7, 1, 4, 1, 5, 0
+modify, 55, 14, 0, 15, 2, 14, 1
+cancel, 52
+place, Ida Turner, 6, 2, 11, 1, 4, 0
+cancel, 51
+modify, 7, 12, 2, 7, 2, 14, 2
+modify, 13, 9, 0, 14, 2, 13, 1
+cancel, 1
+cancel, 58
+modify, 16, 5, 2, 8, 2, 15, 0
+modify, 19, 7, 1, 3, 0, 10, 1
+modify, 55, 11, 2, 5, 0, 1, 0
+place, Wendy Nakamura, 15, 1, 15, 2, 9, 0
+cancel, 24
+cancel, 45
+cancel, 47
+cancel, 19
+modify, 44, 10, 1, 14, 1, 6, 1
+place, Samuel Camarillo, 13, 2, 2, 1, 3, 2
+cancel, 36
+cancel, 42
+modify, 27, 8, 0, 5, 1, 2, 2
+cancel, 33
+place, Diane Skelton, 1, 2, 14, 0, 14, 1
+place, Carolyn Tedder, 13, 2, 2, 2, 12, 1
+modify, 32, 9, 1, 1, 2, 6, 0
+place, Ray Willie, 7, 1, 9, 1, 7, 1
+cancel, 41
+modify, 28, 12, 2, 2, 0, 10, 0
+cancel, 26
+place, Kelly Edwards, 13, 2, 7, 0, 11, 2
+modify, 39, 10, 2, 12, 1, 13, 1
+cancel, 30
+place, Sophie Tigner, 3, 1, 1, 2, 11, 2
+cancel, 58
+cancel, 31
+modify, 47, 2, 1, 8, 2, 9, 2
+cancel, 10
+cancel, 55
+cancel, 1
+modify, 31, 15, 1, 1, 0, 3, 1
+cancel, 51
+cancel, 66
+place, Laurene Ackies, 11, 0, 1, 0, 4, 0
+place, Gloria Cambre, 15, 0, 7, 0, 7, 0
+cancel, 2
+cancel, 11
+modify, 25, 11, 1, 1, 2, 4, 2
+modify, 68, 10, 1, 13, 0, 2, 0
+place, John Mcintyre, 8, 2, 10, 1, 12, 1
+cancel, 49
+place, Armando Nostrand, 13, 1, 12, 0, 5, 2
+modify, 30, 15, 2, 7, 2, 10, 2
+cancel, 57
+cancel, 13
+modify, 16, 12, 2, 1, 1, 9, 2
+modify, 60, 11, 0, 2, 0, 10, 2
+place, Thomas Miller, 13, 1, 6, 1, 7, 0
+place, Joel Gonzalez, 6, 1, 13, 2, 7, 0
+cancel, 60
+place, James Walker, 6, 1, 2, 1, 14, 1
+cancel, 34
+cancel, 72
+cancel, 44
+cancel, 33
+modify, 8, 11, 2, 15, 1, 1, 0
+place, Marc Omar, 12, 2, 10, 2, 2, 0
+cancel, 2
+place, Christopher Fuller, 15, 2, 15, 1, 8, 0
+cancel, 25
+place, Andrew Nash, 12, 2, 7, 2, 12, 1
+modify, 70, 9, 0, 3, 2, 10, 2
+cancel, 58
+cancel, 64
+modify, 6, 7, 0, 1, 1, 9, 2
+place, John Bonilla, 1, 1, 13, 2, 8, 1
+modify, 66, 9, 0, 15, 0, 14, 1
+modify, 31, 11, 2, 4, 1, 5, 0
+cancel, 14
+place, Helen Swank, 15, 0, 6, 0, 8, 0
+cancel, 55
+place, Ethel Oneil, 8, 1, 9, 1, 6, 0
+place, Greta Turner, 15, 0, 4, 1, 14, 1
+place, Evelyn Flowers, 11, 1, 2, 2, 8, 0
+place, Carlos Reyna, 7, 0, 3, 0, 11, 2
+place, Justin Paulk, 15, 0, 4, 2, 3, 2
+cancel, 65
+modify, 53, 5, 1, 4, 2, 6, 2
+modify, 62, 2, 1, 14, 2, 6, 1
+cancel, 1
+modify, 61, 1, 1, 15, 1, 15, 0
+place, Lula Prezzia, 8, 1, 10, 1, 6, 1
+place, Lynn Lane, 9, 0, 4, 0, 4, 0
+place, Lilla Greenhaw, 14, 1, 4, 2, 2, 2
+modify, 47, 6, 1, 11, 2, 14, 0
+cancel, 2
+place, Sara Bahena, 4, 2, 11, 0, 11, 2
+modify, 57, 13, 1, 14, 0, 11, 2
+place, Edward Smith, 1, 1, 10, 1, 12, 0
+place, James Connor, 10, 0, 14, 0, 11, 2
+cancel, 39
+cancel, 47
+cancel, 19
+modify, 65, 5, 2, 5, 0, 2, 1
+modify, 90, 2, 1, 11, 1, 1, 1
+modify, 53, 15, 2, 3, 2, 5, 2
+place, Nina Thompson, 12, 1, 2, 0, 1, 0
+place, Cathy Delvalle, 9, 1, 10, 0, 13, 1
+place, Debra Anderson, 2, 0, 1, 2, 14, 0
+place, Dane Lane, 9, 0, 3, 1, 3, 1
+modify, 38, 9, 1, 7, 1, 11, 0
+place, Donna Restrepo, 11, 2, 15, 2, 9, 1
+modify, 84, 11, 1, 11, 1, 6, 2
+place, Eugene Yates, 10, 0, 15, 1, 15, 0
+place, Todd Balkus, 3, 2, 14, 0, 6, 1
+cancel, 59
+place, Virginia Walker, 1, 2, 9, 1, 9, 0
+cancel, 25
+modify, 71, 13, 1, 5, 0, 10, 0
+place, Stephen Savage, 8, 2, 5, 1, 15, 1
+cancel, 69
+place, David Gayne, 5, 1, 1, 0, 9, 2
+modify, 43, 2, 2, 13, 0, 3, 1
+cancel, 44
+cancel, 52
+place, Sean Meyer, 10, 0, 9, 0, 15, 2
+cancel, 100
+cancel, 69
+cancel, 63
+modify, 75, 13, 0, 2, 2, 5, 2
+cancel, 23
+cancel, 73
+modify, 73, 11, 1, 15, 1, 4, 2
+cancel, 66
+modify, 74, 15, 1, 15, 1, 6, 2
+cancel, 12
+modify, 29, 9, 0, 11, 1, 6, 1
+place, Henry Owens, 15, 1, 6, 1, 15, 0
+modify, 11, 10, 2, 10, 1, 1, 1
+modify, 43, 13, 2, 6, 1, 5, 0
+place, Thomas White, 7, 2, 4, 0, 1, 0
+modify, 6, 13, 0, 15, 0, 11, 2
+place, David Haynes, 6, 1, 12, 0, 9, 1
+modify, 7, 4, 2, 3, 0, 2, 0
+cancel, 5
+cancel, 54
+modify, 57, 8, 2, 8, 2, 6, 0
+modify, 95, 11, 2, 8, 2, 2, 2
+cancel, 66
+place, James Echols, 2, 2, 7, 0, 1, 1
+modify, 87, 3, 1, 3, 2, 8, 2
+place, Ralph Chung, 11, 0, 2, 0, 2, 0
+cancel, 47
+modify, 74, 6, 0, 12, 0, 3, 2
+place, Gordon Cardwell, 2, 2, 2, 1, 8, 0
+cancel, 28
+place, Casey Gilbar, 14, 2, 5, 2, 11, 1
+cancel, 34
+place, Ella Rodriguez, 14, 1, 1, 1, 4, 2
+modify, 18, 3, 1, 13, 1, 1, 0
+place, Maxine Herrington, 15, 1, 14, 1, 1, 2
+modify, 87, 7, 1, 12, 0, 4, 2
+place, Amanda Pierson, 13, 1, 6, 1, 8, 2
+place, Trisha Truett, 9, 0, 2, 1, 1, 2
+cancel, 9
+modify, 61, 4, 2, 11, 2, 7, 2
+place, Wanda Villasenor, 7, 0, 10, 1, 15, 0
+cancel, 44
+place, Daniel Adkins, 6, 2, 2, 1, 1, 2
+place, Marjorie Allen, 5, 2, 13, 0, 7, 0
+place, Jean Brown, 14, 1, 15, 1, 6, 2
+cancel, 107
+modify, 90, 10, 2, 4, 1, 10, 1
+place, Trina Cannon, 4, 2, 5, 0, 13, 0
+place, Lisa Mcleod, 15, 1, 5, 1, 1, 0
+modify, 115, 14, 0, 14, 2, 13, 0
+modify, 38, 4, 2, 1, 1, 15, 0
+modify, 21, 3, 1, 11, 0, 1, 0
+place, Heather Austin, 10, 0, 6, 2, 6, 1
+cancel, 109
+cancel, 104
+modify, 79, 10, 1, 11, 0, 2, 0
+modify, 6, 11, 2, 2, 0, 8, 1
+cancel, 8
+modify, 85, 2, 2, 6, 2, 2, 2
+place, Thomas Sumner, 11, 1, 13, 2, 2, 2
+modify, 11, 1, 2, 12, 1, 1, 0
+place, Linda Garcia, 6, 1, 6, 2, 9, 0
+cancel, 37
+cancel, 117
+cancel, 39
+modify, 73, 1, 1, 2, 2, 7, 1
+cancel, 21
+modify, 75, 10, 1, 1, 2, 3, 0
+cancel, 120
+modify, 97, 8, 1, 12, 2, 1, 0
+place, Vanessa Payne, 13, 2, 9, 0, 14, 1
+place, Andrew Morales, 12, 1, 8, 1, 1, 1
+place, Jeffrey Simpson, 15, 2, 7, 0, 8, 2
+place, Leigh Parker, 9, 0, 12, 0, 8, 2
+place, Yvonne Thill, 14, 0, 10, 1, 13, 0
+place, Thelma Imes, 12, 0, 14, 1, 2, 2
+modify, 50, 7, 2, 5, 2, 1, 1
+modify, 89, 7, 1, 3, 1, 10, 1
+place, Kelly Sears, 12, 0, 14, 2, 13, 0
+place, Michelle Higginbotham, 9, 0, 6, 1, 9, 1
+place, Lawrence Davis, 6, 0, 13, 0, 2, 2
+modify, 116, 10, 2, 15, 0, 3, 2
+place, Timothy Underwood, 12, 2, 4, 1, 7, 1
+modify, 47, 11, 2, 3, 0, 11, 1
+modify, 4, 6, 1, 14, 1, 5, 1
+place, Anita Mcguinness, 12, 2, 6, 1, 5, 0
+cancel, 67
+modify, 121, 6, 1, 2, 1, 13, 2
+place, Allison Sallas, 14, 2, 13, 1, 4, 0
+modify, 9, 15, 0, 15, 2, 2, 1
+place, Charles Hansen, 15, 1, 8, 1, 7, 1
+cancel, 95
+cancel, 94
+cancel, 64
+modify, 82, 6, 0, 15, 0, 9, 2
+place, Katy Hawkins, 8, 1, 15, 2, 2, 2
+place, James White, 3, 2, 5, 1, 13, 0
+modify, 65, 8, 0, 12, 2, 10, 0
+place, Florence Mitchell, 5, 2, 3, 0, 10, 0
+place, Meta Morgan, 13, 2, 9, 1, 12, 1
+cancel, 37
+cancel, 129
+place, Mark Merino, 4, 0, 8, 1, 15, 1
+modify, 127, 14, 1, 14, 2, 13, 0
+modify, 99, 8, 1, 7, 0, 14, 0
+cancel, 23
+cancel, 52
+cancel, 53
+cancel, 81
+place, James Lively, 8, 0, 7, 1, 5, 0
+cancel, 118
+cancel, 101
+modify, 3, 3, 1, 10, 0, 9, 0
+modify, 52, 2, 1, 15, 1, 4, 1
+modify, 19, 10, 1, 9, 0, 8, 1
+place, Vickie Lagatta, 7, 0, 3, 2, 2, 1
+cancel, 41
+cancel, 3
+cancel, 35
+cancel, 79
+cancel, 106
+modify, 97, 3, 0, 7, 0, 11, 1
+modify, 90, 3, 0, 13, 0, 12, 0
+cancel, 112
+place, Justin Crouch, 3, 2, 5, 1, 1, 1
+place, Julie Czapla, 2, 0, 6, 1, 8, 0
+cancel, 13
+modify, 67, 13, 2, 7, 1, 4, 2
+place, Janeen Mcdonald, 3, 0, 12, 2, 11, 2
+place, Robin Wilkerson, 15, 2, 6, 0, 6, 2
+place, Morris Myers, 12, 1, 11, 2, 2, 2
+cancel, 114
+place, Carmen Minutillo, 9, 0, 3, 0, 14, 1
+place, Joseph Bell, 1, 1, 6, 0, 8, 2
+cancel, 30
+cancel, 48
+cancel, 14
+cancel, 39
+place, Tiffany Freeman, 12, 2, 3, 0, 14, 2
+place, Stephanie Burdick, 3, 1, 3, 2, 10, 2
+cancel, 133
+place, Eneida Mathers, 1, 2, 14, 0, 4, 1
+cancel, 90
+modify, 10, 3, 1, 15, 0, 10, 0
+place, Franklin Levenstein, 11, 1, 6, 1, 7, 1
+modify, 135, 11, 2, 1, 2, 9, 2
+modify, 128, 10, 1, 6, 0, 7, 0
+cancel, 80
+place, Lance Anspach, 11, 0, 3, 2, 6, 1
+place, Mary Brooks, 6, 1, 11, 2, 11, 1
+place, David Westbrook, 11, 1, 4, 1, 6, 1
+cancel, 70
+place, Daniel Lumsden, 1, 1, 14, 1, 11, 1
+place, Charles Miller, 1, 1, 14, 0, 1, 2
+modify, 136, 3, 2, 14, 2, 7, 1
+modify, 30, 3, 1, 7, 1, 14, 2
+place, Rebecca Williams, 3, 0, 15, 1, 13, 1
+modify, 50, 14, 1, 5, 1, 15, 1
+modify, 74, 1, 2, 3, 0, 5, 2
+modify, 97, 9, 1, 4, 2, 10, 0
+place, Barbara Eslinger, 6, 0, 11, 1, 5, 1
+place, Tom Lopes, 5, 0, 5, 2, 12, 1
+place, Sandra Waite, 15, 0, 9, 2, 5, 0
+modify, 65, 5, 1, 9, 2, 1, 2
+cancel, 56
+cancel, 119
+place, Kathy Cameron, 12, 1, 11, 0, 15, 0
+modify, 110, 6, 0, 2, 0, 11, 2
+cancel, 6
+place, Stephen Walters, 8, 1, 4, 2, 8, 2
+cancel, 91
+place, Dorothy Gayer, 2, 0, 7, 1, 2, 1
+place, Adam Lira, 7, 0, 11, 1, 6, 0
+cancel, 14
+cancel, 16
+modify, 165, 2, 1, 4, 2, 7, 1
+place, John King, 10, 1, 6, 2, 4, 2
+modify, 134, 13, 1, 11, 1, 14, 2
+cancel, 7
+place, David Casarez, 9, 1, 4, 1, 5, 0
+cancel, 2
+modify, 19, 12, 1, 2, 0, 4, 0
+modify, 8, 9, 2, 9, 0, 9, 2
+cancel, 21
+place, Charles Corley, 13, 2, 1, 1, 4, 0
+cancel, 129
+modify, 151, 12, 2, 13, 1, 2, 1
+modify, 66, 1, 1, 5, 1, 2, 0
+modify, 121, 8, 2, 8, 0, 6, 2
+cancel, 51
+modify, 112, 13, 0, 13, 2, 1, 1
+modify, 91, 11, 2, 12, 2, 3, 1
+cancel, 65
+place, Maria Edmond, 8, 0, 12, 0, 6, 0
+place, Robert Scott, 5, 0, 13, 2, 3, 1
+place, Melba Elmore, 5, 0, 12, 0, 5, 0
+modify, 15, 13, 0, 11, 0, 6, 0
+cancel, 89
+place, Heather Parks, 13, 1, 6, 0, 15, 2
+cancel, 102
+modify, 169, 5, 2, 2, 0, 3, 1
+modify, 2, 5, 1, 14, 1, 10, 2
+place, Judith Ogden, 12, 2, 8, 0, 7, 2
+modify, 44, 10, 2, 7, 0, 6, 2
+cancel, 103
+modify, 111, 5, 0, 12, 2, 6, 2
+place, Edward Turrey, 1, 1, 11, 2, 10, 2
+modify, 75, 5, 0, 11, 1, 4, 1
+place, Fred Feagin, 12, 2, 5, 1, 1, 1
+place, Latrice Heard, 11, 2, 2, 2, 5, 0
+modify, 67, 2, 0, 8, 2, 12, 0
+modify, 100, 13, 1, 3, 0, 12, 1
+cancel, 155
+cancel, 24
+place, Robert Hart, 15, 2, 5, 1, 3, 1
+cancel, 18
+modify, 96, 5, 0, 8, 2, 13, 0
+modify, 42, 11, 1, 2, 0, 5, 0
+cancel, 82
+modify, 130, 3, 1, 14, 2, 2, 0
+place, Ruth Christman, 13, 2, 9, 2, 15, 1
+cancel, 64
+cancel, 12
+cancel, 172
+place, Diane King, 2, 0, 9, 1, 8, 0
+modify, 142, 8, 1, 7, 0, 3, 1
+place, Gregory Mullet, 10, 0, 14, 2, 14, 2
+modify, 139, 8, 0, 10, 0, 8, 1
+place, Alberto Fortner, 13, 2, 5, 0, 7, 0
+cancel, 153
+modify, 5, 10, 2, 7, 0, 6, 0
+cancel, 152
+cancel, 4
+cancel, 178
+cancel, 122
+cancel, 131
+cancel, 93
+place, Geneva White, 15, 2, 7, 1, 8, 0
+cancel, 20
+modify, 50, 8, 0, 2, 2, 11, 1
+modify, 128, 10, 1, 3, 0, 13, 1
+place, Phyllis Sobel, 6, 2, 11, 1, 7, 2
+modify, 135, 9, 2, 11, 0, 7, 0
+place, Madeline Bailey, 9, 1, 14, 1, 7, 2
+place, Charles Minshall, 6, 0, 7, 2, 10, 2
+place, Maureen Mallard, 7, 1, 11, 2, 11, 2
+place, Richard Antle, 4, 2, 13, 2, 11, 0
+cancel, 86
+place, John Hudson, 15, 1, 10, 0, 10, 1
+cancel, 63
+place, Mary Manson, 11, 1, 10, 0, 10, 0
+modify, 153, 2, 0, 4, 1, 3, 0
+place, Ann Scott, 3, 1, 7, 1, 10, 1
+cancel, 109
+modify, 105, 14, 2, 11, 1, 1, 0
+modify, 41, 10, 0, 7, 1, 4, 1
+modify, 145, 10, 1, 11, 2, 4, 2
+cancel, 61
+place, Luisa Sheets, 15, 0, 15, 1, 15, 1
+place, Vera Elliott, 11, 1, 14, 2, 6, 2
+cancel, 43
+place, Rosa Finnemore, 4, 0, 3, 2, 11, 2
+modify, 171, 13, 0, 1, 0, 6, 0
+cancel, 42
+cancel, 167
+place, Ralph Cheatham, 8, 1, 14, 1, 3, 0
+modify, 86, 9, 2, 4, 1, 13, 1
+place, William Cobb, 4, 2, 14, 0, 12, 1
+modify, 134, 10, 2, 13, 0, 15, 0
+place, Denise Weigle, 15, 1, 3, 1, 10, 2
+modify, 20, 1, 1, 14, 0, 3, 2
+modify, 159, 13, 1, 10, 0, 4, 0
+cancel, 155
+place, Howard Castro, 4, 2, 11, 2, 11, 1
+modify, 93, 12, 0, 13, 1, 4, 2
+modify, 46, 10, 2, 5, 0, 6, 0
+cancel, 148
+cancel, 88
+place, Gale Mader, 15, 1, 10, 0, 9, 2
+cancel, 162
+place, Scott Larkins, 12, 1, 4, 1, 2, 0
+cancel, 135
+modify, 27, 5, 0, 14, 2, 9, 1
+cancel, 111
+modify, 58, 7, 0, 6, 0, 13, 2
+modify, 185, 4, 0, 4, 1, 8, 1
+modify, 55, 4, 0, 14, 1, 9, 1
+place, Marcelino Rogers, 2, 2, 12, 0, 1, 2
+modify, 67, 10, 0, 5, 1, 1, 2
+place, Katherine Andrews, 3, 2, 13, 2, 10, 2
+place, Tyrone Encarnacion, 12, 2, 14, 0, 2, 2
+modify, 99, 15, 1, 7, 1, 4, 2
+cancel, 181
+cancel, 23
+modify, 125, 2, 2, 1, 1, 1, 2
+place, Floyd Brody, 6, 1, 10, 0, 6, 0
+cancel, 82
+cancel, 167
+cancel, 161
+place, Gregory Rodriguez, 1, 0, 13, 2, 7, 1
+modify, 93, 15, 0, 4, 1, 10, 0
+modify, 93, 9, 1, 2, 2, 13, 2
+modify, 134, 10, 2, 13, 0, 1, 2
+place, Rosaline Sims, 5, 0, 12, 2, 3, 1
+modify, 92, 1, 0, 9, 2, 5, 0
+place, Lisa Rather, 10, 0, 11, 2, 15, 0
+cancel, 41
+cancel, 204
+cancel, 114
+place, Jonathan Garland, 1, 1, 3, 1, 3, 1
+place, Sara Mclean, 9, 2, 8, 1, 1, 1
+place, Vince Pellegrin, 4, 0, 12, 0, 11, 0
+place, Cheryl Carey, 14, 0, 6, 0, 1, 2
+modify, 127, 9, 0, 9, 1, 12, 0
+modify, 71, 9, 0, 12, 2, 13, 0
+cancel, 130
+modify, 207, 3, 2, 4, 2, 2, 1
+place, Joyce Rodriguez, 2, 0, 15, 1, 5, 2
+modify, 138, 3, 2, 15, 2, 12, 0
+cancel, 155
+modify, 126, 13, 1, 14, 2, 4, 0
+cancel, 37
+modify, 173, 11, 1, 6, 0, 14, 0
+place, James Godfrey, 13, 1, 8, 0, 13, 0
+modify, 178, 3, 0, 12, 0, 14, 0
+modify, 150, 4, 1, 7, 1, 12, 1
+cancel, 40
+modify, 6, 8, 0, 7, 1, 3, 1
+place, Richard White, 1, 2, 4, 0, 4, 1
+cancel, 93
+place, Diane Foster, 8, 1, 1, 1, 12, 0
+place, Ronald Ortiz, 10, 0, 6, 2, 5, 0
+modify, 38, 13, 2, 5, 2, 8, 0
+cancel, 64
+cancel, 70
+place, Claire Minjares, 2, 2, 12, 0, 2, 1
+modify, 30, 11, 1, 10, 0, 8, 1
+place, Brandon Googe, 10, 2, 4, 1, 2, 2
+cancel, 135
+modify, 141, 9, 0, 8, 2, 12, 2
+place, Christine Nelson, 12, 1, 2, 2, 7, 2
+modify, 209, 2, 1, 13, 0, 9, 2
+place, Ryan Formica, 4, 0, 13, 2, 14, 2
+cancel, 71
+modify, 176, 14, 0, 4, 2, 3, 0
+modify, 166, 9, 2, 12, 2, 1, 0
+place, Mary Ahlstrom, 4, 1, 15, 2, 15, 2
+modify, 31, 8, 0, 13, 1, 2, 2
+cancel, 97
+cancel, 46
+cancel, 161
+cancel, 47
+cancel, 173
+cancel, 93
+modify, 11, 6, 0, 6, 1, 4, 1
+modify, 46, 3, 1, 5, 0, 6, 0
+cancel, 124
+modify, 35, 12, 2, 5, 1, 7, 1
+cancel, 130
+place, Susan Garcia, 6, 1, 13, 2, 5, 2
+cancel, 14
+modify, 23, 3, 0, 3, 0, 9, 2
+modify, 133, 12, 0, 5, 1, 13, 0
+cancel, 119
+place, Rose Cobb, 4, 2, 9, 1, 7, 0
+place, Sandra Knutson, 14, 0, 6, 2, 9, 2
+place, Edward Mueller, 11, 2, 9, 0, 11, 0
+modify, 123, 14, 0, 3, 0, 12, 0
+place, James Mcgough, 3, 0, 9, 1, 3, 1
+cancel, 37
+modify, 107, 5, 1, 7, 1, 6, 1
+place, Nancy Klug, 9, 1, 13, 2, 2, 0
+place, Rayford Mckelvey, 6, 1, 8, 1, 9, 2
+place, Sharon Waits, 15, 1, 13, 0, 13, 2
+modify, 215, 11, 2, 2, 0, 1, 2
+cancel, 97
+modify, 202, 1, 0, 3, 1, 14, 1
+cancel, 146
+place, Linda Caldwell, 1, 2, 8, 0, 14, 2
+cancel, 66
+modify, 156, 5, 0, 14, 2, 10, 0
+place, John Kaua, 7, 2, 3, 0, 5, 2
+cancel, 146
+cancel, 151
+place, Domingo Lawson, 2, 1, 10, 0, 7, 2
+cancel, 224
+cancel, 203
+cancel, 7
+cancel, 43
+modify, 74, 13, 0, 4, 2, 6, 0
+place, Lee Eberheart, 3, 0, 6, 0, 6, 2
+modify, 57, 3, 1, 7, 1, 11, 0
+place, Carmen Leslie, 4, 2, 1, 1, 15, 2
+modify, 145, 4, 2, 4, 1, 2, 1
+cancel, 116
+place, Sylvia Richardson, 6, 0, 6, 2, 9, 2
+cancel, 120
+modify, 156, 3, 1, 8, 2, 3, 2
+cancel, 56
+place, Rhonda Atkinson, 10, 0, 2, 0, 13, 2
+cancel, 203
+modify, 151, 10, 2, 4, 2, 15, 2
+place, Paulette Benthall, 14, 1, 9, 2, 3, 2
+place, Kenneth Pinedo, 11, 1, 7, 1, 6, 0
+modify, 130, 14, 1, 14, 1, 10, 1
+cancel, 55
+cancel, 186
+modify, 119, 2, 0, 5, 0, 10, 1
+place, Linda Hammond, 11, 1, 7, 2, 14, 2
+place, Samantha Whitmore, 6, 1, 14, 1, 15, 2
+cancel, 52
+modify, 69, 14, 1, 12, 2, 10, 2
+place, Gloria Ramirez, 8, 2, 13, 1, 15, 2
+place, Laura Hillegas, 13, 0, 14, 0, 10, 1
+cancel, 96
+place, Jason Jones, 11, 2, 9, 2, 7, 1
+cancel, 40
+cancel, 95
+modify, 134, 12, 1, 6, 2, 10, 0
+place, Juliana Smith, 9, 2, 7, 0, 6, 2
+modify, 79, 10, 0, 4, 1, 11, 2
+place, Eileen Caro, 7, 2, 1, 1, 12, 1
+place, Nora Pacheco, 5, 2, 9, 0, 6, 2
+cancel, 186
+modify, 150, 14, 2, 7, 2, 9, 0
+place, William Roe, 2, 1, 15, 0, 2, 1
+place, Rufus Siddoway, 11, 2, 13, 1, 6, 0
+place, Audrey Pack, 9, 0, 10, 1, 11, 0
+cancel, 182
+cancel, 64
+place, Larry Bradshaw, 14, 2, 12, 2, 15, 1
+place, Colleen Gonzalez, 12, 1, 1, 0, 15, 2
+place, Charisse Redfox, 7, 0, 1, 2, 10, 0
+place, Sheena Stephens, 11, 2, 2, 0, 1, 2
+place, Carlton Gammon, 7, 2, 3, 0, 13, 1
+cancel, 225
+cancel, 193
+place, Mary Alston, 7, 1, 2, 1, 2, 2
+modify, 237, 2, 2, 10, 0, 1, 0
+place, Ronald Haddad, 15, 0, 14, 2, 14, 0
+place, Joseph Gomez, 3, 1, 6, 0, 1, 1
+modify, 60, 6, 1, 11, 0, 4, 1
+modify, 88, 11, 1, 5, 1, 9, 0
+place, Silvia Rodriquez, 6, 2, 13, 2, 13, 1
+modify, 62, 2, 2, 3, 1, 2, 0
+place, Brian Velasco, 14, 2, 6, 1, 8, 1
+modify, 8, 1, 2, 14, 2, 13, 1
+place, Walter King, 9, 2, 15, 1, 9, 0
+modify, 11, 12, 2, 2, 1, 15, 0
+cancel, 219
+cancel, 246
+cancel, 100
+modify, 68, 2, 1, 15, 1, 1, 2
+cancel, 195
+place, Scott Williams, 15, 2, 10, 0, 10, 2
+cancel, 5
+modify, 169, 9, 0, 1, 1, 11, 1
+place, Vincent Kendrick, 9, 0, 7, 1, 11, 1
+modify, 91, 14, 0, 15, 0, 1, 2
+cancel, 44
+modify, 158, 14, 1, 14, 0, 13, 2
+place, Richard Carroll, 2, 0, 4, 2, 12, 2
+cancel, 55
+cancel, 223
+cancel, 28
+cancel, 49
+place, Jody Mcmeen, 14, 2, 9, 2, 1, 2
+place, Karen Malady, 9, 2, 13, 1, 11, 2
+modify, 125, 2, 0, 2, 2, 5, 2
+cancel, 23
+place, Charles Myers, 15, 0, 6, 1, 13, 2
+place, Lindsay Flores, 15, 0, 7, 0, 12, 2
+modify, 246, 6, 1, 1, 1, 3, 0
+cancel, 51
+cancel, 260
+cancel, 13
+place, Jake Godzik, 5, 1, 6, 2, 13, 2
+place, Latosha Cardenas, 12, 0, 3, 1, 11, 0
+place, John Bates, 9, 0, 15, 0, 15, 1
+modify, 126, 12, 0, 3, 0, 7, 1
+cancel, 235
+cancel, 35
+place, Jennifer Montgomery, 3, 1, 13, 1, 4, 1
+place, Matthew Mckinley, 7, 0, 9, 1, 10, 0
+place, Anna Bull, 4, 1, 14, 2, 7, 0
+cancel, 173
+place, Deana Fanno, 13, 0, 14, 2, 13, 1
+modify, 238, 2, 2, 9, 2, 4, 1
+place, Michael Bollman, 14, 2, 3, 2, 10, 0
+cancel, 47
+place, Amanda Nester, 12, 1, 14, 0, 15, 2
+place, Orlando Terranova, 8, 2, 11, 2, 2, 0
+place, Daniel Freeman, 1, 1, 6, 1, 11, 0
+modify, 247, 1, 1, 8, 1, 5, 1
+cancel, 54
+modify, 1, 4, 1, 14, 0, 3, 2
+cancel, 51
+place, Adela Spence, 5, 1, 8, 1, 15, 2
+modify, 11, 12, 0, 1, 1, 7, 2
+cancel, 82
+modify, 12, 10, 0, 15, 0, 13, 2
+cancel, 110
+place, Stacy Hickman, 2, 1, 11, 2, 9, 2
+place, Francisco Carr, 15, 1, 10, 1, 9, 1
+place, Kim Bethea, 14, 2, 6, 2, 6, 2
+modify, 108, 9, 2, 10, 2, 5, 0
+cancel, 202
+modify, 17, 6, 1, 3, 2, 14, 0
+modify, 150, 3, 2, 15, 2, 4, 2
+cancel, 192
+modify, 199, 2, 2, 4, 0, 9, 1
+place, Esteban Johnson, 5, 2, 5, 1, 5, 2
+modify, 220, 15, 2, 14, 2, 1, 1
+cancel, 28
+modify, 59, 5, 0, 12, 1, 6, 0
+modify, 182, 9, 1, 2, 1, 1, 1
+cancel, 177
+modify, 25, 3, 1, 6, 0, 8, 1
+modify, 192, 4, 0, 9, 1, 14, 2
+modify, 275, 13, 1, 14, 1, 2, 2
+cancel, 81
+cancel, 43
+place, Martha Hatcher, 4, 1, 7, 2, 11, 0
+place, Charles Ferguson, 8, 1, 1, 0, 8, 2
+modify, 248, 4, 2, 7, 0, 8, 1
+cancel, 187
+cancel, 46
+place, Robert Mcguire, 3, 0, 7, 2, 11, 1
+cancel, 186
+cancel, 44
+place, Harold Dillard, 3, 2, 10, 0, 13, 2
+cancel, 273
+modify, 242, 13, 2, 10, 2, 2, 2
+cancel, 98
+place, Mary Finnie, 15, 1, 6, 2, 14, 0
+modify, 50, 12, 1, 1, 0, 3, 2
+modify, 185, 15, 0, 3, 0, 2, 0
+place, Margaret Dimartino, 8, 1, 4, 2, 11, 2
+place, Lonnie Gonzalez, 8, 1, 15, 0, 4, 2
+modify, 223, 11, 0, 15, 0, 8, 1
+modify, 165, 9, 2, 9, 0, 10, 1
+cancel, 196
+cancel, 169
+place, Asia Crespino, 2, 0, 14, 1, 12, 2
+place, Mary Hale, 15, 2, 13, 0, 13, 0
+modify, 135, 12, 2, 13, 0, 2, 2
+cancel, 166
+modify, 0, 5, 1, 6, 0, 2, 0
+modify, 27, 9, 2, 3, 0, 6, 1
+cancel, 287
+cancel, 120
+place, Cheryl Clark, 4, 1, 4, 2, 1, 1
+modify, 292, 14, 2, 4, 1, 1, 2
+place, Patricia Fogle, 1, 1, 11, 0, 8, 2
+place, Lillian Moreno, 11, 2, 15, 2, 14, 2
+cancel, 208
+modify, 128, 1, 2, 15, 2, 5, 2
+modify, 2, 8, 0, 4, 0, 5, 0
+place, Jose Ortega, 9, 1, 11, 1, 14, 0
+modify, 246, 15, 0, 2, 2, 11, 0
+modify, 219, 9, 2, 15, 0, 13, 1
+modify, 79, 12, 1, 11, 1, 8, 2
+cancel, 208
+cancel, 111
+cancel, 198
+modify, 230, 13, 0, 13, 2, 8, 0
+modify, 204, 5, 2, 6, 2, 3, 0
+modify, 195, 10, 0, 9, 2, 5, 1
+modify, 252, 7, 0, 5, 0, 8, 1
+modify, 295, 8, 0, 3, 0, 12, 1
+place, Gracie Mills, 9, 0, 6, 0, 10, 0
+modify, 133, 15, 0, 15, 1, 10, 2
+modify, 279, 1, 0, 12, 1, 2, 0
+cancel, 77
+modify, 194, 14, 2, 10, 1, 15, 2
+modify, 227, 1, 1, 12, 2, 3, 0
+cancel, 292
+place, Helen Lefkowitz, 10, 1, 2, 1, 3, 1
+modify, 264, 4, 0, 8, 2, 5, 0
+place, Paul Kolter, 9, 0, 5, 0, 3, 1
+modify, 34, 10, 2, 7, 0, 3, 2
+place, Troy Smith, 7, 2, 13, 1, 11, 1
+place, William Oestmann, 13, 2, 1, 0, 1, 2
+place, Agnes Winter, 11, 0, 2, 1, 12, 2
+modify, 146, 13, 2, 8, 2, 3, 0
+cancel, 255
+modify, 75, 2, 0, 7, 1, 4, 2
+place, Woodrow Jackson, 9, 1, 11, 0, 12, 2
+place, Mary Smith, 2, 2, 10, 1, 5, 0
+cancel, 143
+modify, 70, 2, 0, 12, 2, 14, 1
+place, Crystal Sanders, 4, 1, 7, 2, 8, 0
+cancel, 51
+modify, 287, 5, 2, 2, 1, 14, 0
+cancel, 107
+cancel, 187
+place, Barbara Johnson, 11, 0, 5, 2, 1, 0
+modify, 109, 6, 1, 5, 1, 6, 0
+place, Allen Clark, 7, 2, 9, 0, 1, 1
+modify, 244, 11, 1, 10, 2, 13, 2
+place, James Eley, 3, 1, 14, 0, 3, 1
+place, Ryan Larsen, 3, 2, 6, 1, 3, 2
+place, Fred Murphy, 14, 1, 8, 1, 11, 1
+place, Debra Burgos, 5, 0, 12, 2, 3, 1
+modify, 99, 9, 0, 15, 1, 11, 0
+cancel, 1
+cancel, 216
+place, Luz Billiot, 1, 0, 12, 1, 11, 1
+modify, 163, 6, 2, 4, 0, 1, 1
+cancel, 283
+place, Christopher Cotton, 9, 0, 14, 2, 10, 0
+cancel, 233
+modify, 245, 4, 1, 3, 1, 2, 2
+modify, 94, 11, 0, 11, 0, 6, 0
+cancel, 64
+cancel, 209
+cancel, 205
+cancel, 300
+cancel, 231
+modify, 254, 7, 1, 13, 0, 6, 0
+modify, 192, 4, 2, 2, 1, 14, 2
+place, Robert Childs, 1, 2, 9, 2, 1, 2
+place, Robin Golightly, 6, 1, 2, 0, 12, 2
+modify, 164, 5, 2, 12, 2, 10, 2
+cancel, 293
+cancel, 152
+modify, 243, 6, 1, 4, 0, 14, 1
+modify, 245, 9, 1, 15, 0, 5, 0
+modify, 120, 12, 0, 5, 0, 7, 0
+modify, 49, 8, 2, 3, 1, 3, 2
+place, Lori Hoobler, 13, 1, 6, 2, 7, 0
+modify, 98, 3, 1, 7, 0, 8, 2
+cancel, 123
+modify, 82, 7, 2, 2, 2, 8, 1
+place, Maria Guyton, 7, 2, 10, 0, 10, 0
+modify, 116, 7, 1, 14, 1, 8, 2
+modify, 21, 12, 1, 5, 0, 6, 0
+place, Donn Crouch, 6, 2, 9, 1, 4, 0
+modify, 157, 14, 1, 3, 2, 13, 0
+cancel, 31
+modify, 132, 9, 1, 12, 0, 10, 1
+cancel, 54
+cancel, 69
+cancel, 149
+cancel, 241
+place, Judy Kisler, 12, 0, 11, 2, 12, 2
+modify, 144, 14, 2, 7, 2, 4, 1
+place, Teresa Ferguson, 3, 2, 9, 1, 5, 2
+place, John Brosius, 2, 0, 9, 2, 10, 1
+cancel, 59
+cancel, 29
+place, Juana Rhodes, 5, 1, 8, 1, 2, 2
+cancel, 291
+modify, 107, 11, 1, 14, 1, 8, 0
+cancel, 281
+place, Kelly Campbell, 5, 1, 11, 1, 13, 1
+cancel, 258
+cancel, 92
+place, Theodore Vandyke, 15, 0, 8, 1, 9, 2
+modify, 51, 14, 0, 4, 0, 13, 1
+cancel, 131
+cancel, 61
+modify, 185, 5, 2, 8, 0, 10, 1
+cancel, 277
+place, Velma Greene, 6, 0, 4, 0, 3, 0
+modify, 250, 7, 0, 7, 1, 8, 1
+modify, 286, 9, 0, 7, 1, 6, 0
+place, Veronica Ainslie, 11, 2, 9, 1, 10, 0
+place, Frances Carroll, 1, 1, 4, 1, 14, 1
+modify, 150, 1, 1, 10, 0, 10, 0
+modify, 111, 8, 0, 5, 2, 5, 0
+modify, 292, 15, 0, 11, 0, 8, 1
+cancel, 222
+modify, 103, 12, 2, 13, 2, 3, 1
+place, Jerry Granger, 3, 0, 15, 1, 9, 1
+cancel, 5
+modify, 325, 6, 0, 13, 1, 2, 1
+place, Dedra Henderson, 4, 2, 13, 0, 14, 1
+place, Carlene Shannon, 2, 1, 6, 0, 4, 1
+place, Sherry Howard, 12, 0, 3, 0, 7, 0
+cancel, 225
+cancel, 11
+cancel, 318
+cancel, 323
+modify, 321, 4, 1, 6, 0, 1, 2
+cancel, 56
+place, Willie Farley, 14, 0, 14, 1, 14, 2
+cancel, 218
+cancel, 41
+place, Kimberly Gray, 10, 2, 6, 2, 14, 1
+modify, 108, 10, 1, 5, 1, 3, 2
+cancel, 130
+modify, 31, 2, 0, 10, 2, 10, 2
+cancel, 250
+place, Amanda Sauls, 9, 1, 6, 1, 8, 0
+modify, 42, 9, 0, 15, 2, 12, 1
+modify, 323, 1, 0, 5, 1, 8, 0
+place, Thomas Ramos, 5, 0, 14, 1, 1, 2
+place, Lois Jackson, 14, 0, 2, 2, 10, 2
+cancel, 121
+modify, 66, 14, 2, 14, 1, 2, 1
+modify, 214, 2, 0, 7, 2, 7, 1
+place, Richard Walker, 13, 0, 10, 1, 12, 1
+place, Michael Nieves, 12, 1, 5, 1, 13, 1
+cancel, 189
+place, Alvin Lara, 4, 1, 6, 0, 4, 2
+cancel, 210
+modify, 176, 4, 1, 1, 1, 9, 0
+place, Frank Fortner, 1, 0, 3, 1, 9, 1
+place, Maria Elrod, 3, 1, 15, 1, 12, 1
+modify, 322, 7, 0, 6, 2, 5, 1
+place, William Mitchell, 11, 0, 8, 1, 8, 2
+modify, 256, 7, 0, 8, 0, 13, 2
+cancel, 288
+place, Joey Backes, 9, 1, 12, 0, 2, 2
+modify, 72, 10, 1, 6, 0, 14, 1
+place, Gretchen Gogan, 9, 2, 6, 0, 5, 1
+place, Oscar Butterfield, 10, 1, 6, 0, 1, 2
+modify, 110, 1, 1, 6, 1, 13, 0
+cancel, 135
+place, Stephen Nickson, 10, 2, 8, 1, 12, 1
+place, Marie Corn, 8, 1, 7, 2, 13, 2
+place, James Mcgrath, 6, 0, 15, 1, 3, 2
+place, Doris Rice, 4, 0, 8, 1, 1, 0
+modify, 215, 15, 2, 4, 0, 8, 2
+place, Bruce Neverson, 3, 2, 6, 2, 13, 1
+place, John Cain, 12, 1, 15, 1, 1, 1
+modify, 257, 2, 0, 6, 1, 1, 2
+modify, 217, 8, 2, 5, 2, 3, 2
+cancel, 214
+place, Barbara Larkin, 8, 0, 10, 2, 4, 2
+modify, 74, 11, 1, 3, 1, 6, 1
+place, Carol Torres, 3, 2, 12, 2, 5, 1
+modify, 97, 12, 2, 4, 2, 4, 0
+cancel, 273
+place, James Wittman, 13, 0, 15, 0, 9, 0
+place, Frank Tucker, 9, 0, 1, 2, 7, 1
+place, Sandra Edwards, 5, 1, 9, 0, 10, 1
+cancel, 4
+modify, 211, 3, 1, 14, 0, 4, 2
+cancel, 292
+modify, 210, 6, 0, 3, 2, 9, 2
+place, Elaine Matinez, 4, 2, 8, 0, 9, 0
+place, Janie Barden, 3, 2, 13, 2, 4, 1
+cancel, 147
+place, Simon Woodson, 4, 0, 11, 0, 15, 2
+cancel, 276
+modify, 127, 8, 2, 8, 1, 13, 0
+modify, 20, 7, 1, 7, 1, 5, 0
+place, Charles Warner, 6, 1, 5, 0, 8, 2
+cancel, 258
+modify, 114, 4, 0, 1, 0, 7, 0
+modify, 282, 2, 0, 1, 2, 14, 2
+modify, 152, 11, 0, 7, 2, 11, 1
+cancel, 5
+place, Dorothy Newman, 14, 1, 6, 1, 9, 0
+cancel, 84
+place, Kasey Rogers, 5, 2, 13, 2, 15, 1
+place, Anthony Brown, 11, 1, 15, 2, 3, 0
+cancel, 255
+cancel, 189
+place, Laura Erickson, 3, 1, 15, 0, 2, 1
+cancel, 75
+cancel, 329
+modify, 309, 12, 0, 10, 1, 1, 0
+place, Earlene Spikes, 2, 2, 12, 1, 6, 0
+modify, 361, 3, 0, 1, 1, 5, 2
+place, Louise Tademy, 11, 0, 2, 1, 9, 1
+modify, 319, 13, 0, 8, 0, 4, 0
+modify, 62, 11, 0, 6, 1, 6, 2
+modify, 267, 12, 0, 5, 2, 12, 1
+place, Edwin Korczynski, 11, 1, 7, 0, 13, 2
+place, Sheridan Corbitt, 13, 2, 13, 0, 14, 0
+cancel, 96
+place, Maria Hildebrandt, 1, 1, 9, 0, 7, 1
+modify, 160, 3, 2, 8, 1, 3, 1
+cancel, 325
+place, Clint Tibbs, 1, 2, 10, 1, 7, 1
+cancel, 23
+modify, 291, 6, 2, 15, 1, 1, 0
+modify, 108, 6, 2, 6, 2, 12, 0
+cancel, 122
+cancel, 350
+place, Ashley Thiboutot, 6, 0, 9, 2, 9, 2
+modify, 201, 9, 2, 12, 1, 3, 2
+modify, 318, 12, 0, 8, 2, 14, 2
+modify, 96, 4, 1, 13, 0, 12, 0
+place, Troy Giambra, 4, 2, 9, 2, 6, 0
+cancel, 367
+cancel, 367
+cancel, 250
+place, Stephen Ayers, 3, 2, 13, 1, 1, 2
+modify, 293, 10, 0, 8, 1, 5, 1
+modify, 229, 8, 1, 11, 0, 2, 1
+place, Joseph Moore, 3, 1, 10, 2, 13, 1
+cancel, 73
+cancel, 183
+modify, 28, 1, 0, 8, 0, 2, 2
+modify, 114, 7, 1, 6, 2, 7, 1
+modify, 96, 7, 0, 6, 1, 9, 1
+place, John Conner, 2, 0, 14, 0, 15, 0
+cancel, 316
+modify, 129, 8, 2, 1, 2, 3, 2
+modify, 119, 15, 2, 14, 0, 8, 2
+place, Wallace Roessler, 2, 0, 15, 1, 9, 0
+place, Jeffrey Miller, 10, 1, 9, 1, 13, 0
+place, Maria Parvin, 4, 2, 15, 1, 2, 1
+modify, 347, 6, 2, 8, 1, 10, 1
+cancel, 79
+place, Thomas Buresh, 8, 0, 10, 1, 7, 0
+modify, 361, 11, 0, 13, 0, 7, 1
+place, Jesse Vanochten, 3, 2, 9, 1, 15, 1
+place, Kelly Burson, 3, 2, 11, 1, 13, 0
+modify, 193, 4, 2, 5, 1, 8, 2
+modify, 237, 9, 1, 6, 2, 2, 2
+cancel, 88
+place, Jacqueline Blanc, 6, 1, 13, 1, 6, 1
+cancel, 269
+place, Kenneth Rivera, 4, 2, 8, 1, 12, 2
+place, Nicolas Manning, 2, 2, 1, 1, 6, 2
+place, Ella Baker, 7, 2, 4, 1, 5, 1
+place, Michael Parks, 10, 2, 12, 0, 13, 1
+cancel, 36
+cancel, 140
+cancel, 144
+place, Richard Gagliardi, 1, 2, 6, 0, 9, 1
+place, Eunice Bennett, 6, 1, 6, 0, 4, 1
+place, Melanie Kelly, 13, 0, 14, 1, 12, 2
+modify, 139, 14, 1, 7, 1, 3, 1
+modify, 188, 10, 2, 12, 1, 10, 2
+modify, 46, 2, 1, 3, 0, 9, 0
+cancel, 188
+cancel, 111
+cancel, 210
+place, Michael Jones, 11, 2, 1, 0, 3, 1
+place, William Rogers, 11, 1, 8, 0, 6, 1
+modify, 14, 4, 0, 12, 0, 5, 2
+place, Jason Jones, 13, 0, 14, 2, 12, 2
+place, Joy Lozano, 15, 0, 13, 1, 4, 1
+place, Diane Miller, 6, 1, 6, 1, 8, 0
+place, Wanda Rael, 11, 0, 1, 0, 11, 1
+place, Rhonda Hartman, 10, 2, 5, 0, 9, 2
+place, Naomi Orr, 2, 2, 2, 1, 1, 0
+modify, 331, 8, 0, 13, 0, 12, 0
+modify, 51, 8, 0, 9, 0, 13, 2
+cancel, 52
+modify, 244, 4, 2, 1, 0, 2, 2
+modify, 289, 2, 1, 13, 2, 8, 0
+place, Mary Dow, 2, 1, 14, 0, 8, 2
+cancel, 8
+modify, 31, 5, 2, 13, 2, 4, 2
+modify, 277, 7, 0, 10, 0, 5, 0
+cancel, 145
+modify, 36, 15, 0, 6, 1, 10, 2
+place, Patrick Jones, 6, 1, 10, 2, 14, 1
+place, Mary Hurt, 9, 2, 9, 1, 8, 1
+cancel, 93
+place, William Petersen, 2, 0, 11, 1, 8, 1
+cancel, 241
+cancel, 136
+modify, 218, 7, 1, 15, 0, 7, 2
+modify, 354, 7, 2, 5, 0, 15, 0
+modify, 394, 5, 1, 11, 1, 8, 0
+cancel, 162
+place, Susan Flannigan, 13, 0, 1, 2, 15, 1
+place, Luis Fisher, 7, 2, 13, 0, 6, 2
+cancel, 1
+cancel, 53
+place, Mildred Washington, 10, 2, 2, 1, 14, 0
+modify, 323, 15, 1, 13, 1, 1, 0
+cancel, 349
+cancel, 187
+modify, 383, 4, 1, 4, 1, 13, 1
+place, Fred Ortiz, 3, 0, 3, 2, 7, 0
+modify, 189, 8, 2, 15, 1, 8, 1
+place, Larry Bossler, 8, 1, 6, 1, 4, 1
+cancel, 85
+cancel, 325
+modify, 204, 9, 0, 15, 1, 10, 1
+place, Mark Farley, 11, 1, 4, 1, 8, 0
+cancel, 406
+place, Kelly Buford, 13, 2, 7, 0, 14, 1
+modify, 269, 5, 0, 8, 1, 15, 1
+modify, 8, 7, 1, 8, 1, 11, 0
+cancel, 360
+modify, 357, 7, 2, 11, 1, 7, 1
+place, Willis Kramer, 14, 1, 7, 2, 14, 1
+cancel, 396
+cancel, 150
+cancel, 30
+place, Jeremy Pope, 14, 1, 15, 2, 6, 0
+modify, 198, 3, 2, 15, 2, 7, 1
+cancel, 260
+cancel, 100
+modify, 361, 2, 1, 10, 1, 14, 2
+modify, 354, 8, 1, 3, 2, 11, 1
+modify, 263, 11, 2, 9, 0, 3, 2
+place, Alta Wiley, 1, 1, 15, 2, 11, 1
+modify, 259, 6, 0, 2, 1, 15, 0
+modify, 173, 5, 0, 13, 2, 10, 2
+cancel, 210
+cancel, 317
+cancel, 166
+place, Steven Lane, 10, 2, 11, 2, 5, 1
+place, Sherman Saathoff, 13, 0, 5, 2, 10, 1
+modify, 316, 5, 1, 11, 2, 13, 0
+place, Gary Pineda, 10, 2, 15, 0, 1, 1
+modify, 53, 5, 2, 2, 0, 7, 0
+place, Maria Bassett, 6, 2, 7, 1, 4, 0
+modify, 222, 10, 0, 10, 2, 6, 0
+place, Dorothy Whitfield, 12, 2, 6, 2, 14, 1
+modify, 21, 6, 2, 9, 1, 12, 1
+modify, 163, 4, 1, 13, 0, 6, 0
+modify, 322, 9, 2, 5, 1, 3, 0
+cancel, 18
+cancel, 31
+cancel, 344
+modify, 10, 6, 0, 14, 0, 2, 1
+modify, 45, 9, 1, 2, 0, 13, 2
+cancel, 283
+place, Ronald Vogler, 6, 1, 8, 0, 13, 2
+modify, 319, 14, 0, 11, 2, 6, 1
+place, Jason Armstrong, 8, 1, 12, 2, 13, 0
+modify, 226, 2, 2, 11, 1, 7, 2
+place, Ruby Rosser, 6, 2, 12, 1, 5, 1
+cancel, 262
+place, Theresa Jordan, 12, 1, 2, 1, 7, 0
+cancel, 118
+modify, 165, 3, 2, 12, 1, 10, 0
+cancel, 113
+cancel, 194
+modify, 6, 14, 0, 15, 1, 10, 2
+modify, 389, 5, 2, 8, 0, 2, 2
+cancel, 376
+place, Niki Iversen, 8, 2, 12, 1, 1, 1
+place, Sylvia Sullivan, 4, 0, 4, 2, 2, 0
+place, Wendy Johnson, 6, 2, 13, 2, 3, 1
+cancel, 308
+place, Herman Mackenzie, 4, 0, 1, 0, 7, 1
+modify, 394, 1, 2, 15, 1, 14, 0
+modify, 402, 8, 1, 5, 1, 6, 1
+cancel, 408
+cancel, 399
+place, Gregory Evans, 13, 1, 14, 2, 9, 2
+modify, 244, 4, 0, 9, 2, 5, 1
+place, Brenda Heflin, 8, 0, 11, 1, 9, 2
+modify, 387, 11, 2, 9, 1, 12, 1
+place, Steven Blakely, 2, 2, 13, 1, 11, 2
+cancel, 110
+place, Monica Portis, 13, 0, 5, 2, 13, 0
+cancel, 382
+modify, 365, 15, 1, 3, 1, 5, 0
+cancel, 81
+place, Laura Hafferkamp, 15, 1, 5, 1, 15, 0
+cancel, 251
+place, Timothy Coble, 2, 0, 2, 0, 8, 0
+modify, 261, 11, 0, 9, 0, 11, 2
+modify, 304, 7, 0, 14, 2, 13, 2
+place, Timothy Nelson, 5, 1, 8, 1, 15, 1
+modify, 309, 7, 2, 10, 0, 8, 0
+place, Michael Johnson, 4, 0, 1, 0, 7, 0
+modify, 120, 8, 1, 6, 0, 15, 0
+cancel, 79
+place, Grant Baker, 11, 2, 14, 1, 8, 2
+modify, 283, 12, 2, 12, 1, 8, 1
+place, Eric Roy, 5, 0, 2, 0, 1, 1
+place, Esther Spear, 4, 2, 12, 1, 15, 0
+modify, 301, 6, 1, 4, 0, 12, 0
+cancel, 31
+place, Carl Mcpherson, 5, 2, 8, 0, 14, 2
+cancel, 264
+cancel, 34
+cancel, 59
+place, Andrea Goff, 15, 0, 6, 1, 10, 2
+cancel, 248
+place, Jackson Baker, 5, 0, 13, 0, 5, 1
+place, Douglas Rodriguez, 9, 1, 8, 0, 5, 1
+cancel, 254
+cancel, 127
+place, Tammi Bowling, 6, 0, 3, 1, 12, 1
+cancel, 162
+place, Michael Shemwell, 6, 0, 2, 1, 9, 1
+place, Peter Gilbert, 4, 2, 12, 1, 1, 1
+place, Neil Meza, 14, 2, 14, 1, 5, 0
+place, Doris Walker, 14, 0, 13, 1, 10, 1
+cancel, 67
+cancel, 219
+cancel, 396
+place, Gina Lang, 1, 2, 13, 2, 3, 2
+place, Kathryn Lankford, 14, 2, 4, 0, 7, 1
+cancel, 152
+place, Jeannette Quimby, 14, 1, 4, 1, 9, 2
+modify, 249, 15, 0, 15, 0, 7, 0
+modify, 65, 15, 2, 10, 1, 11, 2
+modify, 74, 12, 0, 7, 2, 12, 0
+cancel, 117
+place, Steve Pauley, 10, 2, 8, 2, 11, 1
+cancel, 21
+cancel, 111
+modify, 246, 12, 2, 11, 2, 15, 2
+cancel, 388
+cancel, 6
+cancel, 255
+modify, 150, 11, 0, 3, 0, 5, 0
+cancel, 190
+cancel, 196
+modify, 237, 3, 0, 14, 1, 5, 2
+cancel, 327
+cancel, 19
+modify, 276, 9, 2, 7, 1, 1, 2
+cancel, 345
+place, Joseph Pettus, 6, 2, 14, 1, 1, 0
+place, Debby Daley, 15, 0, 8, 0, 7, 2
+modify, 57, 12, 2, 1, 0, 6, 1
+place, Ruth Graham, 7, 1, 14, 0, 8, 0
+modify, 370, 1, 1, 7, 2, 8, 1
+modify, 367, 6, 0, 6, 2, 10, 2
+place, Robert Stahr, 2, 0, 3, 2, 3, 0
+place, Samuel Matthews, 9, 1, 15, 1, 12, 0
+modify, 67, 10, 2, 4, 1, 8, 0
+cancel, 8
+place, William Maurer, 8, 0, 8, 0, 14, 1
+modify, 195, 10, 1, 7, 1, 14, 1
+place, Marie Smith, 13, 1, 3, 0, 6, 1
+modify, 283, 1, 2, 8, 2, 10, 0
+modify, 325, 1, 2, 11, 0, 8, 1
+cancel, 86
+modify, 0, 11, 1, 1, 2, 12, 2
+modify, 74, 6, 2, 2, 0, 9, 1
+cancel, 122
+modify, 285, 11, 1, 7, 1, 11, 1
+modify, 403, 13, 1, 10, 1, 13, 0
+modify, 287, 5, 2, 7, 1, 9, 1
+place, Sarah Cherry, 14, 1, 1, 2, 7, 2
+cancel, 179
+cancel, 174
+modify, 443, 4, 1, 1, 2, 14, 2
+modify, 74, 11, 0, 14, 1, 5, 1
+place, Marcia Pizer, 7, 1, 11, 1, 2, 1
+cancel, 447
+place, Paul Davis, 15, 1, 10, 1, 3, 2
+cancel, 352
+cancel, 455
+place, Donald Leonardo, 3, 2, 2, 0, 4, 0
+modify, 273, 5, 0, 11, 2, 2, 0
+place, Daniel Phillips, 14, 2, 9, 0, 3, 2
+cancel, 270
+modify, 73, 12, 0, 1, 2, 8, 0
+place, Josephine Twogood, 4, 2, 4, 1, 12, 2
+cancel, 263
+place, Neil Harless, 14, 2, 1, 2, 10, 1
+place, Erika Davis, 3, 1, 12, 2, 4, 1
+place, Herb Hetrick, 15, 0, 4, 0, 10, 0
+cancel, 264
+place, Joan Roblez, 8, 1, 10, 2, 13, 1
+place, Fred Bishop, 8, 2, 2, 1, 11, 0
+cancel, 28
+modify, 416, 13, 2, 10, 1, 5, 2
+modify, 249, 13, 0, 8, 1, 1, 0
+cancel, 453
+cancel, 58
+cancel, 152
+modify, 399, 6, 1, 5, 2, 10, 0
+place, Carol Smith, 5, 2, 6, 0, 15, 0
+place, Brett Grant, 5, 1, 14, 0, 9, 2
+modify, 77, 11, 0, 3, 0, 8, 0
+modify, 426, 4, 2, 14, 2, 15, 1
+modify, 144, 4, 1, 12, 1, 15, 0
+modify, 276, 11, 2, 5, 1, 3, 2
+modify, 197, 13, 2, 11, 0, 10, 1
+cancel, 211
+cancel, 284
+place, Lashanda Leasure, 10, 2, 9, 2, 6, 1
+modify, 349, 1, 2, 2, 1, 1, 1
+place, Tanesha Light, 15, 1, 12, 2, 7, 0
+place, John Berg, 1, 1, 6, 2, 10, 0
+cancel, 470
+cancel, 143
+place, Jerry Sprinkle, 3, 1, 10, 1, 7, 2
+cancel, 321
+modify, 464, 5, 2, 1, 1, 13, 1
+place, Linda Hampton, 10, 2, 12, 2, 10, 2
+cancel, 276
+cancel, 185
+place, Charles Richardson, 4, 0, 3, 2, 4, 1
+place, Larry Muncy, 15, 1, 2, 2, 1, 0
+modify, 313, 5, 2, 5, 1, 2, 2
+cancel, 172
+cancel, 394
+place, Norma Smith, 14, 2, 5, 0, 14, 0
+place, Lisa Little, 14, 1, 5, 1, 12, 0
+modify, 266, 15, 2, 6, 1, 5, 0
+modify, 405, 8, 2, 9, 2, 7, 2
+place, Louise Stover, 13, 2, 12, 0, 10, 0
+modify, 351, 10, 2, 15, 1, 8, 1
+place, Thomas Mason, 15, 2, 14, 2, 10, 0
+place, Michael Adams, 7, 0, 13, 1, 2, 2
+modify, 73, 10, 0, 7, 0, 1, 0
+modify, 454, 9, 0, 13, 1, 4, 2
+cancel, 182
+cancel, 140
+place, Darlene Russell, 3, 0, 2, 2, 6, 1
+place, Patricia Sheck, 4, 2, 12, 2, 3, 2
+place, Thomas Shaw, 7, 1, 5, 1, 15, 0
+cancel, 424
+modify, 62, 12, 1, 11, 1, 13, 2
+modify, 29, 3, 1, 9, 0, 4, 1
+place, Nell Harlow, 1, 2, 14, 0, 3, 2
+place, Don Amedee, 11, 2, 6, 1, 6, 2
+cancel, 55
+place, Brandon Dixon, 7, 1, 4, 2, 9, 0
+modify, 399, 5, 2, 13, 1, 7, 0
+modify, 32, 15, 0, 7, 2, 7, 2
+cancel, 425
+modify, 168, 8, 1, 15, 0, 9, 1
+place, Georgia Thorpe, 12, 1, 10, 1, 9, 1
+modify, 185, 5, 1, 12, 1, 13, 2
+place, Michelle Green, 6, 2, 3, 1, 1, 2
+cancel, 435
+place, James Collins, 5, 1, 6, 2, 10, 2
+place, Santiago Taylor, 6, 2, 3, 2, 8, 0
+modify, 130, 10, 2, 10, 1, 7, 2
+cancel, 168
+place, Elane Voelker, 9, 0, 14, 2, 1, 1
+modify, 215, 11, 0, 6, 2, 9, 0
+modify, 167, 15, 2, 7, 2, 1, 0
+place, Louis Burke, 6, 0, 11, 2, 15, 1
+place, Larry Hom, 6, 2, 2, 1, 2, 2
+modify, 244, 4, 1, 14, 0, 2, 1
+modify, 268, 13, 0, 10, 0, 15, 0
+place, Lisa Feezell, 7, 1, 11, 2, 14, 2
+cancel, 75
+place, Mark Burton, 7, 1, 5, 1, 3, 1
+place, Wanda Dixon, 2, 2, 5, 2, 9, 0
+cancel, 150
+cancel, 374
+cancel, 429
+place, Linda Gleaton, 15, 0, 3, 0, 1, 2
+modify, 377, 9, 0, 6, 1, 4, 2
+place, Joseph Anderson, 15, 0, 13, 0, 2, 2
+cancel, 277
+modify, 306, 5, 1, 11, 2, 2, 2
+cancel, 116
+cancel, 110
+modify, 53, 14, 0, 7, 2, 10, 2
+modify, 470, 6, 1, 14, 1, 8, 1
+place, Robert Gerecke, 13, 0, 5, 1, 1, 0
+place, John Hunter, 7, 0, 3, 2, 2, 0
+modify, 278, 5, 0, 6, 2, 7, 1
+cancel, 453
+cancel, 44
+modify, 87, 1, 1, 10, 1, 1, 1
+cancel, 115
+modify, 398, 4, 0, 10, 0, 7, 1
+modify, 287, 15, 1, 6, 0, 10, 1
+cancel, 439
+modify, 345, 1, 0, 8, 1, 9, 1
+place, Hattie Schutz, 9, 0, 2, 0, 15, 1
+cancel, 1
+place, Bertha Keller, 2, 1, 12, 2, 2, 2
+modify, 406, 2, 0, 8, 0, 9, 2
+cancel, 398
+place, Stephanie Busse, 5, 0, 5, 2, 9, 1
+modify, 461, 8, 0, 14, 0, 2, 0
+modify, 364, 14, 0, 15, 1, 5, 0
+modify, 8, 1, 1, 15, 1, 1, 2
+cancel, 170
+cancel, 454
+place, Jack Wells, 1, 1, 2, 0, 14, 1
+modify, 76, 11, 1, 2, 0, 14, 1
+modify, 300, 11, 1, 15, 0, 11, 1
+place, Alla Secrist, 8, 1, 15, 2, 14, 2
+cancel, 208
+modify, 197, 14, 0, 6, 2, 15, 1
+cancel, 488
+cancel, 72
+cancel, 0
+modify, 218, 13, 1, 15, 0, 11, 1
+cancel, 268
+modify, 89, 3, 2, 9, 2, 5, 2
+modify, 329, 4, 0, 13, 0, 12, 2
+modify, 315, 9, 0, 14, 1, 14, 0
+cancel, 104
+modify, 74, 11, 1, 10, 1, 5, 2
+place, Randy Waltz, 2, 2, 7, 1, 13, 1
+place, Charles Gallemore, 15, 0, 3, 0, 8, 2
+modify, 133, 14, 2, 5, 1, 5, 1
+cancel, 96
+place, Bridgette Gross, 9, 2, 10, 0, 11, 2
+cancel, 472
+modify, 232, 13, 2, 12, 0, 13, 1
+modify, 194, 3, 2, 9, 1, 11, 1
+modify, 402, 3, 2, 8, 2, 1, 1
+cancel, 174
+modify, 351, 7, 2, 6, 2, 8, 1
+modify, 170, 12, 1, 12, 0, 8, 2
+cancel, 295
+place, Lindsey Byrne, 9, 0, 2, 0, 5, 2
+cancel, 150
+place, Sherri Jensen, 10, 2, 8, 1, 5, 1
+modify, 328, 13, 0, 3, 2, 12, 1
+cancel, 20
+modify, 147, 12, 0, 3, 0, 7, 2
+modify, 82, 10, 1, 1, 2, 5, 2
+cancel, 160
+modify, 321, 6, 0, 14, 2, 15, 1
+place, Patricia Kou, 11, 2, 15, 0, 9, 2
+cancel, 254
+modify, 318, 1, 1, 11, 0, 6, 2
+modify, 473, 10, 1, 14, 2, 10, 2
+modify, 220, 15, 2, 5, 0, 12, 1
+place, Eugene Allen, 9, 2, 8, 1, 3, 0
+cancel, 233
+modify, 309, 6, 2, 8, 1, 3, 1
+modify, 398, 6, 1, 8, 0, 7, 1
+cancel, 353
+cancel, 387
+place, William Bruckner, 11, 1, 3, 1, 8, 0
+cancel, 309
+modify, 31, 3, 1, 2, 0, 1, 2
+cancel, 231
+modify, 415, 11, 1, 10, 1, 15, 0
+place, Paul Ewing, 12, 1, 3, 1, 3, 2
+modify, 199, 15, 2, 3, 0, 6, 1
+cancel, 63
+cancel, 405
+modify, 7, 7, 1, 1, 2, 9, 2
+modify, 20, 8, 1, 7, 1, 11, 1
+place, Timothy Berrios, 7, 1, 11, 2, 4, 2
+cancel, 496
+modify, 125, 13, 1, 10, 0, 14, 0
+cancel, 319
+modify, 32, 6, 0, 13, 0, 14, 2
+modify, 5, 6, 0, 15, 2, 1, 1
+modify, 352, 2, 0, 13, 0, 1, 1
+modify, 250, 3, 0, 9, 1, 10, 1
+place, Debrah Kelsey, 13, 2, 5, 1, 6, 0
+modify, 65, 4, 2, 13, 1, 12, 2
+cancel, 234
+cancel, 209
+modify, 41, 15, 1, 8, 0, 15, 0
+cancel, 483
+modify, 456, 7, 0, 8, 0, 8, 1
+place, Tammy Tague, 2, 1, 8, 2, 2, 0
+place, David Bose, 1, 0, 11, 2, 3, 0
+place, Gina Brown, 6, 1, 9, 2, 10, 2
+cancel, 443
+modify, 284, 3, 0, 14, 1, 11, 1
+place, Bruce Hartzell, 6, 0, 2, 1, 9, 2
+modify, 348, 12, 0, 8, 2, 3, 1
+modify, 29, 4, 2, 11, 2, 6, 1
+modify, 502, 6, 2, 10, 1, 2, 0
+modify, 370, 14, 1, 7, 1, 15, 1
+cancel, 53
+cancel, 213
+modify, 37, 9, 2, 8, 1, 14, 0
+cancel, 432
+cancel, 352
+place, Palmira Mueller, 3, 2, 9, 0, 13, 1
+place, Pearl Neilsen, 11, 1, 6, 2, 11, 2
+place, Rita Kedzierski, 7, 1, 5, 2, 5, 0
+place, Sandy Griffith, 15, 1, 14, 0, 11, 2
+cancel, 253
+cancel, 215
+cancel, 201
+place, Cassie Smith, 5, 2, 6, 0, 15, 1
+place, Teresa Frazier, 4, 1, 1, 0, 3, 1
+place, Terrell Peters, 3, 2, 10, 2, 2, 1
+cancel, 302
+place, Marilyn Shouse, 8, 2, 11, 2, 5, 2
+cancel, 68
+cancel, 135
+place, William Fieck, 12, 2, 12, 2, 9, 1
+place, Margaret Messina, 7, 0, 15, 2, 4, 1
+cancel, 28
+modify, 500, 8, 1, 14, 0, 6, 0
+place, Beth Richardson, 1, 1, 10, 2, 3, 2
+cancel, 462
+modify, 402, 14, 0, 10, 1, 1, 1
+modify, 120, 8, 2, 13, 0, 10, 2
+cancel, 14
+modify, 229, 4, 2, 13, 0, 6, 0
+modify, 429, 9, 2, 4, 0, 13, 2
+modify, 290, 8, 1, 4, 2, 1, 2
+place, Mildred Goodrich, 11, 1, 2, 2, 15, 1
+place, Jennifer Kreiman, 13, 0, 3, 2, 3, 2
+cancel, 35
+cancel, 399
+modify, 44, 15, 1, 6, 1, 14, 0
+modify, 302, 12, 0, 6, 2, 14, 2
+place, Edith Rogers, 9, 2, 4, 2, 14, 2
+place, Timothy Huskins, 13, 2, 12, 2, 5, 0
+cancel, 193
+modify, 347, 15, 2, 11, 2, 4, 2
+cancel, 382
+place, Nadine Carlucci, 6, 0, 11, 1, 8, 0
+modify, 403, 4, 1, 11, 1, 8, 2
+place, Jared Pereira, 9, 1, 1, 0, 9, 1
+cancel, 83
+modify, 352, 5, 2, 12, 2, 9, 1
+cancel, 360
+modify, 485, 8, 1, 3, 1, 9, 2
+cancel, 400
+cancel, 314
+cancel, 190
+cancel, 525
+place, Billie Sousa, 3, 2, 4, 2, 1, 0
+modify, 374, 3, 0, 15, 1, 7, 2
+place, Howard Benoit, 5, 0, 5, 1, 1, 2
+cancel, 421
+modify, 529, 2, 0, 12, 1, 9, 0
+place, Barbara Kolb, 15, 2, 12, 0, 6, 0
+cancel, 487
+place, Courtney Prine, 6, 0, 3, 1, 6, 0
+place, Raul Rood, 3, 2, 4, 2, 14, 1
+place, Odessa Mayfield, 6, 0, 7, 0, 4, 1
+cancel, 401
+modify, 187, 13, 2, 2, 0, 7, 0
+modify, 384, 10, 2, 4, 0, 5, 2
+modify, 384, 10, 0, 1, 1, 15, 2
+cancel, 256
+modify, 349, 6, 2, 9, 0, 9, 0
+cancel, 518
+cancel, 430
+modify, 201, 15, 1, 5, 1, 5, 1
+modify, 188, 2, 1, 2, 1, 9, 2
+place, Richard Guitterez, 5, 2, 10, 0, 13, 0
+place, Marcy Dibiase, 10, 2, 9, 0, 1, 2
+cancel, 346
+modify, 256, 1, 1, 3, 1, 1, 2
+modify, 40, 13, 2, 1, 2, 4, 2
+place, Linda Smith, 3, 2, 5, 0, 9, 0
+modify, 400, 8, 2, 14, 1, 14, 1
+modify, 48, 5, 0, 10, 1, 2, 0
+place, Todd Chavarria, 14, 2, 2, 2, 6, 1
+cancel, 509
+modify, 263, 9, 2, 6, 2, 1, 2
+cancel, 228
+cancel, 456
+place, Margaret Fortier, 11, 2, 6, 1, 4, 1
+modify, 508, 7, 1, 4, 1, 13, 2
+place, Dorothy Mchugh, 1, 0, 14, 0, 3, 1
+modify, 101, 11, 1, 11, 0, 11, 1
+modify, 73, 9, 0, 4, 0, 11, 2
+place, Tania Morris, 15, 1, 15, 1, 11, 1
+cancel, 84
+cancel, 459
+modify, 224, 15, 1, 8, 1, 11, 1
+place, Daniel Godfrey, 8, 1, 12, 1, 15, 1
+cancel, 273
+place, John Cooley, 9, 0, 2, 2, 2, 1
+place, Rolando Sanchez, 8, 0, 3, 2, 3, 0
+modify, 552, 2, 0, 13, 0, 1, 2
+modify, 341, 4, 2, 6, 2, 8, 2
+modify, 240, 8, 2, 15, 0, 3, 0
+place, Eli Whitney, 6, 1, 9, 1, 7, 2
+cancel, 231
+cancel, 27
+modify, 362, 13, 0, 13, 0, 12, 1
+place, Wilfred Bullard, 13, 2, 1, 1, 10, 0
+cancel, 384
+place, Janet Gomez, 14, 1, 1, 0, 5, 1
+place, Margaret Kimpel, 2, 2, 3, 0, 12, 2
+modify, 199, 4, 2, 14, 2, 12, 2
+place, John Bilodeau, 8, 0, 2, 0, 6, 1
+cancel, 144
+cancel, 184
+modify, 272, 13, 1, 1, 2, 4, 0
+cancel, 417
+cancel, 422
+cancel, 536
+modify, 90, 11, 1, 7, 1, 5, 0
+place, Pamela Stahl, 12, 0, 15, 0, 4, 2
+place, Edward Coberly, 15, 2, 8, 0, 6, 0
+cancel, 410
+modify, 126, 5, 0, 11, 1, 8, 1
+place, Wendell Martin, 4, 0, 8, 2, 5, 1
+cancel, 102
+place, Ann Holland, 8, 1, 3, 2, 9, 2
+modify, 381, 1, 1, 4, 0, 5, 0
+cancel, 480
+modify, 434, 1, 2, 15, 2, 1, 1
+cancel, 441
+place, Nathan Parker, 3, 0, 12, 2, 13, 1
+modify, 58, 2, 0, 2, 0, 14, 0
+cancel, 139
+place, Valerie Johnson, 7, 0, 4, 2, 10, 0
+modify, 222, 12, 0, 15, 0, 15, 0
+cancel, 77
+modify, 451, 7, 2, 4, 0, 15, 2
+place, Frederick Lara, 1, 2, 10, 0, 3, 0
+modify, 275, 12, 0, 1, 1, 3, 1
+place, Claudia Boender, 12, 0, 1, 2, 2, 1
+modify, 223, 1, 0, 10, 2, 8, 1
+place, Elizabeth Grant, 15, 1, 1, 2, 6, 0
+cancel, 431
+modify, 484, 6, 0, 11, 2, 8, 0
+cancel, 366
+place, Numbers Lytell, 7, 0, 11, 1, 4, 2
+modify, 543, 7, 1, 15, 0, 3, 0
+place, Rafael Jenkins, 15, 1, 3, 1, 15, 1
+modify, 140, 1, 0, 2, 2, 12, 2
+modify, 152, 6, 1, 12, 2, 14, 1
+modify, 329, 13, 2, 6, 2, 5, 2
+cancel, 23
+cancel, 209
+place, Ella Cabrera, 6, 2, 1, 1, 12, 1
+modify, 225, 9, 2, 12, 2, 3, 1
+place, Sandra Wallis, 4, 2, 2, 0, 14, 1
+place, Terry Linkous, 9, 2, 10, 0, 3, 2
+cancel, 270
+place, Jeffery Bean, 9, 0, 10, 1, 8, 2
+cancel, 285
+cancel, 507
+place, Jessica Mcqueen, 5, 0, 5, 2, 8, 0
+place, Delmar Lischak, 11, 2, 12, 2, 1, 1
+cancel, 32
+modify, 164, 7, 0, 7, 2, 7, 2
+cancel, 471
+modify, 274, 12, 1, 12, 0, 3, 0
+cancel, 259
+cancel, 282
+cancel, 43
+place, Doris White, 9, 2, 3, 2, 12, 2
+cancel, 387
+modify, 260, 11, 0, 3, 1, 10, 2
+modify, 385, 2, 1, 12, 2, 13, 2
+modify, 106, 4, 2, 13, 0, 13, 0
+modify, 200, 5, 2, 15, 2, 2, 0
+place, Dennis Chun, 15, 0, 11, 1, 5, 2
+place, Jesus Starkey, 13, 2, 5, 2, 15, 1
+modify, 227, 12, 1, 5, 2, 3, 2
+modify, 232, 13, 1, 5, 1, 11, 1
+place, Rose Smith, 1, 1, 10, 2, 6, 0
+place, Jesse Bundy, 9, 0, 6, 1, 12, 1
+modify, 86, 7, 0, 11, 2, 15, 1
+cancel, 78
+place, Yolanda Damewood, 9, 2, 6, 1, 7, 1
+place, Brian Cahee, 5, 0, 1, 1, 12, 1
+place, Benjamin Cantley, 9, 0, 15, 0, 9, 2
+place, Trista Placko, 7, 2, 3, 2, 3, 2
+modify, 570, 4, 1, 12, 2, 10, 1
+cancel, 135
+modify, 206, 7, 2, 3, 1, 7, 2
+modify, 284, 12, 1, 4, 0, 11, 2
+place, Carl Sherling, 14, 2, 7, 2, 9, 1
+modify, 583, 7, 1, 8, 1, 9, 1
+place, Karl Bried, 4, 2, 1, 2, 12, 2
+cancel, 311
+place, Emily Johnson, 10, 1, 7, 1, 5, 0
+place, Tiffany Seat, 8, 0, 14, 0, 14, 1
+modify, 345, 1, 1, 6, 1, 7, 1
+modify, 236, 12, 1, 9, 0, 11, 2
+cancel, 260
+place, Tina Buzzell, 7, 1, 3, 2, 14, 1
+place, Gabriel Rhein, 12, 2, 10, 0, 3, 0
+modify, 474, 2, 2, 6, 1, 2, 0
+cancel, 238
+cancel, 199
+modify, 252, 2, 2, 5, 2, 14, 1
+cancel, 77
+modify, 385, 2, 2, 5, 0, 4, 1
+modify, 374, 12, 1, 2, 2, 3, 0
+modify, 90, 5, 0, 7, 2, 15, 0
+place, Patricia Mcnealy, 14, 2, 3, 0, 7, 0
+place, Kerry Westbrooks, 8, 2, 10, 1, 11, 2
+modify, 391, 12, 2, 11, 0, 15, 0
+place, Hazel Mangano, 3, 0, 10, 1, 9, 1
+place, Vicki List, 1, 2, 9, 1, 15, 1
+place, Elizabeth Kestler, 2, 0, 12, 0, 2, 0
+place, Vincent Kang, 15, 1, 13, 0, 5, 0
+place, Melvin Gordon, 7, 1, 4, 2, 9, 2
+place, Wendy Duty, 13, 0, 5, 1, 3, 2
+place, Laurel Ramirez, 4, 1, 6, 0, 8, 0
+cancel, 232
+cancel, 581
+modify, 457, 14, 1, 13, 2, 7, 1
+place, Linda Mosley, 8, 0, 13, 0, 5, 2
+modify, 270, 6, 0, 9, 0, 2, 0
+cancel, 81
+place, Robert Mcelhaney, 10, 0, 8, 1, 5, 2
+cancel, 314
+modify, 570, 10, 0, 3, 0, 1, 0
+modify, 509, 5, 1, 10, 0, 3, 1
+cancel, 527
+cancel, 552
+place, David Johnson, 2, 0, 14, 1, 6, 1
+cancel, 255
+place, Ernest Armstrong, 11, 2, 5, 2, 15, 2
+modify, 29, 1, 2, 1, 0, 4, 0
+place, Toby Casey, 8, 1, 14, 1, 15, 1
+place, George Gofton, 1, 0, 9, 0, 14, 0
+place, Robert Blanchard, 15, 0, 12, 0, 15, 0
+place, Carolyn Lee, 6, 2, 4, 0, 6, 0
+modify, 68, 8, 1, 1, 1, 8, 1
+place, John Joy, 1, 1, 6, 1, 8, 0
+place, Stephanie Ryan, 11, 2, 8, 1, 9, 2
+cancel, 296
+cancel, 261
+place, William Chan, 3, 2, 2, 0, 15, 0
+cancel, 97
+place, Carmen Charlesworth, 13, 1, 9, 0, 5, 2
+cancel, 71
+place, Paul Green, 13, 2, 7, 0, 15, 1
+cancel, 22
+modify, 559, 10, 1, 2, 2, 6, 2
+place, Marie Makinen, 9, 0, 7, 1, 3, 2
+place, Mary Brown, 8, 2, 1, 1, 5, 2
+place, William Lee, 2, 0, 6, 2, 7, 0
+cancel, 603
+cancel, 184
+cancel, 192
+place, Luke Doran, 8, 1, 13, 1, 3, 0
+cancel, 483
+cancel, 529
+place, Joseph Smith, 7, 1, 1, 2, 2, 1
+cancel, 222
+modify, 262, 13, 1, 1, 1, 5, 2
+modify, 467, 14, 1, 3, 2, 14, 1
+place, William Albert, 15, 2, 4, 0, 5, 2
+place, Cynthia Brown, 14, 2, 12, 1, 12, 1
+cancel, 145
+place, Donald Eigner, 5, 1, 13, 2, 2, 2
+modify, 78, 2, 2, 12, 2, 5, 0
+cancel, 151
+cancel, 422
+place, Caitlin Hancock, 13, 2, 4, 0, 2, 1
+place, Francisco Sultan, 15, 1, 9, 0, 9, 2
+modify, 242, 7, 1, 8, 1, 6, 0
+modify, 246, 1, 1, 2, 1, 13, 1
+cancel, 604
+place, Thomas Bucklew, 4, 1, 6, 1, 3, 2
+place, Michael Luna, 11, 1, 3, 0, 12, 2
+modify, 234, 13, 2, 10, 1, 7, 0
+place, Linda Jeanlouis, 1, 0, 6, 1, 10, 2
+place, Gary Olsen, 3, 1, 10, 1, 7, 1
+modify, 486, 12, 1, 4, 0, 6, 1
+cancel, 197
+modify, 60, 2, 1, 1, 2, 9, 1
+modify, 487, 6, 2, 14, 2, 7, 1
+modify, 546, 5, 0, 9, 2, 13, 0
+cancel, 195
+cancel, 531
+cancel, 625
+modify, 51, 7, 2, 8, 1, 2, 0
+modify, 459, 9, 1, 13, 0, 2, 1
+place, Melissa Mcelroy, 12, 1, 15, 1, 9, 0
+cancel, 145
+place, Brandon Massie, 1, 2, 10, 0, 12, 1
+modify, 40, 13, 0, 10, 0, 1, 0
+cancel, 616
+place, Simon Bender, 14, 2, 5, 0, 12, 2
+modify, 377, 8, 2, 8, 0, 12, 2
+place, Genevieve Diaz, 4, 2, 8, 0, 3, 2
+cancel, 591
+cancel, 61
+place, Shirley Smith, 12, 1, 13, 0, 8, 1
+cancel, 153
+modify, 609, 4, 2, 2, 2, 6, 0
+place, Marcos Lederer, 11, 0, 8, 1, 8, 2
+place, Molly Tanner, 7, 1, 12, 1, 5, 2
+place, Allan Galinis, 12, 1, 1, 1, 4, 1
+cancel, 334
+place, William Franklin, 15, 1, 6, 1, 4, 1
+modify, 44, 8, 0, 14, 1, 5, 2
+place, Alfred Crosby, 3, 0, 11, 1, 10, 0
+place, Rena Folta, 9, 0, 12, 0, 5, 1
+modify, 373, 7, 2, 13, 1, 13, 2
+modify, 433, 14, 1, 11, 2, 6, 1
+cancel, 418
+modify, 375, 14, 0, 3, 2, 3, 0
+place, Jason Simitian, 4, 1, 11, 0, 9, 2
+place, Mary Beckman, 6, 0, 5, 0, 13, 1
+cancel, 79
+place, Helen Chauarria, 14, 2, 7, 0, 3, 1
+place, Rebecca Peterson, 9, 2, 13, 0, 4, 2
+place, Carol Yokota, 13, 0, 9, 2, 13, 1
+modify, 486, 1, 1, 10, 0, 6, 1
+modify, 272, 7, 1, 2, 0, 9, 0
+modify, 11, 4, 1, 10, 0, 1, 1
+cancel, 279
+modify, 500, 8, 2, 4, 0, 9, 1
+place, Henry Busse, 10, 2, 14, 0, 12, 2
+cancel, 386
+place, Juana Rondeau, 13, 1, 14, 2, 13, 0
+modify, 422, 10, 2, 4, 1, 13, 2
+place, John Flynn, 1, 1, 3, 1, 11, 2
+modify, 288, 14, 2, 3, 2, 7, 2
+modify, 211, 9, 1, 11, 0, 7, 2
+place, Jean Jones, 6, 1, 11, 1, 1, 2
+place, Ronald Milner, 11, 0, 13, 0, 7, 0
+place, Sandra Phillips, 9, 0, 4, 2, 7, 1
+cancel, 509
+place, Erica Page, 8, 0, 9, 0, 4, 2
+place, Ofelia Dunlap, 1, 1, 1, 1, 6, 2
+place, Kerri Damico, 7, 0, 12, 1, 11, 1
+place, Kyle Youngblood, 9, 1, 8, 2, 9, 2
+cancel, 453
+modify, 317, 8, 0, 14, 2, 1, 1
+modify, 606, 8, 2, 13, 1, 11, 1
+place, Janet Powell, 10, 1, 1, 2, 12, 1
+modify, 224, 12, 1, 13, 0, 1, 1
+cancel, 2
+cancel, 442
+modify, 13, 9, 1, 15, 2, 2, 0
+modify, 88, 5, 2, 12, 0, 4, 2
+modify, 374, 11, 0, 15, 0, 2, 1
+place, Thomas Rivera, 8, 2, 3, 1, 7, 1
+cancel, 161
+place, Pamela Mccrary, 6, 1, 10, 2, 14, 0
+cancel, 254
+place, Albertha Donoho, 11, 1, 8, 2, 6, 0
+cancel, 606
+place, Erin Williams, 1, 2, 7, 1, 5, 1
+cancel, 430
+cancel, 309
+modify, 97, 13, 1, 14, 1, 3, 0
+cancel, 419
+place, Ernest Cousins, 3, 1, 8, 1, 2, 0
+cancel, 159
+modify, 637, 1, 2, 13, 0, 3, 1
+cancel, 433
+place, Alvin Wynn, 1, 2, 7, 0, 9, 2
+place, May Fuentes, 14, 2, 11, 1, 4, 1
+place, Daniel Zaragoza, 5, 0, 1, 0, 5, 2
+place, Donna Shull, 13, 2, 15, 1, 6, 1
+place, Adele Medina, 1, 0, 12, 2, 7, 0
+place, John Allman, 6, 2, 14, 1, 10, 1
+modify, 212, 3, 2, 8, 1, 3, 2
+cancel, 507
+cancel, 319
+modify, 213, 8, 0, 4, 0, 15, 2
+modify, 497, 9, 0, 6, 0, 3, 0
+cancel, 111
+modify, 191, 7, 0, 9, 2, 15, 1
+place, Aaron Beamon, 4, 2, 11, 0, 5, 2
+modify, 382, 7, 2, 11, 2, 10, 2
+place, Melissa Ray, 2, 1, 1, 1, 9, 2
+cancel, 613
+modify, 62, 10, 2, 13, 2, 12, 1
+place, Tom Gallagher, 7, 0, 10, 2, 15, 1
+cancel, 599
+place, Harry Wisman, 7, 2, 12, 2, 1, 0
+cancel, 579
+cancel, 593
+place, Betty Williams, 8, 1, 8, 2, 7, 1
+place, Kerri Lawrence, 4, 2, 6, 0, 9, 1
+cancel, 403
+place, Adam Crosby, 15, 0, 13, 2, 15, 0
+cancel, 542
+cancel, 495
+place, Mary Moroni, 14, 1, 9, 0, 9, 2
+place, Dorothy Levi, 13, 0, 9, 0, 3, 2
+cancel, 539
+place, Walter Kalinowski, 7, 2, 4, 2, 12, 2
+place, Domingo Jackson, 8, 1, 13, 2, 11, 0
+place, John Bennett, 2, 0, 4, 0, 9, 0
+modify, 328, 5, 0, 12, 0, 12, 0
+place, Jesse Means, 9, 0, 9, 2, 11, 2
+modify, 53, 9, 2, 9, 0, 9, 0
+modify, 184, 8, 0, 15, 2, 11, 1
+cancel, 224
+cancel, 237
+cancel, 124
+place, Angel Webb, 14, 2, 9, 0, 14, 1
+place, Homer Glenn, 3, 0, 2, 0, 3, 0
+cancel, 27
+modify, 223, 1, 1, 5, 2, 4, 2
+cancel, 219
+modify, 606, 5, 1, 3, 0, 4, 2
+modify, 548, 3, 2, 11, 2, 4, 0
+cancel, 80
+modify, 349, 13, 1, 15, 0, 13, 0
+place, Robert Holmes, 5, 0, 5, 2, 5, 2
+cancel, 579
+modify, 604, 8, 0, 8, 0, 1, 0
+modify, 303, 3, 0, 8, 1, 8, 1
+place, John Ryan, 15, 2, 8, 0, 4, 1
+place, Mark Schock, 4, 1, 2, 1, 10, 0
+cancel, 137
+cancel, 499
+cancel, 113
+modify, 203, 2, 2, 14, 0, 6, 2
+cancel, 477
+place, Yvonne Itson, 10, 0, 8, 2, 7, 1
+modify, 74, 14, 1, 14, 0, 9, 2
+cancel, 3
+modify, 672, 3, 1, 11, 2, 10, 0
+place, Don Lott, 13, 1, 3, 0, 6, 1
+place, James Whisnant, 11, 0, 2, 2, 14, 2
+place, Carlos Townsend, 10, 2, 11, 2, 7, 1
+cancel, 271
+cancel, 418
+cancel, 201
+modify, 162, 3, 1, 12, 2, 3, 0
+cancel, 270
+place, Michael Spurgeon, 13, 1, 14, 0, 7, 0
+place, Young Santos, 6, 0, 3, 0, 8, 1
+cancel, 29
+modify, 156, 6, 1, 9, 2, 7, 1
+place, Luther Foody, 2, 1, 11, 0, 4, 0
+cancel, 79
+modify, 285, 15, 1, 8, 2, 14, 1
+place, Theresa Wilbanks, 15, 2, 13, 0, 3, 2
+place, Beth Rodriquez, 2, 2, 1, 1, 10, 1
+modify, 425, 5, 2, 1, 2, 6, 0
+place, Georgette Welker, 1, 2, 8, 2, 15, 2
+cancel, 451
+modify, 74, 5, 1, 1, 1, 11, 0
+cancel, 354
+place, Maynard Holt, 2, 0, 10, 2, 14, 0
+modify, 205, 15, 1, 13, 1, 4, 0
+modify, 555, 15, 0, 14, 2, 5, 1
+cancel, 10
+place, Warren Blubaugh, 15, 0, 10, 1, 14, 1
+place, Alice Graham, 6, 1, 7, 2, 12, 2
+cancel, 686
+place, Ann Saunders, 12, 1, 4, 0, 6, 1
+place, Jeffrey Helfritz, 6, 2, 14, 2, 15, 2
+modify, 631, 12, 1, 10, 0, 5, 2
+modify, 262, 2, 0, 11, 0, 1, 1
+place, John Davidson, 9, 1, 3, 1, 14, 0
+modify, 627, 5, 1, 11, 0, 6, 1
+place, Vera Waterman, 13, 1, 7, 0, 12, 1
+place, Alexander White, 4, 1, 15, 1, 9, 0
+modify, 283, 14, 0, 8, 2, 2, 0
+modify, 90, 12, 2, 1, 2, 4, 2
+cancel, 466
+modify, 139, 14, 0, 8, 0, 6, 0
+place, Joshua Johnson, 6, 1, 1, 1, 3, 0
+modify, 165, 7, 1, 13, 1, 13, 0
+modify, 206, 10, 0, 13, 0, 5, 0
+modify, 419, 6, 0, 2, 2, 6, 2
+modify, 150, 6, 0, 5, 2, 11, 0
+modify, 300, 4, 1, 5, 2, 6, 1
+place, Kathleen Harris, 2, 1, 10, 0, 7, 0
+cancel, 524
+modify, 155, 14, 1, 11, 0, 7, 0
+cancel, 560
+modify, 295, 8, 1, 3, 2, 11, 0
+modify, 511, 1, 2, 9, 1, 8, 0
+place, Andrea Vincent, 13, 1, 9, 1, 1, 1
+modify, 567, 2, 2, 11, 0, 3, 1
+place, Susan James, 13, 1, 9, 1, 15, 1
+modify, 694, 3, 1, 13, 2, 10, 2
+modify, 468, 14, 0, 8, 0, 13, 1
+place, Kelly Cooper, 3, 0, 3, 2, 3, 0
+place, Merle Wallace, 5, 2, 14, 2, 4, 2
+place, Mia Ray, 5, 2, 6, 0, 2, 0
+place, Daniel Morgan, 9, 0, 12, 2, 14, 1
+place, Beatrice Dodd, 14, 2, 4, 2, 1, 0
+modify, 222, 14, 0, 13, 2, 3, 1
+cancel, 365
+place, Billy Hodge, 2, 0, 12, 1, 11, 1
+modify, 232, 14, 1, 2, 1, 3, 0
+place, Thelma Banks, 11, 0, 10, 1, 12, 0
+place, Barbara Robinson, 1, 1, 5, 1, 8, 0
+cancel, 511
+cancel, 587
+cancel, 321
+modify, 524, 15, 2, 1, 2, 8, 2
+place, Kevin Smith, 2, 0, 8, 0, 13, 0
+place, Samantha Craig, 6, 1, 1, 0, 11, 1
+cancel, 566
+place, Rebecca Tenneson, 11, 2, 10, 2, 9, 0
+place, Shawn Pringle, 4, 0, 13, 1, 12, 0
+place, Nicole Saur, 5, 2, 6, 0, 14, 2
+modify, 638, 5, 0, 7, 1, 5, 0
+cancel, 131
+modify, 215, 13, 0, 5, 2, 9, 2
+modify, 59, 8, 1, 8, 0, 11, 2
+modify, 4, 13, 0, 4, 1, 4, 2
+cancel, 132
+modify, 435, 1, 1, 7, 0, 5, 1
+cancel, 70
+modify, 115, 12, 0, 8, 1, 15, 2
+cancel, 96
+cancel, 285
+cancel, 580
+cancel, 269
+modify, 358, 4, 2, 5, 1, 12, 1
+modify, 1, 6, 0, 12, 2, 8, 2
+modify, 489, 3, 1, 12, 1, 15, 2
+modify, 363, 3, 1, 1, 1, 4, 0
+modify, 45, 14, 2, 6, 2, 9, 1
+place, Marguerite Schumacher, 7, 1, 2, 1, 13, 2
+place, Dee Grammer, 8, 2, 8, 0, 6, 1
+cancel, 693
+cancel, 269
+modify, 387, 2, 1, 3, 2, 1, 2
+modify, 377, 8, 0, 6, 0, 12, 2
+modify, 413, 4, 0, 9, 0, 7, 0
+cancel, 87
+cancel, 195
+place, Josephine Neilson, 4, 2, 6, 2, 7, 2
+place, Stephen Standley, 1, 1, 4, 0, 14, 2
+modify, 18, 11, 0, 1, 2, 8, 0
+place, Clarence Miller, 9, 2, 1, 2, 4, 2
+modify, 553, 5, 2, 7, 1, 8, 2
+place, Ruth Nadeau, 8, 0, 4, 2, 12, 0
+cancel, 224
+place, Larry Morgan, 1, 0, 5, 2, 5, 1
+place, Theresa See, 11, 0, 3, 0, 4, 1
+modify, 641, 8, 0, 6, 1, 15, 1
+modify, 389, 10, 0, 7, 0, 4, 2
+cancel, 451
+place, Rachel Middleton, 2, 2, 2, 1, 2, 1
+place, Kenneth Filmore, 7, 2, 10, 1, 12, 2
+cancel, 593
+place, John Nee, 13, 2, 14, 2, 14, 0
+modify, 137, 13, 2, 5, 1, 8, 2
+place, Edward Rybij, 14, 2, 7, 2, 11, 1
+modify, 414, 6, 0, 9, 0, 12, 0
+cancel, 299
+cancel, 39
+place, Antonio Barnes, 7, 0, 11, 0, 13, 0
+place, Maria Evans, 1, 0, 10, 0, 15, 1
+cancel, 346
+cancel, 562
+cancel, 79
+modify, 170, 9, 2, 15, 1, 3, 0
+modify, 393, 8, 0, 6, 0, 10, 1
+place, Mary Preslipsky, 2, 2, 13, 0, 6, 0
+modify, 36, 8, 1, 7, 2, 10, 1
+cancel, 157
+modify, 671, 10, 2, 6, 0, 4, 1
+cancel, 577
+cancel, 508
+modify, 545, 7, 1, 9, 0, 12, 1
+place, Teresa Shultz, 3, 1, 2, 0, 11, 1
+cancel, 616
+cancel, 555
+modify, 155, 7, 1, 2, 0, 12, 1
+place, Cynthia Parker, 14, 1, 8, 1, 8, 1
+modify, 179, 2, 0, 5, 1, 11, 1
+place, Patricia Tiner, 1, 1, 11, 0, 8, 0
+place, Dorothy Clow, 4, 0, 6, 0, 1, 1
+modify, 33, 15, 0, 5, 1, 7, 0
+place, Evelyn Woods, 10, 2, 9, 1, 15, 2
+modify, 563, 9, 2, 10, 2, 2, 1
+modify, 303, 9, 0, 14, 1, 13, 1
+cancel, 199
+modify, 388, 14, 1, 2, 2, 4, 1
+place, Anne Ellis, 15, 0, 14, 0, 7, 0
+modify, 440, 10, 2, 11, 1, 13, 2
+place, Christopher Chavez, 3, 0, 4, 1, 15, 1
+modify, 421, 7, 2, 4, 2, 10, 2
+place, Sandy Marsh, 11, 1, 2, 2, 7, 0
+place, Robert Roth, 13, 0, 2, 0, 10, 0
+cancel, 21
+modify, 366, 3, 0, 13, 0, 3, 0
+modify, 95, 14, 1, 2, 2, 12, 2
+cancel, 85
+modify, 154, 15, 1, 1, 1, 4, 2
+modify, 147, 3, 0, 6, 0, 8, 0
+modify, 541, 7, 0, 8, 0, 11, 2
+modify, 672, 1, 1, 13, 1, 11, 2
+place, Lorena Mounts, 14, 1, 8, 1, 1, 2
+modify, 63, 2, 0, 11, 0, 10, 0
+place, Denise Bryant, 14, 1, 10, 0, 14, 2
+cancel, 275
+place, Larry Graham, 1, 0, 5, 0, 4, 1
+place, Ericka Nealy, 1, 1, 14, 0, 12, 2
+cancel, 609
+modify, 558, 6, 1, 6, 2, 5, 0
+cancel, 248
+place, Mary Kendricks, 6, 2, 8, 2, 12, 1
+place, Edward Grant, 14, 1, 9, 0, 12, 2
+cancel, 695
+modify, 443, 13, 0, 9, 1, 7, 1
+cancel, 422
+cancel, 271
+place, Mary Dubois, 2, 0, 14, 1, 12, 2
+modify, 43, 11, 2, 13, 2, 11, 0
+cancel, 488
+cancel, 315
+cancel, 681
+cancel, 386
+modify, 593, 7, 1, 15, 2, 13, 2
+cancel, 592
+place, Heather Philson, 5, 1, 7, 1, 5, 2
+cancel, 58
+place, Jesse Chartier, 13, 0, 7, 1, 15, 2
+place, Todd Elder, 2, 1, 11, 0, 1, 1
+modify, 219, 5, 0, 13, 0, 6, 2
+cancel, 684
+modify, 401, 8, 1, 11, 2, 12, 2
+cancel, 152
+cancel, 444
+place, George Philip, 2, 2, 13, 1, 14, 1
+place, Jacqueline Blethen, 13, 2, 13, 0, 9, 1
+modify, 269, 10, 1, 1, 0, 2, 0
+cancel, 8
+modify, 461, 9, 0, 7, 1, 8, 1
+place, Donald Serrano, 15, 1, 4, 1, 2, 2
+cancel, 362
+place, George Murphy, 10, 0, 13, 2, 15, 2
+modify, 441, 5, 0, 15, 1, 11, 0
+modify, 116, 2, 0, 5, 2, 12, 2
+cancel, 215
+modify, 542, 7, 1, 6, 1, 10, 1
+place, Miguel Hamm, 2, 1, 9, 1, 4, 1
+cancel, 311
+modify, 713, 3, 2, 9, 2, 7, 1
+cancel, 638
+modify, 13, 8, 1, 7, 0, 4, 2
+modify, 414, 8, 1, 2, 2, 11, 0
+place, Patsy Malone, 6, 2, 9, 1, 1, 1
+cancel, 330
+cancel, 614
+modify, 537, 6, 0, 4, 0, 12, 1
+place, William Dean, 2, 2, 6, 1, 14, 2
+place, Mary Fee, 1, 1, 9, 1, 12, 0
+place, Nancy Wilhelm, 11, 1, 11, 2, 13, 1
+cancel, 427
+cancel, 114
+place, David Shellhammer, 10, 0, 10, 1, 8, 2
+place, William Oakes, 1, 0, 12, 1, 1, 0
+place, Amelia Mcwhorter, 2, 0, 8, 0, 10, 2
+cancel, 325
+cancel, 568
+place, Sharon Warren, 7, 2, 9, 1, 14, 2
+place, Martha Foster, 12, 0, 11, 2, 10, 0
+modify, 257, 3, 2, 12, 0, 10, 0
+cancel, 615
+modify, 252, 12, 0, 12, 0, 11, 2
+place, Jackie Philip, 13, 1, 10, 1, 1, 0
+place, Karina Pabon, 11, 0, 6, 1, 7, 2
+place, Anne Smith, 14, 0, 4, 1, 4, 1
+place, Meredith Jackson, 6, 0, 4, 1, 13, 2
+modify, 753, 9, 1, 13, 2, 9, 2
+place, Deborah Saunders, 9, 2, 2, 1, 13, 2
+modify, 257, 2, 0, 15, 1, 1, 1
+cancel, 526
+cancel, 466
+place, Walker Major, 3, 1, 6, 1, 15, 1
+cancel, 407
+cancel, 11
+modify, 219, 9, 2, 7, 0, 7, 2
+cancel, 472
+cancel, 63
+place, Maria Swenson, 15, 0, 9, 1, 6, 0
+modify, 431, 12, 0, 1, 1, 5, 2
+place, Robert Belser, 14, 2, 7, 2, 10, 1
+modify, 356, 3, 1, 13, 0, 1, 1
+modify, 386, 4, 0, 13, 0, 6, 2
+modify, 141, 10, 0, 2, 2, 4, 1
+modify, 340, 15, 0, 1, 2, 13, 0
+cancel, 37
+place, Zachary Mathews, 14, 1, 14, 2, 7, 0
+place, Tiffany Koslow, 15, 0, 1, 1, 13, 0
+cancel, 70
+place, Sherrell Cook, 4, 2, 12, 0, 14, 2
+place, Malka Burlin, 6, 1, 1, 2, 9, 0
+place, Edison Patch, 5, 0, 1, 1, 7, 0
+place, Elena Gale, 5, 1, 4, 0, 4, 0
+place, Joanne Moye, 13, 0, 2, 2, 12, 0
+cancel, 396
+cancel, 312
+cancel, 597
+place, Cheryl Fields, 15, 2, 5, 0, 11, 2
+place, Brandon Miller, 4, 0, 6, 0, 6, 2
+modify, 94, 6, 0, 11, 0, 15, 0
+cancel, 130
+cancel, 380
+modify, 473, 1, 1, 7, 2, 8, 0
+cancel, 237
+cancel, 596
+place, Helen Chamberlin, 7, 0, 6, 2, 10, 1
+place, Daniel Tobin, 10, 1, 13, 2, 6, 0
+place, Patricia Brown, 13, 0, 10, 0, 6, 2
+place, Dorathy Swem, 9, 0, 1, 0, 1, 2
+modify, 144, 15, 0, 12, 1, 12, 0
+place, Natasha Brown, 6, 2, 9, 1, 12, 2
+modify, 752, 3, 0, 12, 1, 15, 1
+place, John Aguayo, 6, 0, 6, 2, 1, 2
+modify, 172, 8, 0, 7, 2, 1, 0
+cancel, 593
+place, Jorge Oliver, 12, 0, 4, 0, 4, 1
+modify, 357, 12, 1, 11, 0, 8, 1
+place, Claude Montgomery, 3, 2, 3, 0, 15, 1
+modify, 461, 13, 0, 5, 0, 12, 2
+modify, 331, 15, 2, 2, 2, 2, 0
+cancel, 518
+place, Ralph Hatch, 3, 0, 11, 2, 11, 2
+place, Daniel Delagarza, 1, 0, 11, 2, 15, 0
+place, Beth Patterson, 15, 2, 13, 1, 15, 1
+cancel, 502
+modify, 17, 9, 2, 7, 1, 5, 2
+modify, 480, 10, 2, 3, 1, 12, 2
+cancel, 638
+modify, 36, 2, 1, 11, 2, 10, 1
+cancel, 554
+modify, 79, 1, 1, 2, 0, 10, 0
+place, Maria Law, 5, 1, 2, 0, 3, 2
+modify, 86, 8, 2, 15, 2, 5, 1
+place, Phyllis Price, 6, 1, 1, 2, 12, 0
+modify, 486, 7, 2, 4, 2, 9, 0
+place, Jason Casbarro, 11, 2, 2, 0, 1, 2
+cancel, 86
+cancel, 371
+modify, 444, 4, 0, 8, 0, 13, 1
+modify, 434, 4, 0, 7, 1, 8, 2
+modify, 214, 4, 1, 10, 1, 2, 1
+cancel, 287
+modify, 6, 15, 1, 2, 0, 14, 0
+place, Donald Dunnings, 12, 1, 15, 1, 4, 2
+place, Kenny Weaver, 4, 2, 4, 0, 7, 2
+cancel, 64
+place, Salvatore Furman, 10, 2, 9, 1, 14, 1
+modify, 274, 7, 2, 2, 0, 2, 1
+modify, 219, 5, 1, 12, 1, 1, 2
+modify, 299, 2, 1, 4, 1, 5, 1
+modify, 218, 11, 1, 7, 1, 7, 0
+place, Jerry Kornreich, 10, 2, 13, 1, 3, 0
+place, Helen Henderson, 3, 2, 1, 0, 4, 0
+cancel, 182
+modify, 314, 7, 1, 8, 0, 1, 0
+cancel, 615
+place, John Macareno, 7, 1, 10, 1, 7, 2
+place, Mary Donnelly, 15, 2, 8, 2, 13, 0
+cancel, 376
+place, Miranda Tapia, 11, 0, 2, 2, 8, 2
+cancel, 667
+place, Muriel Manrique, 8, 0, 5, 0, 6, 1
+modify, 270, 12, 2, 7, 1, 3, 1
+modify, 411, 9, 0, 9, 2, 9, 0
+modify, 629, 4, 2, 10, 0, 14, 2
+place, Jonathan Paulding, 11, 1, 2, 2, 4, 0
+place, Lynette Leach, 7, 0, 6, 2, 4, 0
+modify, 217, 10, 1, 6, 2, 8, 1
+cancel, 115
+place, Luz Anderson, 11, 2, 4, 0, 9, 0
+cancel, 603
+modify, 531, 4, 1, 7, 2, 13, 1
+place, Vivian Phillips, 2, 1, 10, 1, 9, 2
+modify, 139, 14, 2, 3, 2, 12, 1
+cancel, 608
+modify, 383, 11, 0, 14, 2, 3, 2
+modify, 418, 4, 2, 10, 1, 14, 1
+cancel, 514
+modify, 689, 13, 1, 9, 2, 15, 1
+cancel, 514
+cancel, 737
+place, Michael Armstead, 1, 0, 14, 1, 8, 0
+place, Nelda Gephart, 15, 1, 7, 1, 8, 0
+place, Arthur Stephens, 3, 1, 8, 0, 2, 0
+modify, 652, 12, 2, 5, 1, 11, 1
+modify, 557, 10, 0, 11, 2, 6, 1
+place, Anthony Jenkins, 11, 0, 14, 1, 3, 0
+modify, 337, 13, 1, 9, 2, 12, 1
+modify, 258, 11, 1, 3, 0, 3, 2
+cancel, 619
+cancel, 15
+place, Clifton Goulet, 4, 0, 5, 1, 13, 0
+cancel, 573
+place, Charles Lee, 7, 0, 13, 1, 2, 1
+place, Thomas Cancro, 7, 1, 14, 1, 12, 2
+modify, 419, 13, 0, 12, 1, 15, 2
+modify, 346, 4, 0, 10, 2, 4, 0
+modify, 717, 9, 2, 9, 0, 4, 1
+modify, 473, 9, 0, 15, 0, 13, 0
+cancel, 362
+cancel, 720
+modify, 690, 6, 1, 7, 0, 9, 2
+modify, 605, 6, 2, 13, 0, 10, 1
+place, Janet Butcher, 11, 2, 13, 2, 15, 2
+place, Susan Stafford, 6, 1, 4, 2, 1, 2
+modify, 367, 14, 2, 5, 2, 9, 1
+cancel, 405
+modify, 795, 13, 1, 13, 1, 15, 1
+place, Ada Oliver, 4, 0, 6, 0, 10, 0
+cancel, 818
+modify, 172, 7, 1, 15, 0, 6, 0
+cancel, 560
+place, Tommy Shinn, 12, 0, 12, 2, 13, 0
+place, Anthony Miller, 5, 1, 5, 2, 3, 0
+modify, 77, 7, 2, 11, 1, 11, 2
+place, Michael Bracken, 15, 0, 9, 0, 10, 0
+place, Tamera Gonzalez, 10, 0, 10, 2, 6, 0
+modify, 82, 4, 0, 2, 1, 7, 2
+cancel, 206
+cancel, 182
+modify, 816, 4, 2, 6, 2, 7, 2
+cancel, 622
+cancel, 112
+modify, 124, 10, 2, 10, 1, 6, 2
+modify, 2, 6, 1, 1, 1, 12, 1
+place, Ileana Rustrian, 12, 0, 4, 1, 11, 1
+place, Jorge Bridges, 1, 2, 6, 1, 15, 1
+modify, 77, 6, 2, 14, 2, 8, 0
+modify, 278, 11, 1, 2, 0, 11, 0
+place, Stephen Imhof, 7, 2, 5, 1, 9, 1
+cancel, 296
+place, Carolyn Bonds, 2, 2, 1, 0, 13, 2
+modify, 400, 14, 1, 11, 1, 8, 1
+cancel, 635
+modify, 603, 3, 0, 10, 0, 5, 2
+place, Amy Donald, 11, 2, 3, 0, 3, 1
+cancel, 297
+place, Jim Harper, 11, 2, 9, 1, 10, 2
+cancel, 346
+place, Michael Clark, 12, 2, 12, 0, 14, 2
+cancel, 341
+place, Gale Kelly, 10, 1, 9, 2, 5, 1
+modify, 233, 14, 1, 14, 0, 4, 2
+cancel, 710
+place, Myrtle Denault, 11, 0, 13, 2, 5, 2
+place, Susan Horky, 11, 2, 2, 2, 2, 1
+place, Diana Rivera, 7, 0, 13, 0, 8, 0
+cancel, 390
+place, Amy Snell, 14, 2, 10, 1, 3, 2
+cancel, 339
+modify, 315, 5, 1, 1, 1, 9, 2
+cancel, 194
+modify, 201, 7, 2, 12, 0, 6, 1
+cancel, 428
+cancel, 291
+place, Joel Benedix, 4, 2, 12, 0, 3, 0
+place, Matthew Barnes, 3, 2, 11, 0, 15, 2
+place, Paul Brown, 2, 1, 4, 1, 5, 1
+place, Aaron Baxter, 12, 0, 14, 2, 2, 2
+cancel, 830
+place, Adam Marshall, 9, 0, 13, 0, 12, 1
+cancel, 152
+modify, 531, 8, 0, 9, 2, 8, 2
+place, Kristin Way, 2, 1, 13, 0, 10, 2
+cancel, 507
+cancel, 280
+cancel, 511
+modify, 478, 11, 0, 8, 1, 10, 0
+place, Matthew Doolittle, 1, 2, 10, 2, 12, 1
+place, Paul Scott, 9, 1, 7, 2, 2, 0
+modify, 645, 5, 2, 11, 0, 12, 1
+place, Cindy Aponte, 5, 0, 10, 2, 6, 0
+modify, 829, 9, 1, 3, 1, 2, 1
+place, Tiffany Kleck, 12, 1, 5, 2, 11, 0
+cancel, 40
+cancel, 832
+place, Chester Lermon, 3, 2, 3, 1, 15, 2
+cancel, 429
+place, Juan Minton, 9, 2, 14, 2, 5, 2
+cancel, 593
+modify, 393, 10, 0, 15, 2, 12, 2
+cancel, 831
+place, Solomon Rucker, 7, 2, 9, 2, 8, 2
+cancel, 563
+cancel, 827
+modify, 243, 10, 2, 14, 1, 10, 0
+cancel, 661
+place, Arielle Carroll, 1, 1, 4, 0, 12, 0
+place, Barbara Baker, 6, 2, 4, 1, 6, 2
+place, Ryan Klopfer, 8, 0, 4, 2, 5, 0
+cancel, 719
+place, Thomas Brown, 4, 1, 11, 0, 2, 0
+cancel, 42
+cancel, 41
+cancel, 111
+modify, 708, 15, 2, 4, 1, 3, 2
+place, Christopher Taylor, 15, 2, 7, 1, 10, 1
+cancel, 225
+modify, 439, 6, 1, 10, 1, 11, 1
+place, Penni Thomas, 10, 2, 15, 0, 11, 2
+cancel, 372
+cancel, 75
+place, Dawn Gonzales, 10, 1, 12, 1, 6, 0
+modify, 814, 14, 1, 7, 2, 15, 0
+cancel, 722
+place, Gayle Williams, 11, 1, 1, 0, 1, 0
+cancel, 846
+place, Jose Vann, 4, 1, 3, 2, 5, 0
+place, James Foster, 4, 2, 13, 1, 11, 1
+modify, 242, 14, 1, 6, 2, 15, 1
+place, Johnnie Trujillo, 15, 2, 15, 2, 14, 0
+place, William Judge, 6, 1, 15, 1, 15, 1
+modify, 781, 5, 2, 11, 1, 14, 0
+place, Mack Warren, 9, 0, 1, 1, 4, 0
+place, John Pearce, 9, 1, 7, 1, 14, 0
+cancel, 303
+modify, 569, 7, 0, 9, 1, 15, 0
+place, John Connors, 8, 2, 14, 2, 6, 1
+place, Cherie Lupo, 4, 0, 14, 2, 9, 1
+modify, 165, 2, 2, 7, 0, 10, 0
+cancel, 430
+place, Hector Santiago, 5, 2, 13, 0, 8, 1
+place, Wilbur Gardella, 14, 2, 2, 0, 6, 1
+modify, 437, 1, 2, 12, 1, 14, 0
+place, Denise Clerc, 15, 1, 5, 2, 14, 0
+cancel, 368
+modify, 444, 1, 1, 4, 1, 5, 2
+cancel, 451
+place, Isaac Yale, 11, 0, 13, 1, 4, 0
+place, Faith Strock, 15, 2, 9, 1, 1, 0
+place, Esther Garbarino, 3, 2, 14, 2, 8, 0
+place, Peggy Lang, 12, 0, 13, 0, 15, 2
+cancel, 127
+modify, 639, 14, 0, 15, 0, 6, 0
+cancel, 681
+cancel, 777
+place, Susan Jones, 9, 2, 11, 1, 3, 1
+modify, 686, 14, 1, 8, 2, 7, 0
+place, Harry Rubio, 3, 1, 12, 1, 1, 1
+modify, 653, 2, 1, 7, 2, 9, 0
+place, Joyce Cunningham, 9, 1, 12, 1, 7, 2
+cancel, 230
+place, Gaylord Woodruff, 14, 2, 4, 1, 12, 2
+modify, 200, 7, 2, 3, 1, 15, 1
+cancel, 290
+cancel, 38
+place, Jessie Harp, 12, 1, 8, 1, 9, 1
+place, Donald Zamorano, 6, 1, 2, 1, 14, 1
+cancel, 847
+cancel, 386
+cancel, 244
+place, Michael Moore, 8, 2, 14, 0, 14, 2
+place, John Johnson, 14, 0, 10, 1, 15, 0
+place, William Jackson, 13, 2, 3, 0, 3, 0
+modify, 621, 3, 0, 6, 1, 4, 2
+cancel, 852
+cancel, 154
+cancel, 124
+modify, 196, 12, 2, 9, 0, 14, 1
+place, Laura Lotton, 14, 1, 10, 0, 11, 2
+modify, 322, 14, 1, 12, 0, 10, 2
+modify, 606, 11, 1, 9, 2, 4, 1
+modify, 845, 1, 0, 9, 1, 10, 1
+place, Peggy Wentzel, 4, 1, 5, 1, 4, 1
+modify, 71, 14, 1, 6, 2, 9, 0
+modify, 658, 5, 2, 2, 1, 5, 1
+place, Elizabeth Birdsall, 6, 1, 4, 2, 10, 2
+modify, 855, 8, 1, 1, 2, 10, 0
+modify, 147, 10, 0, 11, 0, 12, 1
+cancel, 193
+modify, 105, 7, 0, 5, 0, 10, 2
+place, Cynthia Morrison, 14, 2, 2, 0, 3, 2
+cancel, 531
+modify, 824, 1, 1, 14, 1, 6, 0
+place, Paul Abel, 1, 2, 14, 2, 6, 2
+modify, 619, 10, 1, 6, 2, 14, 0
+cancel, 847
+modify, 766, 6, 1, 6, 0, 7, 2
+modify, 832, 2, 2, 6, 2, 13, 1
+modify, 836, 12, 1, 12, 2, 15, 1
+cancel, 453
+place, Kenneth Bridges, 11, 1, 11, 0, 14, 1
+cancel, 406
+cancel, 131
+cancel, 862
+cancel, 508
+modify, 674, 14, 0, 9, 0, 15, 0
+cancel, 735
+place, Joseph Messinger, 10, 2, 6, 1, 9, 1
+place, Roy Ennis, 3, 1, 1, 0, 3, 0
+modify, 454, 8, 2, 10, 1, 12, 2
+place, Tina Mirabal, 13, 1, 13, 0, 12, 0
+cancel, 141
+cancel, 784
+modify, 508, 8, 2, 5, 1, 14, 2
+place, William Leavitt, 9, 0, 2, 1, 6, 1
+modify, 344, 8, 0, 4, 2, 11, 0
+modify, 251, 7, 0, 5, 2, 3, 1
+cancel, 766
+cancel, 432
+cancel, 460
+cancel, 556
+modify, 570, 3, 2, 6, 0, 3, 2
+cancel, 835
+place, Diane Tyner, 5, 2, 3, 1, 10, 1
+cancel, 695
+place, Tyrone Conway, 6, 0, 12, 2, 13, 1
+modify, 167, 4, 0, 5, 0, 11, 2
+place, William Crumb, 9, 1, 15, 1, 3, 1
+place, Reta Arias, 13, 0, 7, 1, 14, 0
+cancel, 322
+place, George Dow, 11, 1, 5, 2, 3, 2
+modify, 719, 1, 0, 2, 2, 11, 0
+place, Dolores Baca, 4, 2, 5, 1, 1, 0
+cancel, 404
+cancel, 656
+place, Delbert Francis, 12, 1, 5, 1, 12, 1
+place, John Wahlert, 11, 2, 15, 0, 6, 1
+place, Steve Fitzpatrick, 7, 2, 5, 1, 8, 2
+modify, 738, 10, 0, 8, 0, 11, 0
+place, Brandon Mccarthy, 1, 1, 13, 2, 7, 1
+cancel, 65
+cancel, 867
+place, Margarito Emery, 15, 2, 13, 1, 6, 2
+place, James Espinal, 10, 0, 14, 0, 4, 1
+modify, 71, 3, 0, 6, 1, 6, 1
+cancel, 55
+cancel, 442
+place, Paul Lloyd, 11, 2, 12, 2, 14, 2
+place, Danette Mosley, 3, 1, 10, 0, 3, 2
+modify, 155, 11, 2, 8, 1, 1, 2
+cancel, 713
+place, Sara Green, 9, 1, 13, 2, 8, 2
+modify, 129, 1, 1, 9, 2, 14, 2
+cancel, 162
+place, Janet Bussell, 10, 0, 6, 1, 7, 1
+modify, 759, 14, 1, 14, 1, 12, 0
+place, Gregory Evans, 9, 2, 13, 0, 15, 2
+place, Evelyn Guzman, 6, 2, 6, 2, 8, 1
+place, Stephanie Goatley, 4, 0, 8, 0, 13, 1
+cancel, 251
+place, Juanita Phelan, 1, 1, 14, 2, 7, 1
+modify, 171, 10, 2, 13, 0, 11, 2
+place, Edgar Johnson, 7, 1, 14, 2, 15, 0
+cancel, 429
+modify, 73, 8, 0, 4, 2, 9, 0
+place, Holly Johnson, 14, 1, 8, 1, 8, 1
+place, Larry Burke, 9, 0, 9, 0, 1, 1
+place, Shannon Sinnott, 3, 0, 10, 1, 5, 1
+cancel, 156
+place, Michael Wells, 7, 0, 13, 2, 11, 2
+cancel, 32
+modify, 480, 5, 1, 3, 0, 7, 1
+cancel, 717
+cancel, 796
+modify, 464, 5, 0, 3, 1, 10, 0
+place, Blanca Carter, 9, 1, 11, 1, 7, 1
+cancel, 414
+cancel, 797
+modify, 668, 13, 0, 1, 1, 14, 1
+modify, 897, 15, 1, 15, 1, 14, 0
+modify, 457, 13, 2, 7, 2, 4, 2
+modify, 286, 15, 1, 8, 1, 12, 1
+modify, 585, 11, 0, 5, 0, 9, 0
+place, Donald Maxwell, 5, 2, 14, 0, 4, 2
+modify, 700, 9, 0, 3, 2, 1, 0
+modify, 32, 14, 0, 11, 2, 3, 1
+place, Louise Box, 12, 2, 3, 2, 9, 2
+cancel, 613
+place, Stephanie Elliot, 12, 0, 9, 1, 1, 2
+cancel, 871
+cancel, 289
+cancel, 666
+cancel, 317
+cancel, 141
+cancel, 565
+cancel, 59
+cancel, 274
+cancel, 380
+modify, 773, 15, 0, 6, 0, 1, 2
+cancel, 696
+modify, 445, 7, 0, 10, 0, 5, 0
+cancel, 447
+cancel, 67
+place, Alethia Do, 11, 1, 10, 2, 15, 0
+modify, 620, 6, 1, 10, 0, 13, 1
+place, Iris Davis, 8, 2, 14, 1, 6, 2
+place, Kristi Green, 8, 2, 10, 0, 15, 1
+modify, 887, 13, 0, 2, 1, 13, 1
+cancel, 365
+cancel, 242
+place, Gary Jahns, 2, 0, 2, 2, 8, 2
+modify, 395, 2, 0, 3, 1, 11, 0
+cancel, 417
+cancel, 670
+place, Jeff Dryden, 12, 2, 15, 0, 5, 1
+place, Daisy West, 1, 0, 1, 2, 4, 0
+modify, 176, 3, 1, 13, 2, 10, 1
+modify, 138, 5, 2, 1, 0, 9, 0
+cancel, 622
+cancel, 424
+place, Antoinette Vaughn, 14, 1, 14, 0, 10, 1
+place, James Schott, 5, 0, 13, 2, 1, 2
+cancel, 207
+modify, 570, 9, 0, 8, 0, 1, 1
+cancel, 538
+cancel, 818
+modify, 697, 5, 1, 10, 0, 5, 0
+cancel, 585
+place, Joseph Rothman, 10, 1, 5, 2, 11, 0
+place, Gary Hunt, 9, 2, 13, 0, 12, 0
+modify, 541, 5, 1, 3, 1, 15, 0
+place, Eric Edmonds, 4, 1, 13, 1, 10, 1
+cancel, 740
+modify, 242, 4, 0, 11, 0, 8, 1
+modify, 93, 1, 0, 13, 1, 9, 1
+place, Annie Barton, 10, 1, 9, 0, 12, 2
+modify, 108, 7, 1, 13, 2, 9, 2
+cancel, 660
+cancel, 457
+modify, 212, 14, 2, 14, 0, 8, 1
+cancel, 405
+modify, 666, 9, 1, 15, 2, 13, 0
+place, Gregory Hanselman, 8, 0, 6, 2, 5, 2
+modify, 455, 9, 1, 10, 0, 6, 0
+cancel, 597
+cancel, 857
+place, Thelma Farrar, 9, 0, 12, 0, 4, 2
+modify, 720, 7, 0, 15, 2, 5, 1
+modify, 822, 6, 2, 1, 2, 13, 0
+cancel, 469
+cancel, 130
+cancel, 476
+cancel, 624
+place, Erin Roberts, 8, 1, 6, 1, 9, 2
+modify, 475, 7, 0, 3, 1, 10, 0
+cancel, 509
+modify, 595, 8, 1, 4, 2, 3, 0
+place, John Reddish, 6, 1, 9, 1, 3, 2
+place, Earl Oshell, 6, 2, 13, 2, 13, 2
+modify, 664, 13, 1, 11, 0, 5, 1
+cancel, 824
+place, Ernest Lambert, 1, 0, 5, 2, 10, 0
+cancel, 282
+modify, 594, 11, 0, 11, 1, 8, 0
+place, Mary Brown, 3, 0, 1, 2, 12, 1
+modify, 94, 9, 1, 5, 2, 13, 0
+modify, 728, 8, 2, 4, 1, 8, 2
+cancel, 238
+place, Roger Zimmermann, 9, 1, 8, 1, 2, 0
+cancel, 748
+cancel, 56
+modify, 397, 1, 1, 7, 1, 13, 1
+cancel, 36
+place, William Dacruz, 13, 2, 8, 1, 6, 1
+cancel, 314
+cancel, 613
+cancel, 820
+cancel, 888
+place, Theresa Denham, 15, 2, 14, 2, 1, 1
+modify, 853, 15, 1, 10, 2, 14, 1
+modify, 10, 9, 1, 1, 0, 13, 1
+modify, 77, 6, 2, 8, 2, 10, 1
+place, Connie Pittman, 4, 0, 2, 1, 7, 2
+place, Michael Gamez, 12, 1, 11, 0, 11, 0
+place, Tony Brooks, 13, 1, 13, 2, 9, 2
+cancel, 834
+place, Rebecca Grubbs, 15, 2, 14, 0, 10, 0
+modify, 895, 3, 0, 11, 1, 5, 2
+modify, 424, 7, 2, 13, 2, 3, 1
+modify, 392, 14, 2, 6, 1, 2, 2
+place, Olive Moses, 10, 0, 13, 2, 7, 1
+cancel, 226
+place, Kenneth Martinez, 12, 1, 12, 2, 11, 2
+place, Annie Masella, 4, 0, 2, 0, 9, 1
+place, Laurie Flemings, 11, 0, 8, 1, 6, 0
+modify, 62, 4, 2, 12, 2, 10, 2
+cancel, 123
+modify, 527, 9, 0, 13, 2, 4, 0
+place, Eugene Pearce, 14, 0, 4, 1, 12, 1
+cancel, 864
+modify, 52, 3, 1, 9, 1, 9, 2
+modify, 399, 4, 2, 5, 1, 15, 1
+place, Homer Sharp, 5, 2, 14, 0, 10, 0
+place, Mildred Oneal, 15, 2, 4, 2, 4, 1
+cancel, 498
+place, Daniel Wilson, 5, 2, 10, 2, 9, 1
+modify, 72, 1, 2, 7, 2, 7, 1
+place, Lindsey Waldorf, 14, 0, 13, 0, 5, 1
+cancel, 378
+modify, 894, 4, 1, 14, 1, 13, 1
+cancel, 876
+place, Mary Hundley, 10, 0, 10, 2, 13, 1
+modify, 742, 12, 2, 6, 0, 6, 1
+modify, 87, 1, 1, 11, 0, 1, 1
+place, April Andrade, 2, 1, 1, 2, 12, 2
+modify, 786, 14, 1, 6, 0, 4, 0
+place, Robert Hertz, 3, 0, 7, 0, 9, 2
+modify, 714, 7, 1, 10, 1, 5, 1
+place, William Lees, 9, 1, 6, 1, 9, 2
+place, Abbie Hooper, 10, 0, 3, 1, 7, 0
+cancel, 484
+cancel, 22
+cancel, 85
+place, Richard Jackson, 1, 2, 5, 0, 9, 0
+place, Oliver Shock, 8, 0, 2, 2, 3, 1
+place, Chad Simmons, 8, 2, 11, 2, 10, 1
+place, Sarah Seley, 8, 2, 8, 2, 9, 2
+modify, 483, 1, 1, 1, 0, 10, 1
+cancel, 955
+cancel, 366
+cancel, 235
+cancel, 632
+place, Terri Moreno, 3, 0, 11, 2, 13, 0
+place, Russell Lashley, 4, 2, 5, 1, 2, 1
+cancel, 242
+cancel, 30
+place, William Deyoung, 3, 1, 5, 0, 11, 2
+cancel, 232
+modify, 113, 1, 0, 9, 2, 2, 1
+modify, 805, 13, 1, 14, 2, 6, 2
+modify, 830, 9, 2, 13, 2, 15, 0
+modify, 70, 11, 2, 12, 1, 15, 0
+cancel, 629
+modify, 699, 4, 2, 1, 0, 7, 1
+cancel, 270
+modify, 200, 1, 0, 6, 0, 8, 2
+cancel, 192
+cancel, 784
+cancel, 797
+modify, 253, 12, 1, 6, 0, 3, 1
+place, Susanne Calicott, 7, 2, 11, 0, 2, 0
+modify, 387, 9, 0, 2, 2, 7, 0
+cancel, 886
+place, Joan Drumheller, 4, 2, 6, 2, 5, 0
+cancel, 202
+modify, 628, 12, 0, 11, 1, 4, 1
+cancel, 873
+cancel, 589
+place, Mary Reed, 10, 2, 4, 2, 8, 0
+modify, 570, 11, 1, 3, 2, 15, 2
+place, William Jones, 2, 1, 10, 0, 9, 0
+modify, 47, 8, 0, 5, 1, 7, 2
+modify, 169, 12, 1, 6, 1, 11, 2
+modify, 29, 12, 2, 9, 2, 15, 2
+cancel, 783
+place, Frank Sanchez, 6, 1, 11, 0, 6, 2
+modify, 769, 3, 2, 9, 1, 8, 0
+cancel, 274
+modify, 202, 2, 2, 5, 0, 3, 2
+modify, 500, 8, 1, 1, 0, 14, 2
+cancel, 848
+modify, 184, 2, 0, 6, 0, 1, 2
+modify, 430, 14, 1, 15, 0, 10, 0
+cancel, 392
+modify, 490, 4, 2, 12, 1, 13, 2
+place, Natasha Pierre, 3, 1, 10, 1, 4, 0
+place, Lynda Allery, 9, 1, 2, 1, 6, 2
+cancel, 371
+place, Pamela James, 4, 0, 4, 0, 8, 1
+modify, 937, 1, 2, 7, 2, 9, 2
+modify, 101, 9, 1, 9, 1, 1, 2
+place, Mark Arterberry, 4, 2, 10, 1, 15, 2
+place, Michael Niles, 6, 1, 12, 2, 3, 2
+cancel, 896
+cancel, 67
+cancel, 51
+cancel, 218
+place, George Hebert, 3, 2, 1, 2, 10, 2
+modify, 6, 6, 2, 8, 1, 4, 1
+place, Susan Moran, 6, 2, 10, 0, 5, 2
+cancel, 786
+cancel, 726
+place, Claudia Clark, 9, 0, 4, 1, 15, 1
+place, Robert Langley, 8, 0, 13, 1, 5, 1
+place, Gwendolyn Lawrence, 13, 2, 6, 0, 5, 1
+cancel, 389
+cancel, 272
+modify, 570, 6, 1, 15, 0, 5, 0
+cancel, 678
+cancel, 972
+modify, 788, 11, 1, 3, 1, 8, 0
+cancel, 813
+modify, 351, 12, 0, 14, 1, 13, 1
+place, Ronald Voorhees, 12, 0, 9, 2, 9, 2
+modify, 708, 10, 2, 10, 2, 11, 1
+place, Julie Jensen, 2, 1, 2, 2, 1, 0
+modify, 588, 3, 0, 6, 2, 13, 0
+cancel, 574
+cancel, 338
+place, Catherine Dudley, 12, 1, 8, 0, 1, 1
+place, Andrew Snedegar, 8, 2, 5, 1, 5, 2
+place, Edward Antonio, 12, 2, 13, 0, 4, 0
+cancel, 388
+modify, 33, 9, 2, 6, 1, 15, 2
+modify, 55, 14, 0, 5, 2, 2, 0
+place, Mary Castillo, 6, 0, 4, 2, 8, 1
+cancel, 68
+modify, 549, 11, 1, 3, 0, 7, 0
+cancel, 365
+cancel, 719
+place, Natalia Perez, 15, 0, 5, 0, 8, 0
+cancel, 449
+modify, 180, 12, 0, 14, 0, 12, 1
+cancel, 109
+place, Marion Norman, 9, 2, 1, 2, 5, 0
+modify, 188, 3, 2, 11, 0, 2, 2
+place, Shane Burris, 2, 1, 10, 2, 13, 0
+place, James Smith, 2, 1, 3, 2, 15, 0
+cancel, 435
+place, Angela Smythe, 7, 2, 9, 2, 5, 2
+place, Patrica Matlock, 5, 1, 13, 2, 12, 1
+place, Daniel Riggie, 6, 0, 2, 2, 11, 1
+cancel, 117
+cancel, 938
+cancel, 586
+modify, 671, 5, 1, 12, 0, 11, 1
+modify, 398, 11, 0, 4, 2, 9, 2
+cancel, 28
+place, Kenneth Frampton, 14, 0, 6, 1, 8, 0
+place, Ernest Christensen, 5, 1, 9, 0, 7, 1
+modify, 701, 2, 0, 3, 2, 2, 0
+modify, 612, 12, 2, 9, 0, 9, 2
+cancel, 383
+modify, 305, 8, 2, 3, 1, 14, 0
+place, Tamara Kwon, 6, 1, 15, 2, 1, 0
+cancel, 114
+place, Michael Veer, 5, 0, 1, 0, 15, 1
+cancel, 928
+modify, 240, 8, 0, 5, 1, 14, 2
+cancel, 807
+place, Tiffany Camacho, 13, 1, 2, 0, 6, 1
+cancel, 168
+modify, 398, 13, 1, 10, 2, 2, 2
+modify, 533, 11, 1, 8, 2, 5, 0
+cancel, 7
+place, James Becker, 7, 1, 14, 0, 5, 2
+modify, 710, 5, 2, 5, 1, 3, 1
+place, Alex Altman, 15, 1, 6, 0, 8, 2
+place, Lucille Hodges, 7, 0, 13, 2, 14, 0
+cancel, 614
+cancel, 139
+place, Billy Harper, 13, 0, 2, 1, 11, 0
+modify, 118, 2, 0, 5, 1, 6, 0
+modify, 343, 12, 0, 14, 1, 7, 2
+place, Laura Stewart, 10, 1, 1, 0, 15, 1
+cancel, 532
+cancel, 165
+place, Theresa Justice, 8, 2, 3, 1, 13, 1
+cancel, 919
+cancel, 336
+cancel, 817
+place, Josue Shields, 15, 2, 9, 2, 4, 2
+modify, 137, 2, 1, 9, 1, 10, 1
+place, Brenda Koester, 10, 1, 13, 1, 4, 1
+cancel, 384
+place, Wanda Munoz, 12, 1, 5, 1, 13, 1
+cancel, 290
+modify, 367, 3, 0, 3, 1, 5, 2
+cancel, 783
+modify, 327, 5, 1, 14, 2, 13, 2
+place, Sharon Mckinley, 1, 2, 11, 0, 6, 0
+place, Patricia Harris, 5, 2, 5, 0, 10, 2
+place, Duane Cooper, 9, 1, 8, 2, 12, 2
+modify, 291, 12, 2, 4, 0, 14, 0
+place, Betty Murray, 8, 0, 12, 2, 10, 1
+cancel, 790
+modify, 363, 14, 0, 7, 0, 6, 1
+place, Ted Parsons, 11, 1, 4, 0, 12, 2
+modify, 915, 1, 2, 2, 1, 13, 1
+modify, 278, 11, 0, 13, 1, 6, 1
+modify, 871, 9, 1, 1, 2, 12, 1
+cancel, 710
+place, Nathaniel Cassidy, 12, 1, 8, 2, 5, 1
+modify, 630, 11, 2, 3, 1, 1, 2
+place, Kristy Hurst, 11, 0, 14, 1, 10, 1
+cancel, 260
+modify, 376, 11, 0, 11, 0, 11, 0
+modify, 815, 9, 0, 1, 1, 2, 0
+modify, 224, 6, 0, 7, 2, 7, 2
+cancel, 687
+modify, 546, 11, 0, 9, 0, 2, 0
+modify, 794, 2, 1, 13, 1, 14, 0
+modify, 306, 2, 2, 4, 2, 11, 1
+place, James Cooper, 14, 0, 6, 2, 6, 1
+place, Susanne Williams, 6, 0, 1, 2, 15, 0
+modify, 399, 1, 1, 12, 1, 1, 2
+cancel, 497
+cancel, 741
+place, Carl Stone, 8, 0, 15, 2, 9, 0
+modify, 818, 7, 1, 3, 0, 10, 2
+cancel, 808
+modify, 532, 3, 2, 10, 2, 3, 1
+cancel, 443
+place, Angela Dickey, 10, 2, 1, 2, 6, 2
+place, Walter Gentry, 3, 1, 3, 1, 8, 1
+place, Katie Hall, 5, 1, 3, 0, 6, 1
+modify, 920, 9, 1, 14, 1, 15, 1
+modify, 605, 1, 1, 5, 0, 8, 0
+cancel, 385
+place, Roger Ramey, 3, 2, 9, 1, 7, 2
+place, Salvador Hartl, 3, 0, 12, 2, 4, 2
+cancel, 303
+modify, 341, 2, 1, 3, 1, 14, 0
+modify, 64, 1, 0, 14, 2, 11, 0
+cancel, 0
+cancel, 626
+modify, 816, 10, 0, 13, 2, 9, 2
+modify, 436, 12, 2, 11, 2, 6, 1
+cancel, 456
+place, Bryan Sundermeyer, 8, 0, 12, 2, 4, 2
+place, Elizabeth Nevill, 7, 1, 14, 0, 13, 2
+place, Tony Simpson, 9, 0, 7, 0, 13, 0
+place, Catherine Waiters, 9, 0, 14, 0, 15, 1
+modify, 67, 9, 0, 6, 0, 4, 1
+modify, 971, 7, 1, 5, 1, 7, 2
+modify, 994, 6, 2, 4, 0, 6, 1
+modify, 910, 2, 1, 2, 0, 7, 0
+modify, 344, 10, 0, 12, 2, 15, 2
+cancel, 802
+modify, 769, 3, 0, 7, 2, 2, 0
+place, Yvette Curry, 12, 0, 10, 1, 8, 0
+modify, 406, 8, 0, 5, 0, 1, 1
+cancel, 572
+modify, 926, 11, 1, 7, 2, 2, 2
+place, Robert Smith, 3, 0, 5, 2, 10, 0
+modify, 417, 4, 2, 2, 0, 10, 0
+modify, 626, 3, 1, 10, 0, 14, 0
+cancel, 461
+modify, 198, 5, 1, 1, 1, 9, 1
+place, Andrew Brand, 3, 0, 11, 0, 13, 0
+modify, 766, 9, 1, 3, 1, 7, 1
+cancel, 407
+place, Billy Peel, 9, 0, 8, 0, 15, 2
+modify, 348, 15, 0, 4, 1, 4, 0
+place, Richard Hassan, 12, 1, 7, 2, 14, 0
+modify, 1010, 9, 2, 6, 0, 5, 2
+cancel, 444
+modify, 424, 9, 0, 7, 2, 8, 0
+cancel, 680
+modify, 706, 6, 2, 5, 1, 8, 1
+place, Thomas Little, 8, 2, 3, 0, 12, 0
+modify, 318, 12, 0, 13, 2, 11, 2
+modify, 976, 14, 0, 2, 1, 2, 1
+cancel, 303
+modify, 848, 6, 0, 4, 0, 14, 1
+cancel, 306
+place, Carla Christner, 8, 2, 12, 1, 15, 2
+cancel, 1026
+modify, 358, 7, 0, 6, 2, 6, 0
+cancel, 205
+modify, 178, 4, 2, 10, 2, 6, 2
+place, Marie Payne, 2, 0, 9, 1, 13, 0
+modify, 78, 12, 0, 4, 0, 9, 1
+place, Michael Flaherty, 13, 1, 2, 1, 14, 1
+modify, 822, 2, 2, 8, 1, 6, 1
+cancel, 183
+cancel, 324
+modify, 47, 9, 1, 8, 0, 2, 0
+place, Elroy Grover, 5, 2, 4, 2, 2, 0
+modify, 42, 1, 0, 14, 1, 5, 1
+place, Rose Taylor, 11, 2, 2, 1, 11, 1
+modify, 861, 4, 1, 14, 1, 14, 0
+modify, 499, 9, 2, 5, 0, 13, 0
+cancel, 352
+modify, 42, 3, 1, 15, 0, 11, 0
+cancel, 493
+modify, 1034, 9, 0, 5, 1, 2, 1
+cancel, 819
+modify, 70, 11, 0, 1, 1, 8, 1
+cancel, 586
+modify, 559, 3, 2, 7, 1, 4, 1
+place, Elizabeth Woody, 15, 2, 11, 2, 6, 1
+modify, 892, 8, 0, 13, 2, 1, 2
+cancel, 571
+cancel, 366
+place, Paul Frein, 11, 1, 7, 1, 8, 1
+place, Ramiro Yoxall, 8, 2, 3, 1, 3, 1
+place, Nancy Sharp, 13, 2, 9, 1, 9, 0
+cancel, 1013
+cancel, 468
+modify, 88, 2, 2, 13, 2, 5, 0
+modify, 517, 13, 2, 6, 1, 10, 1
+place, Marilyn Cruz, 8, 2, 12, 2, 14, 2
+cancel, 727
+modify, 765, 3, 2, 8, 2, 1, 2
+place, Thomas Oharra, 13, 0, 8, 0, 13, 0
+modify, 902, 11, 2, 9, 2, 13, 0
+cancel, 572
+place, Camilla Bennett, 14, 2, 7, 2, 4, 2
+modify, 540, 8, 0, 15, 0, 5, 1
+modify, 691, 12, 2, 12, 2, 5, 2
+modify, 332, 4, 1, 3, 1, 9, 1
+place, Pamela Glover, 15, 1, 13, 1, 13, 2
+place, John Kennedy, 3, 0, 5, 1, 12, 2
+place, Joseph Mead, 7, 0, 4, 0, 14, 1
+cancel, 936
+modify, 635, 10, 1, 4, 0, 11, 0
+modify, 920, 3, 1, 9, 1, 3, 1
+place, Patrick Monat, 15, 1, 5, 0, 13, 2
+modify, 899, 1, 0, 10, 1, 14, 1
+place, Salvatore Laskowski, 2, 0, 6, 0, 15, 1
+cancel, 347
+cancel, 715
+cancel, 567
+cancel, 580
+cancel, 910
+modify, 228, 6, 2, 8, 1, 1, 1
+place, Barbara Vadasy, 13, 0, 11, 2, 8, 2
+place, Dennis Burt, 5, 0, 15, 0, 2, 1
+cancel, 1040
+modify, 666, 14, 2, 11, 1, 9, 1
+place, Fred Lemus, 12, 1, 6, 1, 10, 0
+place, Doris Kuipers, 8, 0, 2, 2, 5, 0
+modify, 341, 14, 2, 9, 2, 3, 2
+place, John Diamond, 4, 1, 5, 2, 5, 1
+modify, 567, 15, 0, 7, 0, 11, 2
+cancel, 692
+place, Michael Cramer, 13, 0, 2, 1, 1, 1
+place, Karen Wood, 13, 0, 8, 2, 1, 0
+place, Maria Umland, 2, 0, 3, 2, 11, 1
+cancel, 87
+place, Gregory Bingle, 4, 2, 1, 2, 8, 1
+cancel, 234
+cancel, 685
+modify, 918, 2, 1, 13, 0, 13, 1
+cancel, 1047
+place, Hortencia Harry, 12, 0, 13, 0, 7, 2
+cancel, 784
+modify, 494, 1, 0, 12, 0, 7, 2
+modify, 460, 8, 0, 15, 1, 6, 1
+cancel, 21
+place, Ronnie Gilbert, 6, 0, 11, 0, 14, 2
+place, Richard Sardina, 9, 1, 13, 1, 1, 0
+modify, 133, 9, 1, 5, 2, 8, 1
+modify, 983, 8, 0, 10, 0, 10, 2
+cancel, 635
+place, Melvin Monson, 7, 0, 15, 0, 8, 2
+cancel, 648
+modify, 777, 12, 2, 7, 0, 2, 2
+place, Tiffany Morgan, 3, 1, 4, 2, 1, 1
+place, Jacqueline Cullen, 10, 1, 2, 2, 8, 1
+place, Della Huggins, 10, 2, 15, 2, 11, 1
+cancel, 303
+place, Fay Constantino, 6, 0, 11, 0, 15, 0
+place, Lynnette Needham, 9, 0, 7, 1, 8, 1
+cancel, 898
+modify, 648, 5, 2, 14, 1, 2, 1
+place, Vickie Fletcher, 1, 2, 14, 1, 11, 0
+modify, 1024, 13, 1, 4, 0, 5, 1
+place, Brian Brewster, 13, 1, 12, 0, 8, 0
+cancel, 611
+modify, 360, 15, 1, 9, 0, 7, 1
+cancel, 524
+modify, 738, 1, 0, 1, 0, 6, 2
+place, Allison Harris, 4, 0, 15, 2, 14, 1
+place, Jacob Thomas, 3, 1, 5, 2, 15, 1
+place, Dana Ona, 8, 2, 10, 2, 15, 0
+cancel, 614
+modify, 691, 2, 2, 14, 1, 2, 1
+place, Maxine Porter, 8, 0, 6, 2, 4, 1
+modify, 1063, 11, 1, 14, 2, 6, 0
+modify, 849, 13, 1, 10, 0, 8, 0
+modify, 216, 11, 0, 7, 2, 7, 2
+modify, 713, 6, 0, 3, 1, 10, 1
+place, Edward Burton, 7, 0, 6, 0, 2, 1
+place, Joseph Farmer, 4, 1, 7, 2, 12, 0
+cancel, 618
+modify, 518, 13, 2, 12, 1, 3, 2
+cancel, 715
+cancel, 159
+place, Guillermo Ward, 14, 1, 5, 2, 10, 0
+place, Michele Dudley, 4, 1, 8, 2, 4, 2
+modify, 656, 14, 2, 12, 0, 2, 1
+modify, 278, 14, 2, 9, 2, 6, 0
+modify, 34, 4, 1, 9, 1, 6, 0
+cancel, 378
+place, Solomon Miller, 3, 1, 14, 1, 9, 2
+place, Bryan Brunell, 13, 0, 3, 2, 9, 2
+modify, 481, 1, 0, 15, 0, 3, 1
+cancel, 694
+modify, 703, 1, 0, 14, 0, 1, 0
+place, Joanne Salmons, 2, 0, 2, 0, 2, 2
+place, Stephanie Bishop, 8, 0, 4, 2, 13, 1
+cancel, 686
+cancel, 961
+cancel, 854
+modify, 52, 4, 2, 6, 1, 1, 1
+cancel, 502
+modify, 83, 9, 0, 9, 2, 7, 1
+cancel, 423
+place, Scott Graves, 5, 2, 3, 2, 8, 1
+cancel, 194
+place, Cherie Peterson, 14, 0, 12, 1, 14, 0
+modify, 892, 9, 2, 15, 1, 1, 0
+modify, 400, 8, 2, 6, 0, 5, 2
+modify, 433, 15, 1, 3, 0, 1, 0
+modify, 504, 10, 1, 14, 1, 2, 2
+cancel, 1081
+modify, 723, 3, 0, 9, 1, 2, 2
+place, Jeffrey Malave, 11, 2, 7, 0, 5, 0
+modify, 611, 1, 2, 9, 1, 6, 0
+modify, 525, 10, 1, 15, 1, 12, 2
+cancel, 235
+place, David Malinowski, 14, 2, 14, 2, 12, 2
+modify, 881, 2, 2, 13, 0, 1, 2
+cancel, 337
+cancel, 188
+cancel, 556
+place, Diane Walker, 5, 1, 12, 2, 15, 2
+place, Mary Gibbs, 8, 1, 15, 2, 12, 0
+cancel, 101
+modify, 953, 2, 1, 7, 1, 9, 1
+modify, 710, 1, 2, 9, 0, 6, 2
+modify, 1072, 11, 0, 3, 2, 13, 0
+modify, 178, 12, 2, 13, 0, 12, 0
+place, Nathan Schuldt, 7, 0, 11, 2, 2, 0
+modify, 724, 12, 2, 15, 2, 3, 0
+modify, 236, 14, 2, 2, 0, 7, 1
+place, Dan Hegmann, 9, 2, 13, 0, 10, 1
+place, Elizabeth Myers, 5, 1, 8, 0, 3, 1
+cancel, 713
+place, Helen Jacobs, 7, 0, 12, 1, 1, 2
+place, Wayne Smith, 8, 2, 9, 2, 10, 2
+place, Gail Dixson, 10, 1, 4, 0, 13, 2
+modify, 730, 14, 0, 2, 0, 3, 1
+modify, 699, 8, 2, 4, 1, 3, 1
+cancel, 900
+place, William Hufft, 6, 2, 12, 2, 10, 2
+modify, 853, 2, 0, 10, 0, 10, 0
+cancel, 996
+modify, 287, 8, 0, 7, 1, 12, 1
+place, Bertha Hargrove, 7, 2, 3, 2, 3, 2
+modify, 124, 5, 2, 8, 2, 10, 1
+modify, 1016, 15, 2, 14, 0, 15, 1
+place, Randi Alway, 5, 1, 7, 1, 7, 1
+modify, 114, 7, 2, 6, 1, 10, 2
+place, Samantha Naquin, 11, 2, 10, 2, 2, 0
+modify, 545, 14, 0, 9, 2, 3, 1
+cancel, 582
+modify, 1017, 7, 0, 12, 0, 7, 1
+cancel, 1062
+place, Carolyn Mosely, 3, 1, 15, 0, 12, 0
+modify, 777, 15, 0, 6, 2, 10, 1
+modify, 1052, 13, 1, 6, 0, 1, 2
+cancel, 1017
+cancel, 883
+modify, 458, 1, 0, 13, 0, 7, 2
+cancel, 1049
+place, Maria Dorsey, 11, 2, 1, 0, 6, 2
+modify, 881, 5, 1, 9, 0, 2, 2
+place, Arturo Mancil, 13, 0, 14, 0, 5, 2
+modify, 900, 12, 0, 6, 0, 14, 1
+cancel, 147
+modify, 254, 15, 2, 7, 1, 14, 2
+modify, 341, 12, 0, 1, 2, 1, 0
+modify, 730, 6, 2, 5, 1, 10, 1
+modify, 104, 1, 0, 8, 0, 8, 2
+cancel, 867
+place, Simone Sears, 9, 2, 2, 0, 1, 2
+place, Dana Riley, 12, 2, 9, 0, 9, 2
+modify, 680, 14, 2, 14, 2, 15, 0
+place, Patrick Knox, 10, 2, 6, 2, 11, 1
+place, Walter Coughlin, 15, 2, 7, 1, 8, 0
+cancel, 262
+cancel, 21
+modify, 316, 4, 2, 13, 1, 13, 1
+place, Teresa Dawson, 2, 1, 11, 2, 11, 0
+cancel, 376
+modify, 712, 11, 0, 2, 2, 14, 2
+cancel, 945
+cancel, 282
+cancel, 235
+cancel, 711
+modify, 265, 15, 1, 3, 1, 12, 2
+modify, 813, 4, 2, 5, 2, 1, 1
+cancel, 958
+place, Kellie Silver, 12, 0, 13, 0, 1, 0
+place, Carissa Fitzsimmons, 3, 0, 6, 2, 10, 0
+modify, 107, 3, 1, 4, 2, 6, 2
+place, Glen Cohen, 9, 2, 15, 0, 6, 2
+modify, 712, 1, 0, 8, 2, 7, 0
+cancel, 63
+cancel, 194
+modify, 443, 8, 2, 8, 2, 4, 2
+place, Betty Little, 11, 0, 14, 0, 9, 0
+cancel, 508
+cancel, 62
+place, Betsy Kluck, 7, 1, 14, 0, 11, 1
+cancel, 339
+cancel, 884
+place, Felix Folsom, 4, 2, 2, 2, 8, 2
+place, Robert Sandrock, 3, 0, 11, 0, 6, 0
+cancel, 1006
+place, Ed Prey, 3, 2, 10, 0, 5, 2
+modify, 663, 9, 1, 11, 2, 12, 1
+modify, 987, 8, 0, 8, 2, 9, 0
+place, Antonia Sullivan, 1, 1, 4, 2, 1, 2
+place, Charles Mcdaniel, 10, 0, 7, 1, 3, 1
+modify, 96, 13, 2, 12, 0, 9, 1
+place, Nicholas Lien, 13, 1, 4, 2, 2, 1
+place, Juanita Salcedo, 8, 2, 6, 2, 15, 2
+place, Brant Mitchell, 13, 0, 14, 2, 2, 2
+modify, 873, 2, 1, 6, 1, 12, 2
+cancel, 589
+cancel, 1008
+place, Marjorie Mcclendon, 13, 0, 1, 0, 3, 0
+cancel, 896
+modify, 972, 15, 0, 13, 0, 5, 0
+place, Emma Branhan, 7, 0, 3, 1, 6, 2
+place, Michael Yoshida, 11, 0, 9, 2, 6, 2
+place, Elvira Girard, 14, 1, 2, 1, 12, 1
+modify, 296, 9, 1, 3, 1, 15, 1
+modify, 371, 8, 1, 8, 2, 3, 1
+place, Donnie Stevens, 3, 0, 10, 0, 4, 0
+modify, 8, 2, 0, 13, 1, 3, 1
+modify, 1100, 13, 0, 6, 2, 15, 2
+cancel, 920
+place, Allen Henderson, 13, 0, 10, 0, 13, 2
+place, Tianna Kennedy, 10, 1, 12, 1, 9, 0
+cancel, 293
+cancel, 219
+modify, 394, 4, 2, 1, 0, 7, 2
+cancel, 924
+cancel, 75
+place, Helen Gerard, 10, 2, 14, 1, 5, 0
+cancel, 917
+modify, 168, 3, 2, 15, 0, 6, 0
+cancel, 1047
+place, Raul Hayden, 9, 2, 6, 2, 1, 1
+modify, 43, 2, 0, 9, 0, 6, 0
+place, Robert Mcclintic, 5, 2, 11, 1, 11, 0
+modify, 399, 13, 0, 2, 0, 15, 0
+modify, 331, 13, 0, 12, 2, 13, 0
+modify, 947, 12, 1, 11, 2, 14, 1
+modify, 729, 1, 2, 12, 0, 9, 2
+place, Albert Griffith, 3, 2, 9, 1, 10, 0
+place, Chad Brafford, 10, 2, 14, 1, 5, 1
+cancel, 1094
+modify, 94, 15, 1, 14, 1, 5, 1
+modify, 217, 3, 1, 15, 1, 5, 2
+modify, 63, 12, 2, 1, 0, 12, 0
+modify, 355, 7, 2, 6, 0, 12, 2
+cancel, 760
+place, Randy Huerta, 3, 2, 11, 2, 6, 2
+place, Judith Bowe, 6, 0, 14, 0, 3, 0
+cancel, 49
+cancel, 373
+place, Courtney Lyles, 4, 2, 13, 2, 15, 2
+modify, 962, 13, 1, 3, 1, 6, 2
+cancel, 381
+modify, 537, 5, 0, 15, 2, 10, 0
+cancel, 1103
+place, Rickie Wheeler, 1, 0, 10, 2, 5, 1
+modify, 538, 15, 2, 9, 0, 1, 0
+modify, 132, 2, 1, 6, 0, 12, 0
+cancel, 573
+modify, 524, 7, 1, 2, 2, 4, 1
+modify, 183, 10, 2, 11, 1, 4, 0
+cancel, 775
+place, Alex Rowell, 9, 1, 4, 0, 10, 2
+cancel, 766
+cancel, 1107
+place, Frances Oliver, 12, 1, 14, 1, 14, 0
+place, Grace Birch, 1, 2, 1, 0, 6, 1
+cancel, 324
+cancel, 814
+cancel, 1017
+cancel, 66
+cancel, 41
+cancel, 987
+cancel, 885
+cancel, 935
+place, Rita Davis, 1, 1, 4, 2, 8, 1
+place, Lauren Moore, 12, 0, 9, 2, 4, 0
+place, Marcos Horne, 11, 1, 15, 2, 5, 2
+modify, 351, 14, 0, 14, 2, 10, 2
+place, Ryan Philips, 15, 0, 8, 2, 12, 0
+cancel, 952
+modify, 605, 2, 1, 4, 1, 7, 2
+modify, 581, 13, 0, 9, 1, 7, 2
+place, Priscilla Wager, 2, 2, 13, 0, 5, 0
+modify, 59, 6, 1, 4, 2, 6, 0
+place, Jose Freeman, 8, 1, 3, 2, 10, 0
+modify, 970, 6, 0, 11, 2, 13, 2
+place, Linda Hebrank, 10, 2, 3, 1, 10, 1
+modify, 644, 2, 0, 5, 0, 12, 1
+cancel, 755
+cancel, 444
+cancel, 938
+place, Carmen Beck, 12, 2, 3, 1, 14, 2
+place, Ann Suddreth, 7, 1, 11, 2, 14, 0
+place, Randy Dommer, 2, 2, 6, 2, 1, 2
+modify, 28, 2, 0, 1, 0, 4, 2
+place, James Jordan, 4, 1, 1, 2, 2, 0
+place, Mary Morrison, 11, 1, 2, 2, 14, 2
+place, Michael Lara, 3, 2, 2, 1, 7, 0
+place, Alison Rollo, 11, 1, 6, 1, 10, 1
+cancel, 285
+place, Jack Castro, 2, 1, 7, 2, 13, 0
+modify, 986, 7, 0, 14, 0, 10, 1
+modify, 210, 6, 1, 4, 0, 8, 0
+place, David Robinson, 15, 2, 3, 1, 3, 0
+modify, 63, 10, 2, 14, 1, 15, 2
+modify, 531, 1, 2, 14, 0, 4, 0
+cancel, 909
+cancel, 984
+cancel, 1017
+modify, 549, 11, 2, 8, 1, 9, 2
+place, Sharon Kelty, 14, 1, 13, 1, 13, 2
+place, Dallas Pringle, 15, 0, 15, 1, 11, 0
+cancel, 909
+place, Robert Casey, 3, 1, 14, 2, 13, 0
+cancel, 567
+cancel, 775
+place, Nelda Richardson, 11, 2, 11, 1, 2, 1
+cancel, 799
+place, Stacy Rice, 12, 1, 13, 2, 4, 0
+place, June Hertenstein, 8, 1, 2, 1, 12, 2
+place, Teresa Hughes, 6, 1, 6, 0, 5, 2
+modify, 150, 14, 2, 5, 0, 4, 2
+cancel, 39
+modify, 854, 4, 2, 7, 1, 4, 2
+modify, 1138, 9, 2, 9, 1, 2, 2
+cancel, 1000
+place, Laura Frazier, 4, 0, 10, 2, 9, 1
+place, Dayna Callender, 13, 2, 14, 0, 13, 2
+cancel, 873
+cancel, 814
+place, Lou Cegielski, 3, 2, 14, 2, 6, 1
+place, Amanda Labarre, 1, 0, 2, 0, 13, 0
+cancel, 1133
+cancel, 484
+modify, 167, 13, 1, 11, 1, 2, 1
+cancel, 221
+place, David Jones, 12, 0, 7, 2, 10, 1
+cancel, 604
+modify, 813, 11, 0, 10, 2, 6, 1
+cancel, 821
+cancel, 752
+modify, 718, 11, 1, 8, 0, 12, 2
+modify, 824, 8, 1, 6, 0, 4, 2
+place, Frank Johnson, 6, 2, 11, 1, 1, 2
+modify, 556, 6, 2, 10, 2, 15, 0
+modify, 959, 14, 2, 3, 1, 9, 1
+place, Saul Greenleaf, 6, 0, 11, 2, 10, 0
+place, Myles Tovar, 9, 2, 13, 2, 6, 1
+cancel, 637
+place, Lori Morgan, 1, 1, 12, 2, 8, 1
+cancel, 950
+cancel, 55
+cancel, 265
+cancel, 922
+modify, 711, 7, 0, 1, 0, 9, 0
+modify, 619, 13, 2, 3, 2, 12, 0
+cancel, 130
+cancel, 574
+place, Theodora Eason, 15, 2, 11, 0, 6, 1
+place, Mildred Brown, 14, 1, 2, 2, 11, 1
+place, George Carey, 13, 1, 9, 2, 2, 2
+modify, 244, 4, 0, 13, 0, 14, 1
+cancel, 954
+cancel, 70
+cancel, 131
+modify, 240, 13, 1, 13, 1, 12, 2
+modify, 850, 3, 1, 7, 1, 10, 1
+cancel, 996
+place, Charles Davis, 5, 0, 8, 1, 1, 0
+modify, 827, 5, 2, 5, 1, 10, 0
+place, Joshua Roberts, 12, 0, 3, 0, 6, 1
+place, George Googe, 3, 2, 10, 2, 5, 0
+cancel, 696
+modify, 9, 12, 2, 8, 2, 10, 0
+place, Jan Williams, 8, 2, 1, 0, 1, 1
+modify, 646, 9, 2, 14, 2, 5, 1
+modify, 843, 15, 2, 4, 0, 14, 1
+modify, 224, 11, 1, 7, 0, 9, 1
+place, Diane Badman, 14, 2, 7, 1, 12, 1
+place, Randy Nash, 11, 0, 11, 2, 4, 1
+place, Christopher Ward, 9, 2, 3, 1, 2, 1
+modify, 654, 6, 2, 14, 2, 4, 1
+cancel, 924
+place, Mark Carr, 12, 1, 8, 2, 4, 2
+modify, 999, 1, 1, 7, 2, 10, 0
+cancel, 159
+place, Barton Woodward, 9, 1, 5, 2, 15, 0
+cancel, 408
+cancel, 971
+cancel, 947
+modify, 734, 5, 0, 8, 0, 4, 2
+cancel, 857
+place, Jesse Stokes, 1, 2, 5, 2, 10, 2
+cancel, 900
+place, Elizabeth Johnson, 10, 2, 9, 1, 7, 0
+cancel, 884
+modify, 1057, 9, 1, 11, 1, 2, 2
+place, Margaret Crownover, 9, 0, 7, 1, 13, 2
+cancel, 292
+cancel, 204
+cancel, 674
+place, Lynette Espinoza, 9, 1, 5, 2, 7, 0
+cancel, 58
+place, Edward Buck, 13, 2, 1, 0, 1, 2
+place, Tamera Hernandez, 3, 0, 4, 1, 9, 0
+cancel, 1113
+modify, 286, 15, 0, 7, 1, 3, 2
+modify, 418, 14, 1, 15, 2, 10, 0
+modify, 832, 7, 1, 15, 1, 12, 0
+modify, 881, 15, 1, 13, 2, 7, 0
+modify, 112, 2, 0, 6, 1, 2, 2
+modify, 1183, 3, 0, 15, 2, 14, 0
+cancel, 704
+modify, 979, 14, 0, 8, 1, 8, 0
+cancel, 729
+modify, 857, 7, 1, 10, 2, 13, 2
+cancel, 216
+cancel, 1114
+cancel, 797
+place, Donald Oneal, 3, 2, 15, 0, 8, 1
+cancel, 1075
+modify, 926, 11, 1, 9, 1, 11, 1
+cancel, 480
+cancel, 834
+place, Jeremy Manning, 8, 1, 10, 2, 4, 2
+modify, 1184, 2, 2, 7, 2, 1, 0
+cancel, 772
+modify, 1140, 3, 2, 4, 2, 3, 2
+cancel, 239
+place, Christine Summerville, 14, 1, 11, 0, 9, 1
+place, Toni Summerhill, 15, 2, 10, 1, 4, 2
+modify, 145, 6, 1, 1, 2, 12, 2
+modify, 1144, 8, 0, 10, 2, 2, 1
+place, Jeanette Mccoy, 6, 1, 8, 0, 6, 2
+modify, 516, 6, 2, 7, 2, 8, 0
+cancel, 35
+modify, 182, 11, 0, 11, 1, 1, 0
+cancel, 382
+modify, 916, 4, 2, 1, 0, 3, 0
+cancel, 849
+modify, 916, 13, 0, 7, 2, 15, 1
+cancel, 63
+cancel, 1077
+modify, 353, 8, 2, 8, 0, 8, 0
+cancel, 873
+modify, 185, 9, 1, 10, 0, 12, 0
+place, Shirley Kane, 4, 2, 15, 2, 1, 1
+modify, 533, 9, 2, 2, 2, 2, 2
+cancel, 269
+cancel, 1089
+modify, 1149, 5, 1, 7, 2, 5, 0
+cancel, 695
+place, Mary Gregory, 8, 0, 5, 0, 15, 1
+cancel, 360
+modify, 463, 1, 0, 5, 1, 13, 2
+modify, 548, 9, 2, 7, 2, 11, 2
+cancel, 199
+modify, 723, 10, 0, 6, 0, 6, 1
+cancel, 879
+modify, 1020, 8, 1, 7, 1, 1, 2
+place, Theresa Greenan, 13, 0, 5, 0, 14, 0
+modify, 1077, 3, 2, 12, 0, 14, 2
+place, Billy Manthe, 8, 2, 4, 0, 4, 1
+cancel, 405
+place, Richard Acosta, 2, 2, 12, 1, 13, 2
+place, Virginia Ireland, 11, 0, 8, 0, 6, 1
+cancel, 94
+cancel, 715
+place, Shelley Echols, 10, 0, 12, 2, 3, 0
+place, Peggy Potvin, 14, 2, 13, 0, 11, 1
+place, Philip Blankenship, 7, 1, 4, 0, 2, 2
+modify, 823, 2, 0, 15, 0, 12, 0
+modify, 1150, 4, 0, 10, 2, 8, 2
+modify, 884, 15, 1, 5, 0, 2, 1
+cancel, 828
+place, Mary Zanghi, 13, 0, 6, 1, 15, 1
+cancel, 1153
+cancel, 207
+cancel, 170
+modify, 924, 11, 0, 11, 0, 4, 0
+place, Wayne Tola, 13, 2, 15, 1, 12, 2
+modify, 15, 4, 2, 3, 0, 5, 1
+cancel, 71
+modify, 142, 3, 0, 8, 2, 12, 0
+modify, 1083, 6, 0, 9, 1, 1, 0
+cancel, 389
+place, Eddie Marth, 14, 2, 7, 1, 10, 2
+place, Cary Donnelson, 3, 2, 13, 1, 6, 0
+cancel, 302
+cancel, 667
+modify, 915, 9, 1, 15, 0, 6, 0
+modify, 511, 6, 1, 2, 1, 2, 2
+cancel, 170
+place, Joshua Cook, 10, 0, 2, 1, 2, 2
+modify, 454, 2, 0, 5, 2, 15, 2
+cancel, 912
+cancel, 674
+place, Anita Lawrence, 10, 2, 6, 1, 1, 0
+modify, 191, 15, 0, 6, 1, 14, 2
+cancel, 1043
+cancel, 534
+place, Douglas Hornbeck, 3, 1, 2, 2, 13, 2
+place, Paul Sims, 9, 1, 8, 0, 3, 2
+modify, 74, 6, 2, 5, 1, 3, 0
+modify, 195, 9, 0, 7, 0, 1, 0
+cancel, 579
+cancel, 720
+place, Allan Larsen, 12, 0, 10, 2, 1, 2
+modify, 1166, 15, 0, 7, 1, 9, 1
+cancel, 633
+modify, 767, 15, 2, 13, 0, 6, 0
+place, James Hays, 6, 0, 8, 1, 8, 0
+modify, 44, 3, 1, 3, 1, 2, 0
+place, Sherri Porterfield, 11, 0, 7, 1, 10, 1
+modify, 148, 2, 1, 3, 1, 13, 1
+cancel, 676
+cancel, 443
+cancel, 121
+modify, 1039, 3, 0, 15, 2, 3, 1
+cancel, 1007
+modify, 919, 3, 2, 4, 0, 14, 0
+modify, 1048, 10, 0, 13, 0, 3, 2
+place, Mary Harloff, 13, 0, 8, 2, 8, 1
+modify, 495, 11, 0, 4, 1, 8, 0
+modify, 902, 10, 1, 13, 2, 2, 1
+place, Timothy Frazier, 4, 2, 12, 2, 7, 2
+place, Erik Dickinson, 5, 2, 8, 0, 5, 1
+modify, 546, 4, 2, 5, 0, 15, 2
+place, James Young, 12, 2, 2, 1, 12, 0
+place, James Wadsworth, 4, 1, 11, 1, 8, 0
+cancel, 1165
+place, Joni Weise, 1, 1, 11, 0, 7, 1
+modify, 438, 14, 1, 9, 1, 5, 2
+modify, 237, 3, 0, 6, 2, 12, 2
+modify, 940, 14, 2, 1, 0, 7, 0
+cancel, 781
+modify, 658, 9, 0, 13, 0, 3, 2
+modify, 1180, 2, 1, 7, 2, 11, 1
+place, Andrew Hall, 13, 0, 9, 2, 5, 0
+modify, 962, 1, 0, 4, 2, 6, 0
+cancel, 1058
+cancel, 513
+cancel, 543
+modify, 1216, 10, 1, 3, 1, 10, 2
+cancel, 788
+place, Francis Carlisle, 4, 1, 11, 2, 5, 1
+place, John Dowty, 14, 1, 10, 0, 6, 0
+place, James Hampton, 6, 0, 15, 0, 6, 2
+place, Janean Dinger, 12, 2, 1, 1, 4, 1
+cancel, 791
+cancel, 49
+cancel, 535
+modify, 1215, 5, 0, 2, 2, 14, 1
+place, Erma Pastor, 2, 1, 15, 0, 12, 2
+place, Robert Whitted, 5, 2, 5, 0, 8, 0
+modify, 1044, 2, 1, 3, 2, 6, 1
+modify, 186, 12, 1, 9, 0, 4, 2
+cancel, 1008
+cancel, 1110
+cancel, 885
+place, Nannie Stone, 6, 2, 14, 2, 14, 0
+modify, 123, 5, 2, 5, 1, 10, 2
+modify, 1066, 6, 2, 9, 2, 2, 1
+cancel, 726
+cancel, 67
+modify, 309, 4, 2, 6, 1, 9, 2
+place, Michael Mojica, 9, 1, 5, 0, 15, 2
+modify, 932, 13, 1, 3, 1, 13, 0
+modify, 337, 4, 1, 12, 2, 2, 0
+modify, 157, 4, 2, 11, 0, 10, 0
+cancel, 750
+place, Samuel Bouchard, 4, 0, 4, 1, 9, 2
+modify, 172, 5, 1, 3, 1, 6, 2
+modify, 909, 11, 0, 14, 1, 4, 1
+place, Alma Layel, 15, 2, 9, 0, 5, 2
+place, Anthony Dwyer, 3, 1, 5, 0, 6, 1
+modify, 416, 5, 2, 6, 1, 4, 0
+modify, 520, 2, 0, 11, 1, 2, 0
+cancel, 1059
+place, Lucie Purington, 13, 0, 6, 2, 3, 0
+cancel, 187
+place, Jerry Ling, 3, 1, 5, 2, 11, 1
+place, Yvonne Woods, 5, 1, 15, 1, 15, 1
+place, Shirley Packard, 12, 2, 9, 1, 1, 1
+modify, 1153, 11, 0, 8, 2, 8, 0
+modify, 372, 1, 0, 6, 1, 5, 0
+modify, 1062, 4, 0, 15, 0, 3, 1
+cancel, 51
+modify, 926, 14, 1, 14, 0, 3, 2
+place, James Tan, 14, 2, 10, 2, 7, 0
+cancel, 494
+place, Stephen Clark, 11, 1, 4, 2, 13, 0
+modify, 919, 5, 0, 13, 2, 15, 0
+cancel, 450
+place, Joey Lucas, 9, 2, 15, 1, 10, 0
+cancel, 637
+modify, 767, 8, 2, 15, 1, 4, 0
+modify, 1137, 12, 1, 6, 1, 2, 1
+cancel, 669
+modify, 0, 4, 2, 10, 2, 1, 1
+place, Raymond Collier, 11, 1, 15, 2, 10, 0
+cancel, 24
+cancel, 639
+modify, 917, 10, 0, 7, 0, 12, 2
+modify, 1140, 12, 0, 8, 2, 2, 0
+place, Megan Bryant, 5, 2, 1, 2, 3, 1
+place, Heather Goldberg, 5, 0, 6, 0, 11, 2
+place, Albert Mueller, 3, 2, 2, 2, 7, 2
+cancel, 911
+cancel, 366
+place, Jeffrey Storey, 5, 1, 13, 1, 10, 0
+place, Kassie Dunn, 5, 1, 11, 1, 11, 1
+modify, 394, 10, 0, 12, 0, 4, 1
+modify, 1011, 7, 0, 8, 1, 9, 2
+modify, 43, 8, 2, 2, 2, 6, 1
+place, Sean Richard, 8, 1, 14, 1, 7, 2
+place, Mary Hicks, 8, 2, 7, 1, 9, 2
+cancel, 359
+modify, 19, 1, 2, 12, 1, 4, 0
+modify, 175, 13, 1, 13, 0, 3, 1
+place, Chester Ellis, 6, 2, 8, 2, 15, 2
+cancel, 503
+modify, 799, 9, 1, 5, 1, 1, 2
+place, Johnny Sahsman, 11, 2, 6, 1, 3, 2
+cancel, 1198
+cancel, 1165
+cancel, 709
+place, Kimberly Rodriquez, 3, 1, 15, 1, 1, 1
+cancel, 438
+modify, 302, 1, 1, 12, 2, 10, 2
+cancel, 301
+modify, 942, 10, 0, 2, 2, 4, 1
+place, Michael Brooks, 9, 1, 5, 1, 12, 1
+cancel, 664
+cancel, 927
+cancel, 877
+modify, 209, 3, 1, 1, 2, 13, 1
+modify, 702, 4, 1, 13, 0, 7, 2
+place, Miguel Demars, 11, 1, 1, 2, 6, 1
+cancel, 302
+place, Gerald Ortega, 2, 2, 14, 0, 14, 0
+place, Esther Ward, 13, 1, 15, 1, 10, 1
+modify, 604, 10, 0, 8, 0, 1, 2
+modify, 172, 12, 2, 7, 0, 12, 1
+place, Tammy Bartlett, 10, 1, 15, 0, 12, 0
+cancel, 789
+modify, 214, 5, 0, 13, 2, 11, 1
+place, Robert Lehman, 1, 0, 14, 1, 6, 0
+cancel, 275
+modify, 346, 2, 1, 8, 2, 8, 1
+cancel, 803
+cancel, 137
+modify, 20, 10, 2, 2, 2, 1, 1
+place, Angelica Fehrle, 11, 2, 15, 2, 10, 2
+cancel, 62
+cancel, 1222
+cancel, 996
+modify, 171, 4, 0, 3, 1, 5, 2
+cancel, 323
+modify, 89, 11, 2, 5, 0, 2, 0
+modify, 107, 10, 0, 12, 1, 5, 2
+modify, 730, 3, 2, 9, 1, 13, 2
+place, Aaron Harrison, 11, 2, 3, 2, 11, 2
+cancel, 404
+cancel, 167
+place, Irene Keim, 14, 2, 8, 2, 7, 1
+cancel, 463
+modify, 423, 3, 2, 12, 2, 2, 2
+place, Eva Huerta, 6, 0, 4, 2, 12, 0
+place, Margaret Nusbaum, 1, 2, 1, 1, 15, 2
+cancel, 1196
+place, Carrie Maness, 4, 0, 2, 2, 8, 0
+cancel, 327
+cancel, 116
+place, Georgia Cunningham, 12, 0, 7, 1, 11, 1
+place, Norman Hodge, 6, 0, 1, 2, 12, 0
+cancel, 949
+cancel, 354
+place, Robert Bryant, 10, 2, 3, 2, 6, 2
+cancel, 93
+place, Richard Cornett, 1, 0, 4, 2, 15, 1
+cancel, 1113
+cancel, 791
+cancel, 693
+cancel, 1189
+cancel, 972
+place, Suzanne Eaton, 7, 0, 12, 2, 12, 1
+place, Anthony Mabry, 6, 2, 14, 0, 3, 1
+modify, 1056, 15, 1, 6, 1, 10, 0
+cancel, 1141
+cancel, 351
+place, Verna Royster, 12, 1, 3, 1, 10, 0
+place, Savannah Campbell, 2, 2, 7, 0, 12, 0
+cancel, 1092
+cancel, 928
+modify, 595, 12, 1, 9, 2, 12, 2
+modify, 297, 5, 2, 8, 2, 3, 2
+cancel, 1039
+modify, 308, 14, 0, 4, 2, 6, 2
+cancel, 676
+place, Allan Spotwood, 11, 2, 7, 2, 8, 0
+place, Leila Gilliam, 7, 0, 9, 2, 12, 2
+place, Jose Campos, 10, 2, 4, 0, 15, 2
+place, Alexandra Patterson, 13, 1, 12, 2, 7, 0
+modify, 175, 1, 2, 12, 1, 13, 2
+place, Kristine Hoover, 11, 2, 15, 1, 4, 2
+modify, 8, 11, 0, 4, 0, 10, 2
+place, Yolanda Brown, 1, 1, 14, 0, 7, 2
+cancel, 39
+cancel, 416
+place, Charlie Short, 2, 1, 9, 2, 7, 0
+place, Thomas Darby, 2, 1, 5, 2, 1, 2
+place, Gerard Tuohy, 1, 0, 10, 1, 5, 0
+place, John Shaffer, 11, 0, 11, 0, 9, 2
+place, George Petrik, 1, 2, 2, 2, 9, 0
+modify, 1124, 2, 1, 7, 2, 13, 1
+place, Peter Peters, 6, 1, 6, 1, 12, 1
+modify, 468, 4, 2, 5, 2, 3, 1
+place, Michael Libel, 4, 0, 13, 0, 11, 1
+cancel, 208
+place, Jacque Inks, 15, 0, 11, 1, 4, 0
+place, Ernestine Nicholson, 9, 2, 15, 2, 13, 0
+cancel, 1188
+modify, 1039, 4, 0, 1, 1, 9, 1
+modify, 1138, 10, 2, 9, 1, 9, 2
+cancel, 1070
+modify, 1254, 10, 0, 12, 0, 8, 2
+cancel, 429
+cancel, 204
+place, Reva Jones, 8, 1, 3, 0, 5, 2
+place, Krystal Kennedy, 10, 2, 7, 2, 15, 1
+place, Michael Howard, 14, 2, 14, 1, 10, 1
+modify, 887, 13, 1, 12, 1, 10, 1
+place, Melvin Finnell, 2, 1, 9, 1, 10, 0
+modify, 793, 14, 2, 13, 0, 8, 1
+place, Elizabeth Gomez, 4, 0, 11, 2, 8, 2
+modify, 359, 12, 1, 7, 1, 7, 0
+place, Michael Wood, 3, 0, 10, 0, 1, 2
+cancel, 1044
+place, Michelle Farthing, 9, 1, 11, 1, 11, 2
+cancel, 1185
+cancel, 20
+place, Bill Gehringer, 10, 1, 12, 0, 13, 1
+place, Cornell Ignacio, 6, 1, 14, 2, 14, 0
+modify, 1183, 5, 1, 10, 1, 7, 2
+place, James Fisher, 14, 0, 11, 2, 11, 1
+place, Terry Barboza, 4, 0, 6, 2, 2, 2
+cancel, 722
+cancel, 574
+place, Shawn Martin, 6, 2, 1, 1, 7, 1
+modify, 282, 11, 0, 10, 2, 9, 2
+modify, 1117, 2, 0, 9, 0, 7, 1
+cancel, 1187
+cancel, 602
+cancel, 922
+modify, 527, 2, 1, 7, 0, 10, 0
+cancel, 1122
+cancel, 612
+modify, 1086, 12, 2, 3, 2, 10, 2
+place, Marilyn Shaver, 6, 2, 7, 0, 12, 1
+place, Tommy Ruhland, 6, 0, 7, 1, 14, 2
+modify, 382, 4, 0, 10, 1, 5, 0
+cancel, 9
+place, Joe Long, 10, 1, 8, 0, 7, 1
+place, Rodney Jean, 4, 1, 9, 0, 8, 0
+place, Cathy Haynes, 11, 0, 11, 1, 13, 2
+place, Adam Forsman, 3, 1, 15, 2, 6, 1
+cancel, 702
+place, Deborah Crandall, 8, 2, 3, 0, 2, 1
+cancel, 390
+modify, 651, 10, 0, 11, 2, 6, 1
+place, Michael Campbell, 3, 1, 3, 0, 6, 1
+modify, 1169, 4, 2, 14, 2, 14, 2
+cancel, 557
+modify, 200, 2, 0, 6, 2, 3, 0
+cancel, 1248
+modify, 1264, 13, 2, 5, 1, 6, 2
+modify, 695, 13, 0, 12, 2, 12, 0
+modify, 569, 5, 0, 13, 0, 4, 2
+cancel, 430
+cancel, 746
+modify, 1212, 10, 2, 11, 0, 14, 1
+place, Brad Cox, 5, 0, 2, 2, 13, 2
+place, Vicki Thomson, 14, 2, 12, 1, 12, 0
+place, Vera Rickard, 9, 0, 5, 0, 3, 0
+modify, 1096, 11, 2, 2, 1, 7, 1
+place, Roberta Monica, 11, 1, 12, 2, 8, 0
+cancel, 937
+cancel, 1073
+modify, 938, 9, 2, 14, 0, 10, 2
+place, Larry Martinez, 11, 1, 14, 0, 7, 2
+place, Debra Scherer, 12, 2, 4, 0, 6, 1
+modify, 998, 10, 1, 10, 1, 10, 2
+cancel, 43
+cancel, 815
+cancel, 331
+cancel, 90
+place, Gloria Garrett, 9, 0, 10, 2, 15, 2
+cancel, 1056
+place, Glenn Delia, 8, 0, 13, 1, 8, 2
+cancel, 763
+place, Jose Garcia, 5, 2, 3, 0, 9, 1
+modify, 1092, 11, 0, 12, 0, 8, 2
+modify, 211, 8, 0, 1, 2, 7, 0
+modify, 146, 14, 2, 5, 2, 12, 2
+place, Paul Miller, 3, 1, 11, 2, 10, 2
+place, Frank Allen, 8, 0, 13, 0, 1, 1
+cancel, 789
+place, Linda Stewart, 6, 2, 15, 1, 11, 2
+place, Shannon Daniels, 1, 2, 10, 1, 7, 0
+cancel, 44
+place, Luella Bauman, 7, 2, 13, 0, 3, 0
+cancel, 256
+place, Jamie Borden, 4, 0, 8, 2, 11, 0
+cancel, 89
+cancel, 1028
+place, Amado Perry, 4, 2, 4, 2, 13, 0
+cancel, 379
+place, Duane Cardenas, 6, 0, 2, 0, 13, 1
+modify, 46, 9, 1, 11, 0, 15, 2
+modify, 213, 8, 0, 15, 2, 15, 0
+modify, 954, 2, 1, 3, 2, 13, 1
+place, Mary Cray, 12, 1, 7, 0, 11, 1
+place, Marlena Bray, 15, 2, 14, 1, 13, 1
+modify, 1207, 10, 2, 5, 0, 15, 1
+place, Beatrice Peterson, 9, 2, 6, 1, 1, 0
+modify, 1206, 15, 1, 3, 1, 14, 1
+place, Christina Darlington, 1, 2, 12, 1, 3, 2
+cancel, 866
+cancel, 448
+cancel, 1019
+cancel, 1031
+cancel, 410
+modify, 517, 15, 0, 4, 0, 12, 2
+cancel, 316
+modify, 1197, 7, 0, 15, 1, 7, 1
+place, Billie Mercier, 5, 1, 8, 2, 14, 0
+cancel, 476
+modify, 343, 5, 2, 13, 1, 4, 2
+modify, 146, 13, 1, 12, 1, 12, 2
+modify, 624, 15, 1, 5, 2, 9, 2
+place, David Adams, 7, 1, 15, 1, 15, 2
+cancel, 830
+cancel, 545
+cancel, 698
+modify, 995, 1, 0, 10, 2, 11, 0
+modify, 1110, 7, 2, 13, 0, 1, 2
+cancel, 1022
+cancel, 751
+place, John Elliott, 1, 2, 4, 2, 9, 0
+cancel, 483
+modify, 858, 5, 2, 2, 2, 4, 1
+cancel, 207
+place, Gary Lessard, 9, 1, 11, 0, 3, 0
+cancel, 1042
+modify, 1163, 4, 1, 3, 1, 14, 2
+place, John Vann, 10, 0, 12, 0, 9, 2
+place, William Ramos, 7, 2, 1, 0, 9, 2
+modify, 1278, 12, 1, 13, 1, 12, 0
+place, Paul Todd, 2, 1, 11, 2, 11, 0
+place, Chanel Dates, 8, 1, 12, 2, 8, 2
+place, Edna Harvey, 8, 2, 1, 0, 15, 2
+modify, 468, 5, 0, 4, 0, 3, 1
+place, Santiago Mccardle, 3, 0, 3, 2, 6, 1
+place, Joshua Alston, 12, 0, 6, 1, 4, 2
+cancel, 467
+modify, 1009, 14, 1, 3, 1, 9, 1
+modify, 493, 14, 2, 5, 0, 2, 0
+cancel, 476
+modify, 553, 1, 0, 10, 1, 10, 2
+modify, 577, 11, 0, 3, 1, 13, 1
+modify, 544, 13, 0, 3, 2, 9, 2
+cancel, 440
+cancel, 322
+modify, 1306, 14, 0, 4, 1, 15, 0
+modify, 1053, 7, 0, 4, 2, 12, 0
+modify, 442, 14, 1, 7, 1, 7, 2
+place, Morris Handly, 11, 2, 3, 1, 4, 1
+modify, 260, 3, 1, 10, 0, 1, 2
+cancel, 961
+modify, 611, 14, 2, 12, 1, 13, 0
+modify, 1206, 4, 0, 2, 1, 10, 0
+modify, 433, 7, 0, 14, 2, 9, 1
+cancel, 864
+cancel, 147
+place, Andrew Buziak, 11, 2, 2, 0, 11, 1
+cancel, 530
+place, Lowell Martinez, 10, 2, 11, 2, 6, 2
+modify, 230, 6, 0, 11, 2, 6, 2
+cancel, 561
+cancel, 588
+modify, 362, 3, 2, 6, 1, 5, 1
+cancel, 167
+modify, 227, 13, 1, 6, 0, 7, 0
+place, Clifford Hayes, 12, 0, 5, 0, 1, 0
+modify, 718, 5, 2, 2, 0, 8, 1
+modify, 617, 7, 0, 1, 0, 6, 1
+place, Edward Williams, 7, 0, 3, 1, 14, 1
+cancel, 523
+place, Kendall Wenzel, 4, 0, 3, 1, 1, 2
+place, Candice Collier, 4, 0, 4, 2, 3, 0
+cancel, 566
+modify, 537, 15, 2, 14, 1, 3, 1
+place, Veronica Young, 2, 2, 1, 2, 10, 1
+modify, 622, 15, 2, 15, 1, 15, 2
+cancel, 366
+cancel, 1168
+modify, 279, 4, 2, 8, 0, 13, 0
+cancel, 1220
+cancel, 544
+place, Erick Faron, 7, 1, 2, 2, 15, 0
+modify, 777, 15, 0, 11, 0, 13, 2
+cancel, 299
+modify, 822, 3, 1, 2, 2, 5, 1
+modify, 566, 9, 0, 5, 0, 7, 0
+modify, 824, 11, 1, 1, 1, 7, 2
+cancel, 448
+place, Jo Barefoot, 12, 1, 6, 1, 13, 1
+place, Kristy Mccallum, 7, 0, 2, 2, 5, 2
+modify, 86, 1, 1, 11, 2, 15, 0
+modify, 242, 2, 1, 1, 0, 10, 1
+modify, 240, 12, 2, 2, 2, 10, 1
+place, Julia Jones, 11, 0, 11, 1, 9, 1
+modify, 1305, 2, 0, 4, 1, 13, 2
+modify, 736, 8, 2, 3, 1, 5, 2
+place, Janet Abbey, 11, 0, 4, 1, 2, 2
+place, Peggy Simpson, 14, 1, 9, 1, 13, 0
+modify, 360, 14, 0, 9, 1, 10, 2
+cancel, 855
+cancel, 121
+modify, 856, 2, 1, 8, 1, 4, 0
+cancel, 182
+place, Mark Mcginnis, 1, 2, 15, 1, 15, 0
+modify, 707, 3, 1, 13, 0, 10, 1
+cancel, 592
+modify, 788, 9, 0, 6, 0, 13, 2
+modify, 1206, 15, 0, 2, 2, 4, 2
+place, Thomas Morris, 8, 2, 1, 2, 2, 2
+place, Martha King, 6, 0, 11, 1, 10, 0
+cancel, 879
+cancel, 808
+cancel, 103
+place, Ariane Mcmahon, 11, 0, 8, 0, 5, 1
+cancel, 245
+modify, 755, 12, 2, 9, 0, 6, 1
+cancel, 759
+modify, 578, 8, 0, 12, 2, 11, 1
+place, Joe Diaz, 15, 2, 11, 2, 14, 0
+place, Thomas Simcoe, 13, 1, 13, 0, 2, 1
+place, Alexander Teklu, 7, 0, 3, 0, 15, 2
+cancel, 620
+cancel, 1186
+modify, 1045, 1, 2, 9, 0, 8, 2
+cancel, 649
+place, Jessica Perez, 15, 1, 1, 0, 12, 0
+modify, 1056, 2, 1, 13, 2, 9, 2
+place, Melanie Weiss, 13, 1, 14, 1, 11, 0
+cancel, 293
+place, David Collins, 8, 0, 9, 1, 7, 0
+modify, 338, 4, 1, 7, 1, 2, 1
+cancel, 1181
+cancel, 1112
+cancel, 981
+modify, 888, 4, 0, 15, 2, 1, 0
+modify, 590, 4, 2, 12, 1, 12, 0
+place, Raymond Roe, 3, 2, 13, 1, 13, 2
+place, Lawrence Smith, 3, 0, 12, 0, 10, 1
+modify, 1321, 14, 1, 13, 2, 4, 2
+modify, 307, 15, 1, 11, 2, 12, 0
+modify, 137, 11, 1, 2, 0, 10, 0
+modify, 506, 12, 0, 4, 1, 9, 0
+modify, 234, 14, 2, 4, 0, 10, 2
+cancel, 739
+cancel, 184
+cancel, 946
+cancel, 1299
+place, Catherine Mooney, 2, 1, 1, 1, 15, 2
+place, Karen Herron, 5, 0, 14, 2, 14, 0
+place, Shannon Fountain, 7, 1, 14, 2, 1, 2
+cancel, 257
+cancel, 504
+modify, 618, 12, 1, 13, 2, 14, 2
+place, Cynthia Foster, 13, 0, 12, 0, 3, 2
+modify, 274, 15, 2, 10, 1, 2, 1
+place, Ruth Hoskins, 15, 1, 1, 2, 12, 2
+modify, 1199, 11, 2, 15, 1, 9, 1
+modify, 581, 7, 1, 7, 2, 8, 0
+place, Ching Dufour, 6, 1, 6, 0, 9, 0
+modify, 987, 14, 0, 13, 2, 9, 2
+cancel, 683
+modify, 987, 15, 2, 15, 0, 8, 0
+place, Delores Hurtado, 1, 1, 5, 2, 5, 1
+place, John Mann, 2, 2, 14, 1, 14, 1
+modify, 802, 12, 2, 12, 0, 12, 1
+cancel, 77
+place, Robert Holmes, 6, 2, 1, 1, 7, 0
+cancel, 306
+modify, 422, 1, 0, 6, 1, 1, 0
+place, Wendell Zamarripa, 1, 2, 11, 1, 8, 0
+cancel, 44
+place, Danny Dyson, 10, 0, 8, 2, 9, 1
+modify, 1026, 4, 2, 3, 2, 3, 2
+cancel, 192
+modify, 515, 6, 2, 2, 0, 5, 2
+place, Emily Taylor, 7, 2, 5, 1, 3, 0
+place, Norma Ragan, 5, 0, 4, 2, 1, 0
+modify, 373, 3, 2, 5, 0, 7, 2
+cancel, 1297
+cancel, 369
+modify, 1330, 9, 2, 10, 2, 14, 0
+modify, 50, 10, 2, 12, 0, 5, 0
+cancel, 1202
+modify, 1197, 4, 0, 4, 2, 8, 0
+cancel, 921
+cancel, 286
+cancel, 1002
+modify, 440, 6, 0, 6, 1, 10, 0
+place, Geneva Mcdonald, 9, 2, 11, 0, 2, 1
+cancel, 726
+cancel, 206
+place, Mark Zimmerman, 1, 1, 1, 2, 6, 2
+modify, 943, 12, 2, 10, 0, 4, 0
+cancel, 346
+modify, 321, 9, 2, 6, 0, 15, 2
+cancel, 1297
+place, Patrick Bell, 1, 1, 1, 1, 9, 0
+modify, 247, 12, 1, 9, 0, 14, 2
+place, Robert Webb, 8, 0, 9, 1, 2, 0
+cancel, 262
+place, Francis Palomino, 9, 1, 11, 1, 1, 2
+modify, 702, 3, 2, 1, 1, 12, 2
+cancel, 531
+modify, 1125, 7, 2, 13, 2, 13, 1
+cancel, 42
+modify, 701, 11, 0, 15, 0, 1, 1
+place, Johnnie Mayrant, 15, 0, 13, 2, 15, 2
+modify, 999, 14, 2, 4, 2, 1, 2
+modify, 537, 1, 2, 11, 0, 14, 1
+modify, 747, 3, 0, 2, 0, 10, 1
+place, Nancy Vanmeter, 15, 2, 7, 0, 7, 0
+place, Florence Melton, 13, 1, 14, 2, 13, 2
+cancel, 560
+cancel, 197
+cancel, 1058
+cancel, 1021
+place, Charles Larimore, 1, 1, 7, 0, 11, 2
+cancel, 422
+modify, 61, 1, 2, 2, 2, 9, 1
+modify, 359, 7, 2, 10, 0, 14, 0
+modify, 335, 4, 1, 7, 2, 8, 0
+cancel, 742
+cancel, 1046
+cancel, 1228
+cancel, 292
+cancel, 623
+modify, 792, 10, 2, 7, 0, 6, 2
+modify, 477, 10, 1, 13, 1, 1, 0
+place, Jessica Baker, 8, 0, 1, 2, 14, 2
+place, Ella Mclellan, 12, 0, 2, 2, 8, 2
+cancel, 425
+modify, 857, 11, 2, 7, 2, 9, 1
+cancel, 1156
+modify, 410, 6, 0, 10, 0, 6, 1
+modify, 839, 3, 1, 4, 1, 6, 2
+cancel, 41
+modify, 60, 15, 2, 9, 2, 6, 1
+cancel, 554
+modify, 1341, 9, 1, 4, 2, 3, 2
+modify, 874, 1, 1, 15, 2, 6, 2
+modify, 600, 11, 0, 2, 0, 14, 0
+modify, 754, 9, 0, 12, 1, 5, 2
+cancel, 1290
+cancel, 1106
+cancel, 258
+place, Max Buzzell, 7, 0, 2, 2, 11, 1
+modify, 55, 5, 2, 11, 1, 11, 0
+modify, 258, 8, 0, 2, 0, 15, 0
+place, Richard Peck, 6, 1, 8, 1, 13, 1
+modify, 1301, 11, 0, 7, 0, 10, 2
+cancel, 1017
+place, Michael Mcallister, 2, 2, 5, 1, 2, 1
+place, Kelly Jeffery, 10, 2, 6, 1, 2, 0
+place, Lynda Mangino, 7, 2, 12, 1, 5, 0
+cancel, 21
+cancel, 1232
+modify, 145, 14, 0, 12, 1, 8, 1
+cancel, 1038
+modify, 1346, 5, 0, 8, 2, 10, 2
+modify, 809, 13, 1, 6, 2, 4, 2
+modify, 150, 12, 2, 10, 2, 5, 1
+place, Pamala Gomez, 4, 1, 14, 2, 5, 0
+cancel, 805
+modify, 1161, 3, 1, 2, 2, 15, 0
+place, Mary Lussier, 6, 2, 11, 2, 1, 2
+cancel, 963
+cancel, 440
+modify, 430, 11, 2, 12, 0, 5, 1
+cancel, 1015
+place, Patricia Tiffany, 1, 2, 9, 2, 1, 2
+place, Anthony Johnson, 14, 2, 8, 0, 6, 2
+place, Janie Cotton, 8, 1, 3, 2, 7, 0
+modify, 1038, 10, 2, 6, 1, 13, 0
+place, Wilma Allen, 13, 2, 11, 1, 11, 1
+modify, 875, 2, 0, 14, 0, 14, 0
+modify, 1128, 4, 1, 3, 0, 10, 2
+modify, 1320, 1, 2, 12, 0, 2, 0
+cancel, 1301
+cancel, 1366
+modify, 809, 1, 0, 4, 2, 15, 1
+cancel, 255
+modify, 426, 13, 0, 2, 0, 8, 0
+cancel, 408
+modify, 913, 3, 0, 10, 0, 4, 2
+cancel, 1030
+place, Veronica Hairfield, 2, 2, 9, 1, 6, 1
+place, Orlando Doe, 9, 0, 3, 1, 8, 0
+cancel, 745
+modify, 299, 1, 0, 3, 0, 15, 1
+place, John Carr, 11, 0, 1, 0, 7, 0
+cancel, 369
+place, Irene Combs, 4, 1, 8, 0, 11, 0
+cancel, 1239
+place, Isabelle Dvorak, 9, 2, 8, 2, 8, 1
+cancel, 945
+cancel, 888
+place, James Wright, 13, 1, 11, 1, 14, 0
+place, Karen Driggers, 2, 1, 3, 0, 1, 0
+place, Charles Delacruz, 6, 1, 12, 2, 9, 1
+cancel, 404
+modify, 599, 5, 1, 5, 2, 8, 2
+cancel, 20
+place, Lisa Aguirre, 4, 1, 12, 0, 15, 2
+place, Carlton Baughman, 4, 0, 11, 2, 12, 0
+cancel, 1102
+cancel, 483
+cancel, 779
+modify, 676, 2, 1, 1, 0, 13, 0
+cancel, 35
+modify, 786, 8, 0, 13, 0, 8, 1
+cancel, 971
+place, Katherine Serrell, 10, 0, 11, 2, 11, 0
+place, Rebecca Edwards, 15, 1, 2, 1, 2, 0
+modify, 206, 13, 2, 15, 0, 2, 0
+cancel, 1159
+place, Brenda Chen, 10, 1, 4, 2, 10, 2
+modify, 1388, 11, 0, 9, 1, 11, 1
+place, James Chandler, 7, 1, 14, 1, 1, 0
+modify, 761, 3, 1, 9, 2, 5, 1
+modify, 57, 6, 1, 15, 2, 7, 1
+cancel, 1122
+cancel, 1257
+place, Nancy Zuber, 1, 1, 12, 2, 14, 0
+place, Jonathan Kim, 7, 2, 12, 1, 15, 1
+modify, 455, 3, 0, 7, 2, 6, 0
+place, Elizabeth Bonilla, 13, 2, 11, 1, 13, 2
+modify, 836, 9, 2, 15, 0, 5, 1
+place, Edward Brown, 3, 0, 6, 0, 6, 1
+place, Mariette Robinson, 3, 0, 10, 0, 7, 1
+modify, 428, 5, 1, 12, 2, 13, 0
+modify, 193, 2, 2, 5, 0, 2, 0
+modify, 397, 1, 2, 15, 2, 4, 2
+modify, 1344, 6, 2, 12, 2, 8, 2
+modify, 975, 9, 0, 4, 2, 15, 0
+cancel, 616
+cancel, 120
+modify, 1043, 11, 2, 3, 0, 12, 1
+modify, 649, 3, 0, 12, 2, 2, 0
+modify, 625, 8, 0, 9, 2, 12, 1
+cancel, 987
+place, Josef Kimball, 13, 0, 10, 1, 13, 1
+cancel, 1254
+cancel, 592
+cancel, 295
+cancel, 699
+place, Dina Seigel, 15, 0, 13, 2, 4, 2
+cancel, 275
+cancel, 827
+place, Clinton Deleon, 9, 2, 2, 0, 11, 0
+cancel, 1313
+cancel, 760
+modify, 1323, 1, 0, 11, 1, 11, 0
+cancel, 443
+place, Stella Manchester, 13, 1, 8, 1, 2, 2
+cancel, 1130
+cancel, 325
+cancel, 57
+place, Duane Bearden, 3, 1, 4, 1, 7, 1
+place, Thomasina Eastwood, 1, 0, 2, 1, 15, 0
+cancel, 1349
+cancel, 891
+place, Nicole Perry, 11, 1, 3, 0, 6, 1
+cancel, 1005
+modify, 285, 3, 0, 13, 0, 8, 0
+place, David Brubaker, 11, 2, 11, 1, 11, 1
+modify, 907, 2, 0, 2, 2, 12, 2
+cancel, 981
+modify, 224, 7, 2, 13, 1, 10, 1
+modify, 669, 11, 1, 7, 1, 2, 1
+place, Anna Mora, 4, 2, 2, 0, 2, 1
+cancel, 319
+modify, 794, 1, 0, 13, 2, 5, 0
+cancel, 209
+modify, 1130, 9, 0, 14, 2, 9, 2
+cancel, 205
+modify, 1298, 12, 1, 5, 1, 11, 0
+place, Erin Delfuente, 1, 2, 9, 2, 1, 1
+cancel, 734
+modify, 1149, 11, 2, 15, 0, 5, 2
+modify, 510, 5, 0, 3, 0, 8, 0
+place, James Rose, 12, 0, 5, 1, 1, 2
+modify, 486, 14, 1, 2, 2, 14, 0
+cancel, 1000
+place, Gregory Townsley, 4, 2, 6, 1, 8, 0
+place, Candi Blue, 15, 1, 12, 2, 14, 2
+modify, 996, 3, 1, 14, 1, 7, 1
+cancel, 421
+modify, 390, 1, 0, 5, 1, 8, 0
+cancel, 557
+cancel, 497
+place, Elsie Mends, 3, 2, 12, 2, 1, 0
+place, Miranda Tullius, 3, 2, 13, 2, 3, 0
+cancel, 641
+cancel, 1180
+place, Kevin Ramsey, 1, 1, 6, 1, 7, 1
+cancel, 10
+place, Yvonne Joiner, 1, 0, 1, 2, 7, 2
+place, Kristin Barnes, 6, 2, 5, 2, 4, 1
+cancel, 241
+modify, 126, 10, 0, 4, 1, 7, 0
+cancel, 1394
+place, Dona Mendoza, 4, 1, 15, 1, 8, 0
+place, Richard Luckey, 12, 1, 7, 2, 1, 1
+cancel, 64
+cancel, 1385
+place, Herbert Rockman, 10, 0, 2, 0, 2, 2
+place, Kathy Roberts, 14, 0, 14, 2, 8, 0
+modify, 1361, 4, 0, 8, 2, 4, 0
+place, Charlene Orizabal, 11, 1, 11, 1, 12, 0
+modify, 1282, 10, 0, 7, 1, 4, 0
+cancel, 1293
+place, Joshua Varron, 5, 0, 11, 2, 7, 2
+place, John Alarcon, 13, 2, 14, 1, 3, 2
+cancel, 89
+cancel, 757
+place, Jon Byard, 10, 0, 15, 2, 14, 2
+modify, 544, 9, 0, 14, 2, 6, 2
+cancel, 858
+cancel, 581
+place, John Juel, 3, 1, 15, 1, 6, 2
+modify, 1373, 3, 1, 2, 1, 15, 0
+cancel, 299
+modify, 1133, 9, 2, 12, 0, 12, 2
+modify, 42, 9, 1, 2, 0, 4, 2
+modify, 1261, 6, 0, 11, 0, 5, 2
+modify, 1009, 13, 2, 1, 1, 12, 0
+place, Justin Whitney, 2, 1, 8, 2, 14, 0
+modify, 686, 9, 0, 7, 1, 8, 0
+cancel, 530
+place, Dallas Carroll, 5, 2, 7, 0, 8, 2
+modify, 68, 3, 0, 1, 0, 15, 0
+place, Eugene Scriven, 12, 2, 2, 2, 15, 2
+place, Inez Lane, 8, 1, 9, 0, 2, 1
+modify, 621, 4, 0, 12, 1, 1, 1
+cancel, 1072
+place, Sharon Romeo, 1, 2, 2, 1, 5, 1
+place, Olene Richardson, 8, 0, 5, 1, 1, 0
+modify, 623, 3, 0, 8, 1, 6, 2
+cancel, 653
+modify, 654, 11, 2, 9, 1, 3, 0
+modify, 1005, 5, 0, 6, 0, 14, 0
+modify, 560, 9, 0, 1, 1, 10, 0
+modify, 1400, 8, 2, 14, 0, 6, 0
+cancel, 225
+cancel, 591
+modify, 341, 5, 0, 1, 0, 14, 2
+modify, 569, 9, 2, 8, 0, 1, 0
+cancel, 710
+place, Norma Braxton, 8, 1, 13, 1, 14, 1
+place, Tuan Boyne, 2, 1, 2, 1, 6, 0
+cancel, 295
+place, Frank Menist, 10, 0, 5, 0, 1, 2
+modify, 1182, 6, 0, 15, 2, 14, 2
+cancel, 1064
+cancel, 1088
+modify, 910, 10, 1, 15, 0, 11, 1
+cancel, 354
+place, Marie Crespo, 9, 0, 10, 0, 9, 2
+place, Barbara Prach, 5, 2, 1, 1, 3, 1
+cancel, 12
+cancel, 630
+cancel, 153
+place, Kimberly Vincent, 3, 0, 5, 2, 12, 1
+modify, 423, 14, 0, 6, 2, 10, 0
+cancel, 708
+place, Robert Sanford, 6, 1, 1, 2, 8, 1
+modify, 476, 13, 1, 5, 1, 12, 1
+place, Kevin Sultzer, 11, 2, 13, 0, 1, 2
+modify, 1108, 4, 2, 13, 1, 3, 0
+place, Bonnie Valdez, 9, 1, 4, 0, 9, 0
+modify, 148, 9, 1, 5, 2, 1, 2
+modify, 220, 1, 0, 6, 2, 5, 0
+place, Daniel Vice, 9, 0, 8, 2, 12, 2
+place, Harold Straus, 12, 1, 10, 1, 9, 1
+modify, 1324, 12, 2, 9, 0, 15, 0
+place, Andrew Crofton, 15, 0, 1, 0, 10, 1
+modify, 434, 11, 1, 5, 2, 13, 2
+cancel, 836
+place, Helen Robertson, 9, 2, 11, 1, 5, 2
+place, Elijah Ellender, 13, 2, 2, 0, 14, 0
+place, Benjamin Lawrence, 13, 1, 13, 2, 10, 1
+modify, 1445, 9, 2, 6, 1, 13, 2
+place, Edward Moua, 15, 2, 3, 0, 4, 2
+cancel, 1154
+place, Mallie Hall, 3, 2, 1, 1, 6, 0
+modify, 562, 5, 0, 7, 0, 4, 1
+cancel, 137
+place, Deloris Martin, 7, 2, 6, 2, 15, 1
+place, Robert Hill, 5, 1, 12, 0, 11, 0
+place, Taylor Rogers, 3, 1, 14, 1, 3, 2
+place, Natalie Gipson, 12, 1, 4, 1, 3, 1
+place, Marilyn Laswell, 5, 0, 12, 0, 3, 1
+modify, 1333, 9, 1, 7, 1, 13, 0
+cancel, 111
+modify, 796, 6, 1, 11, 2, 9, 1
+modify, 1186, 9, 1, 4, 1, 9, 1
+place, Michael Gaskin, 5, 2, 9, 1, 1, 2
+cancel, 399
+modify, 748, 7, 2, 10, 1, 12, 0
+place, Barbara Kuziel, 3, 0, 12, 1, 3, 2
+modify, 1084, 12, 0, 4, 2, 7, 1
+place, Michael Parry, 13, 0, 10, 0, 9, 2
+cancel, 737
+modify, 87, 6, 0, 15, 1, 15, 0
+place, Russell Cornelius, 9, 0, 4, 1, 13, 1
+place, Edith Kreisher, 9, 1, 9, 1, 3, 0
+cancel, 1318
+modify, 984, 2, 2, 5, 0, 7, 2
+cancel, 204
+cancel, 1220
+modify, 680, 5, 0, 1, 1, 8, 1
+cancel, 1268
+modify, 412, 7, 0, 14, 2, 13, 2
+place, Shelly Ha, 4, 2, 2, 1, 1, 0
+cancel, 968
+modify, 212, 4, 1, 13, 0, 4, 0
+cancel, 412
+modify, 164, 8, 1, 1, 1, 7, 0
+place, Eugene Ohanlon, 12, 1, 14, 1, 15, 0
+place, Charles Dugue, 13, 0, 3, 0, 10, 2
+cancel, 1100
+cancel, 534
+place, Sylvia Nguyen, 10, 1, 8, 1, 4, 0
+place, Janice Carr, 11, 1, 2, 0, 4, 2
+modify, 445, 5, 1, 1, 1, 1, 1
+modify, 1226, 10, 0, 13, 2, 4, 1
+cancel, 1475
+modify, 697, 2, 2, 7, 0, 5, 1
+modify, 1017, 5, 2, 3, 1, 10, 0
+modify, 1391, 10, 0, 4, 2, 13, 2
+cancel, 1395
+cancel, 818
+modify, 488, 1, 0, 14, 0, 4, 0
+place, William Pinette, 9, 0, 13, 2, 13, 1
+place, Ray Adams, 2, 1, 12, 2, 7, 1
+cancel, 456
+cancel, 793
+place, Sue Mcmasters, 3, 1, 6, 2, 2, 2
+place, Jason Alford, 15, 1, 5, 0, 15, 0
+modify, 349, 2, 1, 10, 0, 11, 0
+modify, 1176, 8, 2, 14, 0, 8, 1
+place, Elisa Butler, 6, 2, 10, 0, 15, 0
+cancel, 142
+cancel, 867
+cancel, 1147
+place, Sadie Gonzalez, 13, 0, 13, 2, 10, 0
+modify, 1345, 9, 1, 15, 2, 15, 0
+modify, 228, 13, 1, 7, 1, 15, 1
+cancel, 1084
+modify, 978, 2, 1, 15, 0, 11, 0
+modify, 1363, 6, 2, 7, 2, 13, 1
+place, Willie Rickert, 10, 2, 5, 1, 15, 1
+place, James Senay, 2, 2, 11, 2, 1, 2
+place, Robert Powell, 9, 2, 6, 0, 15, 0
+modify, 516, 1, 2, 3, 1, 5, 0
+cancel, 531
+modify, 254, 10, 0, 13, 2, 12, 2
+place, Nicole Holbrook, 10, 0, 2, 2, 12, 0
+place, William Hall, 2, 1, 12, 2, 10, 1
+modify, 78, 4, 1, 13, 1, 7, 2
+modify, 20, 6, 1, 13, 0, 14, 1
+place, Neil Forgey, 10, 2, 9, 1, 5, 2
+modify, 93, 13, 2, 12, 1, 10, 0
+place, Dustin Tyree, 4, 0, 7, 1, 9, 0
+modify, 194, 3, 1, 1, 0, 15, 0
+cancel, 1219
+cancel, 729
+cancel, 363
+cancel, 879
+modify, 378, 8, 2, 11, 1, 9, 2
+modify, 528, 1, 1, 6, 1, 7, 1
+place, Otis Angus, 2, 1, 7, 2, 2, 1
+place, Emily London, 7, 2, 1, 1, 9, 1
+place, Dorothy Stewart, 10, 2, 2, 2, 6, 1
+modify, 888, 9, 0, 2, 1, 13, 1
+cancel, 993
+modify, 1420, 10, 1, 13, 2, 6, 2
+cancel, 1315
+cancel, 808
+place, Dylan Wieland, 9, 1, 11, 0, 14, 1
+place, Charles Warren, 2, 1, 9, 2, 9, 2
+cancel, 1334
+place, Latoya Day, 6, 2, 8, 2, 15, 0
+modify, 578, 10, 2, 13, 2, 1, 1
+cancel, 250
+place, Velma Ashton, 1, 1, 8, 2, 7, 0
+cancel, 396
+cancel, 325
+place, Ruthann Schindler, 5, 0, 10, 1, 1, 1
+place, Marcus Rosenthal, 1, 2, 3, 0, 2, 1
+cancel, 1414
+cancel, 1302
+cancel, 822
+modify, 862, 7, 1, 7, 0, 2, 1
+cancel, 620
+modify, 1490, 11, 1, 1, 1, 9, 0
+place, Regina Engel, 1, 0, 11, 2, 3, 1
+modify, 802, 10, 1, 1, 1, 7, 2
+cancel, 1410
+modify, 952, 1, 2, 9, 0, 4, 0
+place, Cynthia Marshall, 13, 2, 2, 2, 11, 2
+place, Julia Gertz, 14, 0, 12, 2, 12, 1
+modify, 883, 1, 2, 14, 1, 9, 1
+place, Mable Hernandez, 14, 0, 12, 2, 14, 2
+cancel, 1172
+cancel, 495
+modify, 975, 10, 2, 15, 2, 12, 0
+place, Mae Acker, 3, 1, 8, 0, 13, 1
+cancel, 696
+place, Richard Ulatowski, 2, 0, 3, 2, 2, 1
+modify, 488, 14, 2, 14, 1, 3, 0
+cancel, 1203
+modify, 684, 8, 2, 13, 2, 4, 1
+place, Kathleen Burgess, 6, 2, 4, 0, 7, 2
+place, Michelle Hernandez, 2, 1, 4, 0, 4, 2
+cancel, 683
+cancel, 628
+modify, 404, 11, 2, 1, 2, 13, 0
+place, Bridget Walston, 12, 1, 2, 2, 6, 1
+place, Tami Edwards, 8, 1, 3, 0, 1, 2
+place, Cassandra Hardy, 12, 0, 8, 0, 2, 2
+place, Claudia Luna, 11, 2, 2, 0, 6, 0
+place, Rory Bowser, 1, 2, 1, 2, 7, 1
+place, Dennis Cochran, 7, 1, 13, 0, 13, 0
+modify, 493, 5, 2, 3, 1, 14, 0
+place, Edward Holtz, 14, 2, 3, 0, 8, 2
+modify, 1236, 11, 1, 1, 1, 6, 0
+cancel, 524
+cancel, 1174
+cancel, 317
+modify, 1236, 6, 1, 3, 2, 8, 0
+modify, 1022, 14, 2, 4, 2, 6, 2
+modify, 401, 2, 1, 8, 1, 12, 2
+cancel, 338
+place, William Gill, 7, 1, 14, 1, 3, 2
+place, Terry Mcchristian, 9, 0, 11, 1, 8, 1
+modify, 109, 4, 1, 1, 2, 14, 2
+place, Theresa Brown, 9, 1, 13, 2, 1, 2
+modify, 882, 1, 0, 10, 2, 6, 2
+cancel, 591
+cancel, 61
+modify, 62, 9, 0, 4, 1, 8, 2
+place, Laurie Dunkley, 8, 1, 8, 0, 11, 0
+cancel, 818
+modify, 1509, 7, 1, 4, 2, 5, 2
+modify, 245, 9, 2, 2, 2, 7, 0
+modify, 571, 10, 2, 14, 1, 8, 1
+modify, 161, 10, 0, 1, 2, 1, 1
+place, Ray Tatum, 5, 1, 10, 0, 3, 2
+modify, 1251, 12, 1, 10, 2, 10, 0
+modify, 195, 5, 2, 5, 0, 8, 0
+place, Lynette Howes, 6, 1, 8, 1, 4, 0
+cancel, 4
+modify, 294, 1, 0, 14, 0, 6, 2
+modify, 1452, 11, 2, 15, 1, 1, 0
+place, Naomi Le, 11, 1, 8, 2, 14, 1
+place, Hugh French, 11, 1, 8, 1, 15, 2
+modify, 724, 4, 1, 10, 1, 12, 1
+modify, 399, 8, 1, 11, 1, 3, 2
+cancel, 628
+modify, 38, 4, 2, 4, 1, 4, 1
+place, Rose Phelps, 1, 1, 15, 2, 11, 1
+cancel, 101
+cancel, 255
+cancel, 704
+cancel, 625
+cancel, 848
+place, Alan Reich, 2, 2, 6, 1, 9, 1
+cancel, 990
+cancel, 507
+cancel, 1194
+modify, 617, 15, 1, 4, 1, 13, 0
+cancel, 22
+place, Barbara Lewis, 10, 2, 10, 2, 3, 2
+modify, 1178, 13, 2, 15, 2, 10, 2
+cancel, 575
+place, James Perez, 3, 0, 15, 1, 9, 2
+modify, 1033, 6, 1, 10, 2, 5, 0
+place, Jason Wold, 11, 2, 12, 1, 6, 1
+cancel, 671
+cancel, 1292
+place, Henry Taylor, 7, 0, 10, 1, 5, 1
+place, Janice Ryburn, 3, 2, 4, 0, 2, 0
+cancel, 985
+modify, 703, 12, 2, 4, 0, 13, 2
+place, Vera Sheckler, 1, 1, 11, 1, 10, 1
+modify, 1387, 4, 0, 9, 0, 6, 1
+modify, 544, 7, 2, 13, 0, 6, 1
+cancel, 666
+cancel, 1059
+modify, 670, 9, 0, 8, 1, 12, 2
+cancel, 948
+modify, 1088, 10, 1, 12, 2, 7, 0
+place, Gladys Hughes, 6, 1, 13, 0, 9, 2
+modify, 628, 11, 1, 3, 1, 2, 1
+place, Charles Morgan, 12, 0, 2, 0, 12, 2
+place, Jennifer Solomon, 15, 2, 5, 2, 13, 2
+modify, 192, 7, 1, 14, 1, 5, 1
+modify, 28, 12, 1, 7, 1, 1, 1
+modify, 109, 9, 1, 14, 1, 1, 2
+modify, 511, 2, 1, 1, 0, 14, 1
+cancel, 1090
+modify, 357, 11, 0, 3, 0, 10, 0
+modify, 224, 13, 0, 10, 1, 10, 0
+modify, 119, 8, 0, 8, 1, 11, 1
+cancel, 441
+place, Kenneth Goud, 14, 1, 9, 2, 13, 0
+place, Rose Debarros, 10, 0, 12, 2, 4, 1
+place, Kenneth Mcmahon, 9, 1, 15, 2, 7, 2
+cancel, 1449
+place, Mia Wells, 12, 1, 8, 0, 6, 1
+cancel, 1360
+place, Louisa Balfour, 6, 0, 3, 1, 8, 1
+place, Julia Cutler, 9, 2, 9, 2, 5, 1
+place, William Harrington, 3, 2, 1, 2, 13, 1
+place, Charles Myrick, 13, 0, 15, 1, 3, 0
+cancel, 248
+cancel, 514
+place, Ashley Mitchell, 10, 1, 2, 0, 15, 0
+cancel, 1235
+cancel, 1504
+place, Sheryl Elliott, 12, 0, 2, 0, 14, 0
+place, Joseph Caruthers, 7, 1, 4, 1, 14, 1
+cancel, 769
+place, Jay Jones, 14, 1, 7, 2, 4, 0
+place, Emily Johnson, 3, 1, 12, 2, 2, 1
+modify, 82, 8, 1, 9, 2, 14, 0
+cancel, 746
+modify, 435, 9, 0, 9, 1, 10, 2
+cancel, 519
+place, Amanda Smith, 6, 0, 5, 1, 10, 2
+modify, 69, 7, 0, 1, 1, 11, 0
+modify, 1258, 1, 1, 9, 1, 15, 2
+modify, 82, 5, 0, 10, 0, 15, 1
+modify, 916, 2, 0, 11, 1, 10, 2
+modify, 372, 4, 2, 15, 0, 8, 1
+modify, 1041, 12, 1, 4, 1, 11, 2
+modify, 1079, 14, 2, 9, 1, 13, 0
+modify, 956, 15, 2, 1, 1, 9, 1
+cancel, 1525
+cancel, 27
+place, Marcos Saleha, 13, 1, 8, 1, 1, 1
+cancel, 1278
+place, Lawrence Robertson, 8, 2, 7, 1, 10, 1
+place, Randall Gregory, 7, 0, 10, 0, 13, 0
+place, Michael Badger, 1, 0, 3, 1, 1, 1
+modify, 1265, 11, 2, 2, 2, 7, 0
+place, Ernest Rhine, 7, 2, 10, 1, 13, 1
+place, Barbara Mays, 8, 2, 10, 0, 5, 2
+place, Eric Lilley, 8, 1, 8, 1, 2, 1
+place, Sarah Le, 4, 0, 7, 2, 4, 0
+place, Eduardo Johnson, 13, 0, 8, 0, 11, 0
+modify, 186, 4, 1, 7, 0, 6, 1
+modify, 58, 2, 2, 5, 1, 14, 2
+modify, 320, 6, 0, 15, 2, 8, 0
+cancel, 271
+place, Marcella Moore, 15, 1, 9, 2, 4, 0
+modify, 848, 7, 1, 2, 1, 11, 0
+modify, 16, 1, 1, 12, 0, 6, 2
+cancel, 305
+modify, 1505, 1, 0, 2, 2, 13, 0
+place, Jennifer Loo, 11, 0, 14, 2, 3, 1
+place, Maria Mackey, 2, 1, 6, 2, 12, 2
+cancel, 1379
+place, Brenda Limmel, 10, 1, 15, 1, 1, 0
+place, Allen Bayless, 14, 2, 4, 0, 8, 2
+modify, 1422, 3, 1, 2, 1, 12, 0
+modify, 1504, 1, 1, 14, 1, 13, 0
+modify, 100, 4, 0, 3, 0, 10, 0
+place, William Young, 5, 2, 7, 0, 13, 1
+modify, 1518, 11, 1, 3, 1, 9, 0
+modify, 1494, 12, 2, 7, 1, 3, 1
+place, Scott Bodenhamer, 11, 1, 15, 0, 6, 0
+cancel, 114
+place, Joseph Scott, 11, 2, 13, 2, 12, 0
+place, Gracie Alston, 14, 2, 13, 1, 9, 0
+place, Bobby Harris, 14, 2, 10, 1, 6, 0
+place, Eli Potter, 2, 0, 1, 2, 12, 1
+cancel, 700
+cancel, 202
+cancel, 1278
+modify, 771, 7, 0, 5, 0, 2, 1
+place, Sally Moore, 10, 0, 15, 0, 11, 2
+modify, 381, 7, 1, 4, 1, 12, 1
+cancel, 536
+cancel, 932
+place, Thomas Moreno, 9, 1, 13, 2, 12, 0
+modify, 720, 2, 1, 1, 0, 1, 0
+place, William Nichols, 15, 0, 1, 0, 2, 1
+place, Lawrence Bailey, 13, 1, 6, 1, 10, 2
+cancel, 208
+modify, 1242, 2, 2, 15, 2, 15, 1
+place, Michele Santiago, 10, 1, 9, 1, 2, 1
+cancel, 1275
+place, Jessica Hernandez, 1, 1, 14, 2, 8, 1
+place, Billy Kinneman, 15, 0, 12, 1, 7, 1
+place, Shirley Revering, 6, 1, 9, 2, 12, 0
+place, Guillermo Barrington, 3, 1, 14, 0, 14, 0
+place, George Rome, 9, 1, 2, 1, 15, 2
+cancel, 275
+place, Sara Ayala, 4, 1, 12, 0, 4, 1
+place, Glenn Williams, 4, 0, 13, 1, 9, 2
+cancel, 152
+place, Nicole Sanders, 15, 1, 9, 0, 1, 0
+modify, 829, 4, 2, 1, 1, 2, 1
+modify, 605, 13, 2, 11, 0, 6, 2
+place, Edward Servais, 13, 1, 12, 2, 15, 1
+cancel, 1485
+place, Peggy Phung, 14, 2, 12, 2, 5, 0
+modify, 1312, 9, 2, 15, 0, 5, 2
+modify, 847, 12, 2, 2, 2, 3, 2
+cancel, 665
+place, Kevin Mccarty, 12, 2, 2, 0, 13, 1
+place, Daniel Stafford, 6, 2, 9, 2, 9, 2
+place, Marcus Vinson, 4, 1, 8, 2, 9, 1
+modify, 382, 2, 0, 7, 0, 8, 1
+place, Ronald Bender, 9, 0, 7, 0, 11, 1
+cancel, 1232
+modify, 587, 7, 2, 2, 0, 11, 2
+modify, 1367, 7, 2, 6, 1, 15, 0
+place, Gail Davis, 12, 2, 2, 0, 11, 2
+modify, 736, 8, 0, 9, 2, 12, 1
+cancel, 1266
+cancel, 286
+place, Diane Perez, 14, 2, 14, 1, 3, 0
+place, Calvin Curtis, 5, 2, 1, 1, 4, 1
+modify, 54, 13, 1, 15, 0, 7, 2
+modify, 1030, 4, 2, 15, 0, 5, 2
+modify, 1311, 5, 1, 9, 1, 10, 0
+place, Paul King, 1, 2, 6, 0, 7, 1
+cancel, 626
+cancel, 1104
+cancel, 104
+modify, 1535, 6, 2, 6, 2, 9, 0
+cancel, 748
+place, Frances Perry, 7, 2, 14, 0, 14, 1
+place, James Seville, 1, 1, 9, 1, 15, 0
+cancel, 1542
+modify, 1049, 3, 2, 15, 0, 11, 2
+modify, 168, 11, 0, 3, 2, 8, 1
+cancel, 1360
+modify, 509, 7, 2, 10, 1, 7, 1
+cancel, 692
+place, Freda Collins, 6, 0, 13, 0, 5, 0
+modify, 1368, 2, 2, 5, 0, 7, 0
+cancel, 1212
+place, Jay Mckie, 6, 0, 5, 1, 9, 2
+modify, 503, 7, 2, 5, 0, 15, 2
+modify, 261, 1, 1, 3, 2, 10, 2
+modify, 411, 2, 2, 3, 2, 6, 2
+modify, 376, 7, 1, 2, 2, 12, 2
+place, Luis Stansberry, 7, 0, 5, 1, 8, 0
+modify, 1050, 2, 2, 4, 1, 7, 1
+modify, 572, 3, 2, 8, 2, 14, 2
+cancel, 526
+modify, 8, 6, 0, 3, 1, 4, 0
+cancel, 919
+modify, 742, 13, 2, 7, 1, 13, 1
+cancel, 452
+cancel, 657
+modify, 891, 6, 2, 7, 1, 6, 1
+place, Tonisha Jones, 10, 2, 5, 1, 4, 1
+cancel, 947
+modify, 1160, 3, 1, 7, 1, 15, 0
+place, Jillian Cochran, 3, 2, 4, 2, 4, 2
+place, Eric Harriott, 10, 0, 2, 2, 12, 0
+cancel, 432
+place, Darren Parks, 15, 0, 6, 1, 3, 2
+place, Christine Fernandez, 2, 0, 11, 2, 15, 1
+modify, 280, 11, 1, 3, 0, 4, 2
+modify, 355, 8, 1, 4, 0, 2, 1
+modify, 682, 11, 0, 14, 1, 6, 1
+place, June Garcia, 2, 2, 7, 1, 5, 2
+modify, 478, 9, 0, 4, 2, 5, 0
+modify, 502, 10, 2, 7, 0, 8, 1
+place, Walter Young, 6, 2, 11, 1, 5, 0
+cancel, 70
+modify, 1227, 1, 1, 2, 1, 12, 2
+place, Connie Roman, 6, 0, 6, 2, 14, 0
+place, Jim Ehrhardt, 2, 0, 2, 1, 4, 0
+place, Jessica Walker, 4, 1, 10, 0, 4, 2
+modify, 451, 7, 2, 14, 1, 2, 0
+modify, 540, 4, 1, 6, 2, 2, 2
+cancel, 1495
+cancel, 1513
+place, Karen Hayes, 2, 1, 3, 0, 12, 1
+modify, 1476, 1, 2, 10, 1, 9, 2
+modify, 24, 12, 0, 5, 0, 6, 1
+cancel, 1082
+modify, 1094, 3, 0, 14, 2, 1, 0
+cancel, 1093
+place, Shirley Ennis, 1, 0, 3, 2, 9, 2
+place, Andrea Delacruz, 12, 2, 13, 0, 10, 1
+place, Dustin Grissom, 15, 1, 2, 2, 9, 0
+modify, 575, 3, 1, 11, 1, 14, 0
+cancel, 127
+modify, 899, 2, 1, 3, 1, 1, 2
+place, Cornelius Miller, 10, 0, 12, 1, 10, 2
+cancel, 1471
+cancel, 108
+cancel, 963
+modify, 1250, 11, 2, 1, 2, 3, 2
+cancel, 886
+place, Arturo Barney, 13, 1, 11, 1, 9, 2
+place, Larry Thomas, 13, 1, 4, 1, 10, 1
+cancel, 1275
+place, Rick Stevens, 5, 2, 12, 1, 7, 2
+place, William Atkins, 9, 0, 9, 0, 15, 2
+place, Joey Disla, 13, 0, 7, 2, 14, 1
+place, Kelvin Strait, 10, 2, 12, 2, 13, 1
+modify, 1044, 1, 1, 13, 1, 13, 2
+place, Chris Eckert, 1, 0, 8, 1, 7, 1
+cancel, 1319
+place, Wendy Farmer, 15, 2, 3, 0, 14, 2
+cancel, 1368
+cancel, 551
+cancel, 868
+modify, 881, 15, 2, 8, 1, 15, 2
+place, Nathan Oneal, 9, 0, 13, 2, 13, 1
+cancel, 857
+modify, 1554, 14, 2, 4, 2, 15, 2
+place, Nancy Cespedes, 2, 1, 2, 1, 5, 2
+cancel, 1157
+modify, 1535, 10, 1, 12, 2, 4, 1
+modify, 538, 1, 2, 3, 1, 10, 1
+cancel, 392
+place, Betty Mcintosh, 5, 1, 2, 1, 10, 0
+cancel, 1516
+modify, 86, 4, 1, 2, 0, 13, 2
+place, Richard Brown, 7, 2, 15, 0, 6, 2
+modify, 1498, 10, 2, 4, 2, 14, 2
+modify, 1047, 5, 2, 5, 2, 9, 2
+place, Alice Munnerlyn, 3, 1, 4, 0, 15, 1
+place, Susan Pooler, 9, 2, 14, 2, 11, 0
+modify, 1241, 8, 2, 5, 2, 11, 2
+cancel, 7
+cancel, 1367
+modify, 1338, 13, 2, 15, 0, 13, 0
+modify, 819, 3, 2, 10, 1, 7, 0
+modify, 155, 2, 1, 5, 0, 14, 1
+modify, 1100, 7, 1, 1, 0, 12, 0
+modify, 1461, 1, 2, 11, 0, 1, 2
+modify, 284, 8, 1, 4, 1, 8, 1
+modify, 875, 14, 0, 14, 0, 15, 1
+place, Monica Earl, 10, 2, 10, 1, 2, 0
+place, James Cordoua, 10, 0, 2, 2, 12, 1
+place, Michele Cain, 9, 2, 9, 1, 4, 2
+place, Donald Lumley, 6, 2, 15, 0, 9, 0
+modify, 311, 14, 0, 9, 0, 13, 1
+place, Carl Conyers, 1, 1, 8, 0, 6, 1
+cancel, 738
+modify, 908, 8, 2, 9, 0, 7, 2
+cancel, 818
+cancel, 54
+place, Cassandra Vandre, 1, 0, 8, 1, 13, 0
+modify, 1142, 7, 0, 6, 1, 15, 1
+modify, 1409, 4, 2, 4, 1, 15, 1
+place, Stanley Gonzalez, 6, 0, 12, 1, 4, 2
+modify, 1345, 15, 2, 9, 2, 9, 0
+cancel, 337
+modify, 252, 3, 2, 7, 1, 9, 0
+place, Penny Brown, 14, 2, 7, 0, 11, 1
+place, Doris Layton, 5, 2, 8, 2, 14, 1
+place, Emma Mccrae, 14, 2, 9, 1, 3, 0
+cancel, 597
+place, Cheryl Taylor, 10, 2, 1, 0, 15, 0
+modify, 334, 4, 0, 4, 2, 15, 1
+cancel, 438
+modify, 1610, 13, 1, 4, 1, 5, 0
+cancel, 130
+place, Kim Chenault, 14, 2, 15, 1, 4, 1
+cancel, 1112
+cancel, 1361
+cancel, 1053
+modify, 1610, 8, 1, 11, 0, 3, 1
+cancel, 949
+modify, 1331, 4, 0, 10, 0, 8, 1
+modify, 907, 4, 2, 3, 1, 2, 1
+cancel, 273
+place, Arnold Lindsey, 4, 1, 8, 0, 9, 2
+place, Carolyn Figueroa, 14, 2, 14, 2, 11, 2
+modify, 531, 2, 1, 12, 0, 6, 2
+modify, 488, 8, 1, 14, 1, 5, 2
+modify, 313, 2, 1, 11, 2, 14, 0
+place, Carol Thomas, 5, 2, 7, 0, 5, 0
+cancel, 1627
+cancel, 1361
+cancel, 293
+place, Anna Long, 5, 0, 3, 1, 5, 1
+place, Jerry White, 11, 2, 8, 2, 15, 1
+cancel, 1392
+place, Paul Kyle, 13, 2, 7, 1, 10, 0
+place, Lester Hillebrand, 4, 0, 8, 1, 12, 1
+place, Sherron Vazquez, 11, 0, 11, 1, 12, 2
+place, Ellen Hawley, 3, 1, 14, 1, 2, 1
+place, Helen Noble, 11, 2, 14, 0, 10, 0
+place, Lindsey Blas, 8, 1, 12, 2, 8, 1
+modify, 778, 8, 0, 7, 1, 4, 2
+modify, 168, 2, 1, 2, 0, 6, 1
+cancel, 1066
+cancel, 1174
+place, Teresa Neang, 14, 2, 1, 0, 1, 0
+cancel, 803
+place, Richard Daniel, 7, 2, 8, 0, 7, 2
+cancel, 167
+cancel, 301
+modify, 682, 9, 2, 14, 0, 12, 0
+modify, 862, 6, 0, 6, 2, 13, 0
+cancel, 1127
+modify, 1456, 8, 2, 5, 0, 7, 1
+cancel, 478
+place, Daphne Wilfong, 9, 0, 10, 1, 6, 1
+cancel, 86
+place, Adrianne Riggs, 5, 2, 12, 2, 13, 1
+cancel, 1478
+modify, 616, 8, 0, 6, 0, 14, 0
+modify, 987, 5, 0, 12, 2, 13, 2
+place, Ashley Brown, 10, 2, 12, 0, 13, 0
+modify, 181, 14, 0, 10, 0, 6, 0
+modify, 422, 12, 0, 2, 1, 10, 1
+place, Wayne Penrod, 13, 0, 1, 0, 12, 1
+place, Diane Antal, 10, 1, 11, 0, 3, 0
+modify, 257, 9, 2, 12, 1, 13, 1
+cancel, 389
+cancel, 973
+cancel, 933
+cancel, 981
+modify, 716, 6, 1, 14, 1, 15, 1
+place, Rachel Foreman, 4, 1, 15, 1, 6, 1
+place, Darren Holbrook, 2, 0, 11, 0, 8, 0
+cancel, 1594
+modify, 273, 7, 1, 8, 2, 7, 1
+modify, 542, 5, 2, 12, 0, 3, 1
+cancel, 1606
+modify, 1105, 5, 0, 1, 0, 7, 0
+cancel, 168
+cancel, 811
+place, Helen Person, 11, 2, 6, 2, 9, 2
+place, Paul Ogaldez, 13, 2, 3, 1, 10, 2
+cancel, 1050
+cancel, 480
+modify, 761, 7, 2, 4, 2, 12, 2
+cancel, 189
+place, Latisha Williams, 10, 2, 11, 2, 12, 1
+place, Frances Lombardi, 13, 2, 3, 1, 6, 2
+cancel, 365
+cancel, 211
+modify, 1516, 5, 1, 4, 2, 11, 1
+cancel, 384
+cancel, 348
+cancel, 113
+place, Willard Lunt, 12, 0, 8, 0, 4, 0
+cancel, 984
+modify, 690, 13, 2, 8, 0, 11, 1
+place, Iva Tunnell, 12, 0, 5, 1, 8, 1
+place, John Jenkins, 13, 2, 1, 0, 14, 1
+place, Fatima Dooley, 5, 2, 4, 1, 2, 1
+modify, 1250, 3, 1, 5, 1, 11, 2
+cancel, 553
+place, Margarett Martinez, 14, 0, 8, 0, 12, 2
+place, Angie Fern, 14, 2, 10, 1, 9, 1
+cancel, 1208
+cancel, 1205
+cancel, 1403
+place, John Brewer, 2, 1, 1, 0, 4, 0
+cancel, 1033
+modify, 1381, 4, 1, 12, 0, 13, 0
+place, Patricia Oliver, 3, 0, 5, 0, 3, 2
+place, Concepcion Chamberlain, 12, 2, 2, 1, 3, 2
+modify, 946, 14, 0, 2, 0, 9, 0
+place, Lorraine Crim, 6, 0, 1, 1, 1, 1
+place, Edith Bowen, 5, 0, 14, 2, 4, 2
+place, Mary Redden, 7, 0, 15, 0, 5, 1
+place, Charles Whit, 3, 2, 7, 0, 7, 1
+cancel, 312
+cancel, 1419
+modify, 58, 10, 1, 10, 0, 2, 2
+place, Billy Spencer, 5, 0, 2, 2, 4, 0
+modify, 879, 12, 0, 15, 0, 12, 2
+cancel, 331
+place, James Farris, 12, 0, 15, 0, 14, 2
+cancel, 1085
+modify, 385, 6, 2, 11, 0, 6, 1
+cancel, 117
+place, Zachary Bryan, 2, 1, 5, 2, 10, 1
+cancel, 370
+place, Billy Howard, 12, 2, 3, 0, 2, 2
+place, Barbara Mccluskey, 3, 1, 10, 0, 2, 1
+place, Robert Moore, 1, 1, 8, 0, 12, 2
+modify, 865, 4, 0, 8, 2, 2, 2
+modify, 1028, 11, 0, 2, 0, 3, 2
+place, Brian Loredo, 11, 2, 9, 0, 6, 2
+modify, 1446, 2, 1, 15, 1, 13, 1
+modify, 1291, 5, 1, 10, 0, 2, 0
+cancel, 1389
+modify, 260, 6, 2, 8, 0, 6, 1
+cancel, 663
+modify, 850, 7, 0, 13, 0, 3, 0
+cancel, 173
+cancel, 229
+modify, 166, 8, 1, 14, 1, 15, 1
+modify, 1244, 15, 2, 5, 2, 3, 2
+cancel, 1487
+place, Rita Sanchez, 5, 1, 12, 2, 9, 1
+modify, 186, 12, 1, 9, 1, 10, 1
+modify, 1476, 11, 0, 7, 0, 5, 2
+cancel, 942
+cancel, 283
+cancel, 283
+cancel, 738
+cancel, 733
+place, Larry Douglas, 5, 0, 8, 2, 4, 0
+place, William Ovitt, 7, 1, 11, 0, 8, 0
+modify, 38, 11, 0, 14, 2, 3, 0
+place, Charles Gumina, 1, 0, 7, 1, 11, 1
+cancel, 1153
+cancel, 56
+modify, 911, 3, 2, 6, 0, 4, 1
