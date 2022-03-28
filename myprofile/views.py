@@ -1,7 +1,8 @@
 from django.http import JsonResponse
-from myprofile.models import Inventory, Orders
+from myprofile.models import Inventory, Orders, Bills
 from django.db import transaction
 from myprofile.tasks import bill, notification
+from myproject.settings import KAFKA_PRODUCER, KAFKA_CONSUMER
 import random
 import names
 
@@ -46,6 +47,7 @@ def createdata(request):
 def runsimulation(request):
     if request.method == "GET":
         filename = request.GET["filename"]
+        broker = request.GET["broker"]
         with open(f"data/{filename}", "r") as file:
             for order in file:
                 if order == "\n":
@@ -87,8 +89,18 @@ def runsimulation(request):
                             ord.modified = 0
                             ord.status = "in process"
                             ord.save()
-                        bill.delay(ord.id, "retail")
-                        notification.delay(ord.id, "placed")
+                        if broker == "rabbitmq":
+                            bill.delay(ord.id, "retail")
+                            notification.delay(ord.id, "placed")
+                        elif broker == "kafka":
+                            key = bytes("bill", encoding='utf-8')
+                            value = bytes(f"{ord.id},retail", encoding='utf-8')
+                            KAFKA_PRODUCER.send('orders', key=key, value=value)
+                            key = bytes("notification", encoding='utf-8')
+                            value = bytes(f"{ord.id},placed", encoding='utf-8')
+                            KAFKA_PRODUCER.send('orders', key=key, value=value)
+                        else:
+                            return JsonResponse({"error": "broker invalid"})
                     except:
                         print("order not placed")
                 elif words[0] == "modify":
@@ -139,7 +151,14 @@ def runsimulation(request):
                             ord.count3 = count3
                             ord.modified += 1
                             ord.save()
-                        bill.delay(ord.id, "retail")
+                        if broker == "rabbitmq":
+                            bill.delay(ord.id, "retail")
+                        elif broker == "kafka":
+                            key = bytes("bill", encoding='utf-8')
+                            value = bytes(f"{ord.id},retail", encoding='utf-8')
+                            KAFKA_PRODUCER.send('orders', key=key, value=value)
+                        else:
+                            return JsonResponse({"error": "broker invalid"})
                     except:
                         print("order not modified")
                 elif words[0] == "cancel":
@@ -164,10 +183,66 @@ def runsimulation(request):
                             # Order Cancelled
                             ord.status = "cancelled"
                             ord.save()
-                        bill.delay(ord.id, "refund")
+                        if broker == "rabbitmq":
+                            bill.delay(ord.id, "refund")
+                        elif broker == "kafka":
+                            key = bytes("bill", encoding='utf-8')
+                            value = bytes(f"{ord.id},refund", encoding='utf-8')
+                            KAFKA_PRODUCER.send('orders', key=key, value=value)
+                        else:
+                            return JsonResponse({"error": "broker invalid"})
                     except:
                         print("order not cancelled")
                 else:
                     return JsonResponse({"error": "order type invalid"})
         return JsonResponse({"error": "none"})
+    return JsonResponse({"error": "method not supported"})
+
+def runkafkaserver(request):
+    if request.method == "GET":
+        while True:
+            for msg in KAFKA_CONSUMER:
+                if msg.key.decode("utf-8") == "bill":
+                    args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
+                    orderid = args[0]
+                    type = args[1]
+                    ord = Orders.objects.get(id=orderid)
+                    inv1 = Inventory.objects.get(id=ord.item1id)
+                    inv2 = Inventory.objects.get(id=ord.item2id)
+                    inv3 = Inventory.objects.get(id=ord.item3id)
+                    totalcost = inv1.unitcost * ord.count1 + inv2.unitcost * ord.count2 + inv3.unitcost * ord.count3
+                    modified = ord.modified
+                    bll = Bills()
+                    bll.orderid = orderid
+                    bll.totalcost = totalcost
+                    bll.modified = modified
+                    bll.type = type
+                    bll.save()
+                    if type == "retail":
+                        key = bytes("fulfill", encoding='utf-8')
+                        value = bytes(f"{bll.id}", encoding='utf-8')
+                        KAFKA_PRODUCER.send('orders', key=key, value=value)
+                    elif type == "refund":
+                        key = bytes("notification", encoding='utf-8')
+                        value = bytes(f"{orderid},refunded", encoding='utf-8')
+                        KAFKA_PRODUCER.send('orders', key=key, value=value)
+                    else:
+                        print("bill type invalid")
+                elif msg.key.decode("utf-8") == "fulfill":
+                    args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
+                    billid = args[0]
+                    bll = Bills.objects.get(id=billid)
+                    ord = Orders.objects.get(id=bll.orderid)
+                    if ord.modified == bll.modified and ord.status == "in process":
+                        ord.status = "shipped"
+                        ord.save()
+                        key = bytes("notification", encoding='utf-8')
+                        value = bytes(f"{ord.id},shipped", encoding='utf-8')
+                        KAFKA_PRODUCER.send('orders', key=key, value=value)
+                elif msg.key.decode("utf-8") == "notification":
+                    args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
+                    orderid = args[0]
+                    type = args[1]
+                    with open("data/notifications.out", "a") as file:
+                        file.write(f"{type} | OrderID: {orderid}\n")
     return JsonResponse({"error": "method not supported"})

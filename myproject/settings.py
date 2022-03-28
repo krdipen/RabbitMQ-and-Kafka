@@ -11,6 +11,10 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
+from kafka import KafkaConsumer, KafkaProducer
+KAFKA_PRODUCER = KafkaProducer(bootstrap_servers=['10.17.50.173:9092'])
+KAFKA_PRODUCER.send('orders', key=b"key", value=b"value")
+KAFKA_CONSUMER = KafkaConsumer('orders', group_id ='amazon', bootstrap_servers=['10.17.50.173:9092'], consumer_timeout_ms=1000)
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent

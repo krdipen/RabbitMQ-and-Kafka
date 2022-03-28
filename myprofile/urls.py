@@ -5,4 +5,5 @@ from myprofile import views
 urlpatterns = [
     path("createdata", views.createdata),
     path("runsimulation", views.runsimulation),
+    path("runkafkaserver", views.runkafkaserver),
 ]
