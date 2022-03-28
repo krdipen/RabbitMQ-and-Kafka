@@ -34,4 +34,4 @@ def bill(orderid, type):
     elif type == "refund":
         notification.delay(orderid, "refunded")
     else:
-        print("bill type invalid")
+        pass # print("bill type invalid")
