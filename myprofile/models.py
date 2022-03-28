@@ -7,6 +7,8 @@ class Inventory(models.Model):
     variant = models.CharField(max_length=1, null=True, blank=True)
 
 class Orders(models.Model):
+    dateCreated = models.DateTimeField(auto_now_add=True, null=True, blank=True)
+    dateModified = models.DateTimeField(auto_now=True, null=True, blank=True)
     customername = models.CharField(max_length=250, null=True, blank=True)
     item1id = models.IntegerField(null=True, blank=True)
     count1 = models.IntegerField(null=True, blank=True)

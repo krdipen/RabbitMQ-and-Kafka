@@ -8,6 +8,7 @@ import names
 import time
 from datetime import datetime
 from pytz import timezone
+import threading  
 
 class OrderStatusFixed(Exception):
     pass
@@ -49,9 +50,9 @@ def createdata(request):
 
 def runsimulation(request):
     if request.method == "GET":
+        start = time.time()
         now_utc = datetime.now(timezone('UTC'))
         now_asia = now_utc.astimezone(timezone('Asia/Kolkata'))
-        start = time.time()
         filename = request.GET["filename"]
         broker = request.GET["broker"]
         with open(f"data/{filename}", "r") as file:
@@ -205,57 +206,85 @@ def runsimulation(request):
         return JsonResponse({"time": f"{str(end - start)}", "start": f"{str(now_asia.strftime('%Y-%m-%d %H:%M:%S.%f'))}"})
     return JsonResponse({"error": "method not supported"})
 
+def kafka(msg):
+    if msg.key.decode("utf-8") == "bill":
+        args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
+        orderid = args[0]
+        type = args[1]
+        ord = Orders.objects.get(id=orderid)
+        inv1 = Inventory.objects.get(id=ord.item1id)
+        inv2 = Inventory.objects.get(id=ord.item2id)
+        inv3 = Inventory.objects.get(id=ord.item3id)
+        totalcost = inv1.unitcost * ord.count1 + inv2.unitcost * ord.count2 + inv3.unitcost * ord.count3
+        modified = ord.modified
+        bll = Bills()
+        bll.orderid = orderid
+        bll.totalcost = totalcost
+        bll.modified = modified
+        bll.type = type
+        bll.save()
+        if type == "retail":
+            key = bytes("fulfill", encoding='utf-8')
+            value = bytes(f"{bll.id}", encoding='utf-8')
+            KAFKA_PRODUCER.send('orders', key=key, value=value)
+        elif type == "refund":
+            key = bytes("notification", encoding='utf-8')
+            value = bytes(f"{orderid},refunded", encoding='utf-8')
+            KAFKA_PRODUCER.send('orders', key=key, value=value)
+        else:
+            pass # print("bill type invalid")
+    elif msg.key.decode("utf-8") == "fulfill":
+        args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
+        billid = args[0]
+        bll = Bills.objects.get(id=billid)
+        ord = Orders.objects.get(id=bll.orderid)
+        if ord.modified == bll.modified and ord.status == "in process":
+            ord.status = "shipped"
+            ord.save()
+            key = bytes("notification", encoding='utf-8')
+            value = bytes(f"{ord.id},shipped", encoding='utf-8')
+            KAFKA_PRODUCER.send('orders', key=key, value=value)
+    elif msg.key.decode("utf-8") == "notification":
+        args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
+        orderid = args[0]
+        type = args[1]
+        with open("data/notifications.out", "a") as file:
+            file.write(f"{type} | OrderID: {orderid}\n")
+
 def runkafkaserver(request):
     if request.method == "GET":
         start = time.time()
-        stop = request.GET["stop"]
+        mode = request.GET["mode"]
+        concurrency = request.GET["concurrency"]
+        if mode == "clean":
+            list(KAFKA_CONSUMER)
+            msg = []
+            for i in range(10):
+                msg.extend(list(KAFKA_CONSUMER))
+            status = "cleaned" if len(msg) == 0 else "dirty"
+            return JsonResponse({"status": f"{str(status)}"})
+        threads = []
+        is_alive = [0] * concurrency
         while True:
+            dirty = False
+            for i in range(concurrency):
+                is_alive[i] = 1 if i < len(threads) and threads[i].is_alive() else 0
             for msg in KAFKA_CONSUMER:
-                if msg.key.decode("utf-8") == "bill":
-                    args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
-                    orderid = args[0]
-                    type = args[1]
-                    ord = Orders.objects.get(id=orderid)
-                    inv1 = Inventory.objects.get(id=ord.item1id)
-                    inv2 = Inventory.objects.get(id=ord.item2id)
-                    inv3 = Inventory.objects.get(id=ord.item3id)
-                    totalcost = inv1.unitcost * ord.count1 + inv2.unitcost * ord.count2 + inv3.unitcost * ord.count3
-                    modified = ord.modified
-                    bll = Bills()
-                    bll.orderid = orderid
-                    bll.totalcost = totalcost
-                    bll.modified = modified
-                    bll.type = type
-                    bll.save()
-                    if type == "retail":
-                        key = bytes("fulfill", encoding='utf-8')
-                        value = bytes(f"{bll.id}", encoding='utf-8')
-                        KAFKA_PRODUCER.send('orders', key=key, value=value)
-                    elif type == "refund":
-                        key = bytes("notification", encoding='utf-8')
-                        value = bytes(f"{orderid},refunded", encoding='utf-8')
-                        KAFKA_PRODUCER.send('orders', key=key, value=value)
-                    else:
-                        pass # print("bill type invalid")
-                elif msg.key.decode("utf-8") == "fulfill":
-                    args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
-                    billid = args[0]
-                    bll = Bills.objects.get(id=billid)
-                    ord = Orders.objects.get(id=bll.orderid)
-                    if ord.modified == bll.modified and ord.status == "in process":
-                        ord.status = "shipped"
-                        ord.save()
-                        key = bytes("notification", encoding='utf-8')
-                        value = bytes(f"{ord.id},shipped", encoding='utf-8')
-                        KAFKA_PRODUCER.send('orders', key=key, value=value)
-                elif msg.key.decode("utf-8") == "notification":
-                    args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
-                    orderid = args[0]
-                    type = args[1]
-                    with open("data/notifications.out", "a") as file:
-                        file.write(f"{type} | OrderID: {orderid}\n")
-            if stop == "true":
-                break
+                dirty = True
+                if len(threads) < concurrency:
+                    threads.append(threading.Thread(target=kafka, args=(msg,)))
+                    threads[-1].start()
+                    continue
+                i = 0
+                while True:
+                    i = (i + 1) % concurrency
+                    if not threads[i].is_alive():
+                        threads[i] = threading.Thread(target=kafka, args=(msg,))
+                        threads[i].start()
+                        break
+            if mode == "work":
+                if not (sum(is_alive) or dirty):
+                    break
         end = time.time()
         return JsonResponse({"time": f"{str(end - start)}"})
     return JsonResponse({"error": "method not supported"})
