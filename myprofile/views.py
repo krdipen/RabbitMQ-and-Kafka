@@ -6,6 +6,8 @@ from myproject.settings import KAFKA_PRODUCER, KAFKA_CONSUMER
 import random
 import names
 import time
+from datetime import datetime
+from pytz import timezone
 
 class OrderStatusFixed(Exception):
     pass
@@ -47,6 +49,8 @@ def createdata(request):
 
 def runsimulation(request):
     if request.method == "GET":
+        now_utc = datetime.now(timezone('UTC'))
+        now_asia = now_utc.astimezone(timezone('Asia/Kolkata'))
         start = time.time()
         filename = request.GET["filename"]
         broker = request.GET["broker"]
@@ -198,7 +202,7 @@ def runsimulation(request):
                 else:
                     return JsonResponse({"error": "order type invalid"})
         end = time.time()
-        return JsonResponse({"time": f"{str(end - start)}", "start": f"{str(start)}"})
+        return JsonResponse({"time": f"{str(end - start)}", "start": f"{str(now_asia.strftime('%Y-%m-%d %H:%M:%S.%f'))}"})
     return JsonResponse({"error": "method not supported"})
 
 def runkafkaserver(request):
