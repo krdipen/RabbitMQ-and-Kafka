@@ -255,7 +255,7 @@ def runkafkaserver(request):
     if request.method == "GET":
         start = time.time()
         mode = request.GET["mode"]
-        concurrency = request.GET["concurrency"]
+        concurrency = int(request.GET["concurrency"])
         if mode == "clean":
             list(KAFKA_CONSUMER)
             msg = []
