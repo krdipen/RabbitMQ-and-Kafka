@@ -104,7 +104,7 @@ def runsimulation(request):
                         else:
                             return JsonResponse({"error": "broker invalid"})
                     except:
-                        print("order not placed")
+                        pass # print("order not placed")
                 elif words[0] == "modify":
                     id = int(words[1])
                     item1id = int(words[2])
@@ -162,7 +162,7 @@ def runsimulation(request):
                         else:
                             return JsonResponse({"error": "broker invalid"})
                     except:
-                        print("order not modified")
+                        pass # print("order not modified")
                 elif words[0] == "cancel":
                     id = int(words[1])
                     try:
@@ -194,7 +194,7 @@ def runsimulation(request):
                         else:
                             return JsonResponse({"error": "broker invalid"})
                     except:
-                        print("order not cancelled")
+                        pass # print("order not cancelled")
                 else:
                     return JsonResponse({"error": "order type invalid"})
         end = time.time()
@@ -230,7 +230,7 @@ def runkafkaserver(request):
                     value = bytes(f"{orderid},refunded", encoding='utf-8')
                     KAFKA_PRODUCER.send('orders', key=key, value=value)
                 else:
-                    print("bill type invalid")
+                    pass # print("bill type invalid")
             elif msg.key.decode("utf-8") == "fulfill":
                 args = [arg.strip() for arg in msg.value.decode("utf-8").split(',')]
                 billid = args[0]
