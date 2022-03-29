@@ -1,6 +1,6 @@
 from django.http import JsonResponse
 from myprofile.models import Inventory, Orders, Bills
-from django.db import transaction
+from django.db import transaction, connection
 from myprofile.tasks import bill, notification
 from myproject.settings import KAFKA_PRODUCER, KAFKA_CONSUMER
 import random
@@ -8,7 +8,7 @@ import names
 import time
 from datetime import datetime
 from pytz import timezone
-import threading  
+import threading
 
 class OrderStatusFixed(Exception):
     pass
@@ -250,6 +250,9 @@ def kafka(msg):
         type = args[1]
         with open("data/notifications.out", "a") as file:
             file.write(f"{type} | OrderID: {orderid}\n")
+    else:
+        pass
+    connection.close()
 
 def runkafkaserver(request):
     if request.method == "GET":
