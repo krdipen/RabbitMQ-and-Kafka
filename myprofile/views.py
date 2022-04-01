@@ -266,6 +266,13 @@ def runkafkaserver(request):
                 msg.extend(list(KAFKA_CONSUMER))
             status = "cleaned" if len(msg) == 0 else "dirty"
             return JsonResponse({"status": f"{str(status)}"})
+        if concurrency == 0:
+            while True:
+                for msg in KAFKA_CONSUMER:
+                    kafka(msg)
+                if mode == "work":
+                    end = time.time()
+                    return JsonResponse({"time": f"{str(end - start)}"})
         threads = []
         is_alive = [0] * concurrency
         while True:
